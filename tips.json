@@ -746,26 +746,6 @@
    "last_seen": "2026-11-19T14:48:09Z"
   },
   {
-   "id": "t-ba055fb6",
-   "title": "Keep motion blur on at 30fps",
-   "body": "The game runs at 30fps on base PS5 and PS5 Pro with no performance mode. The creator says a bit of motion blur helps it look smoother, so keep the default of 3, or raise it slightly if 30fps feels rough.",
-   "category": "settings",
-   "spoiler": false,
-   "hint": null,
-   "unverified": false,
-   "steps": null,
-   "steps_source": null,
-   "enrich_tried": null,
-   "sources": [
-    {
-     "name": "YouTube: Octorious",
-     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
-    }
-   ],
-   "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
-  },
-  {
    "id": "t-bba3c633",
    "title": "Register the Eclipse at Moses' garage",
    "body": "In Chapter 2 you can bring the Eclipse to Moses' garage shop and register it so it is yours for the rest of the playthrough. The creator paid $6,750 to register it. You could also sell it instead.",
@@ -873,34 +853,6 @@
     {
      "name": "Instagram: @advursityy",
      "url": "https://www.instagram.com/reel/Df6NIQbB6ej/"
-    }
-   ],
-   "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
-  },
-  {
-   "id": "t-ddbd1e6c",
-   "title": "Turn motion blur to zero",
-   "body": "Motion blur makes spinning the camera look smeared and can make you queasy. Setting it to zero clears the picture, and the creator says 30 FPS looks fine without it.",
-   "category": "settings",
-   "spoiler": false,
-   "hint": null,
-   "unverified": false,
-   "steps": [
-    "Open the settings menu",
-    "Go to Display",
-    "Set motion blur to 0"
-   ],
-   "steps_source": null,
-   "enrich_tried": null,
-   "sources": [
-    {
-     "name": "Instagram: @whistrey_",
-     "url": "https://www.instagram.com/reel/Df481-qCGFi/"
-    },
-    {
-     "name": "Instagram: @kod12yt_",
-     "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
