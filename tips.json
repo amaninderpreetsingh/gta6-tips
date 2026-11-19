@@ -1,6 +1,718 @@
 {
- "updated": "2026-11-19T00:46:10Z",
+ "updated": "2026-11-19T05:59:07Z",
  "tips": [
+  {
+   "id": "t-03e7281e",
+   "title": "Double tap left blinker for radio",
+   "body": "A commenter says double tapping the left indicator toggles the car radio on and off.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xzqn6v/how_to_use_your_indicators/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-14ef646c",
+   "title": "High contrast shaders make you glow",
+   "body": "Turning on high contrast shaders makes your character glow bright yellow, so you don't lose yourself in a fight. There are also a motion blur slider and a dismemberment toggle in the same menus.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @flushablejam",
+     "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-1592b09d",
+   "title": "Drug stores sell adrenaline boosts",
+   "body": "The right drug store sells something that temporarily boosts your adrenaline and focus. Handy to grab before a big fight.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-1d63216b",
+   "title": "How to enter cheat codes",
+   "body": "Cheats only work after you finish the story, and each code has its own unlock condition. Activating a cheat disables saving for the rest of the session and blocks achievements, so save first. Polygon only tested this on PS5.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Finish the story and reload your save",
+    "Open Map, tab to Progression and scroll to Cheats",
+    "Meet a cheat's unlock condition to reveal its code",
+    "Press up on the D-pad to open your phone",
+    "Hold L1 and R1 on the home screen",
+    "Enter the code with the D-pad"
+   ],
+   "sources": [
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-238f1ea5",
+   "title": "Climb the tallest Vice City tower",
+   "body": "Scale the tallest tower in Vice City, about seven minutes of climbing by one player's count. At the top you can take an egg from a nest and throw it.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-2f0f1f26",
+   "title": "Phone in tight corners can clip walls",
+   "body": "Speedrunners report that opening your phone while wedged in a tight corner can let you clip through floors and walls. Unconfirmed, and it may break your save.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/gtaglitches",
+     "url": "https://www.reddit.com/comments/1xzyf4e"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-35447dd8",
+   "title": "Search car trunks for loot",
+   "body": "Check the trunks of cars that don't have an alarm for extra loot. Police cars can have good weapons early on.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    },
+    {
+     "name": "Instagram: @roddy_game",
+     "url": "https://www.instagram.com/reel/Df4rGVYtKrA/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-3556df2e",
+   "title": "Call Joey to fix your car",
+   "body": "Your car burns fuel, so top up before long drives. If it gets wrecked, call Joey from your contacts and he repairs it and brings it back for free. The car gets parked nearby, not right in front of you, so look around.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @abtw.yt",
+     "url": "https://www.instagram.com/reel/Df5y5s0JWan/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y00880/tips_your_first_few_hours_in_the_keys/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-3d69227e",
+   "title": "Turn on stand and sprint",
+   "body": "With stand and sprint on, you stand up automatically when you start sprinting instead of staying crouched.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @flushablejam",
+     "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-4395108a",
+   "title": "Early cash at Three Sheets Liquor",
+   "body": "After the rum errand for your neighbor Shirley, the liquor store has over $1,000 hidden near the generator plus a back room safe. Together that is nearly $4,000 right at the start.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Do Shirley's side quest and bring her the rum",
+    "Go back to Three Sheets Liquor",
+    "Ask the parrot where the cash is",
+    "Open the grate in the generator door and take the cash",
+    "Break open the safe in the back room"
+   ],
+   "sources": [
+    {
+     "name": "Instagram: @misleadingyt",
+     "url": "https://www.instagram.com/reel/Df5bqTusFd3/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-4ce259bc",
+   "title": "Buy body armor at the gun shop",
+   "body": "Buy body armor at the gun shop and equip it from the weapon wheel before a shootout. It keeps you alive much longer.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-52cf2bb8",
+   "title": "New Zealand trick to play early",
+   "body": "Set your Xbox Series X or S location to New Zealand and restart the console to play before the US launch. On PS5 you need a separate PSN account for it.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "SlashGear",
+     "url": "https://www.slashgear.com/2321305/gta-6-how-to-play-game-early-console-trick/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-5f658a73",
+   "title": "Focus Mode shows door alarms",
+   "body": "Point Focus Mode at a door before going in. A white highlight means you can enter, red means it is wired to an alarm.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "FandomWire",
+     "url": "https://fandomwire.com/gta-6-best-beginner-tips-for-a-head-start-ranked/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-61cfc984",
+   "title": "Set movement speed to jog",
+   "body": "Setting movement speed to jog makes you move at a brisk jog when you push the stick all the way. It is much faster than the default walk.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @flushablejam",
+     "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-630d4239",
+   "title": "Mute licensed music for clips",
+   "body": "There is a setting that mutes the real licensed songs in the game. Turn it on if you stream or post clips, since licensed songs are what usually get videos claimed.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @flushablejam",
+     "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-6793af40",
+   "title": "Turn on auto low latency mode",
+   "body": "Switch on your TV's auto low latency mode (ALLM) for the best response. Also cycle through the picture modes and pick the one that looks best to you.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @developeradam",
+     "url": "https://www.instagram.com/reel/Df1zX2lRk9t/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-7c33f1e9",
+   "title": "Sports cars outside nightclubs need speed",
+   "body": "Some of the best sports cars, the ones outside nightclubs, make you keep a certain speed or the cops start tracking you. Other cars need a manual refuel or an electric charge, and some need a phone hack instead of a smashed window.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-880c5d09",
+   "title": "Break into police car trunks for guns",
+   "body": "Slowly breaking into the back of a police car can get you guns, including a shotgun and a rifle. Do it when no cops are watching.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @itssmro",
+     "url": "https://www.instagram.com/reel/Df42gPYB2c9/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-897a3ca7",
+   "title": "Staff area safe and cameras in robberies",
+   "body": "After taking the register cash, head to the staff area for an extra safe with more money. Destroying the security footage and security system makes it harder for the police to find you.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-92a6f50f",
+   "title": "Free focus and stamina boosts",
+   "body": "Small everyday actions give temporary boosts. Feed your snake Dolores, drink coffee, grab a snack or a drink from the fridge, or run an errand for a neighbor like fetching her rum, and you get focus or stamina or health back.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @abtw.yt",
+     "url": "https://www.instagram.com/reel/Df5y5s0JWan/"
+    },
+    {
+     "name": "Instagram: @lukogrand",
+     "url": "https://www.instagram.com/reel/Df4vxXVBnTL/"
+    },
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=D_ViXEE1ClA"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-98223496",
+   "title": "Tap R3 to provoke NPC drivers",
+   "body": "While driving, tap R3 to provoke other NPCs.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xzqn6v/how_to_use_your_indicators/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-995ad989",
+   "title": "Headphones let you hear radio on foot",
+   "body": "The headphones from the electronics store are not just cosmetic. Wearing them keeps the radio playing while you walk around.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-a4b3b224",
+   "title": "Each area has its own police",
+   "body": "Police cars differ by region: Vice Beach, the city across the bay, Vice Dale county police, Sheriff country and highway patrol. County police are the only force seen with their own helicopter. Check where you are before starting a chase.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @roddy_game",
+     "url": "https://www.instagram.com/reel/DfvNKFUNC6j/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-a77e110f",
+   "title": "Tasers drain your stamina",
+   "body": "At two stars cops carry tasers and spread out. A taser hit stuns you and empties the base stamina bar, then two cops rush in to restrain you. Working out raises stamina and helps.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y00880/tips_your_first_few_hours_in_the_keys/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-b398b08b",
+   "title": "Snappier aim with linear response",
+   "body": "Set look acceleration and aim acceleration to max and the aim response curve to linear. The camera then matches your stick movement right away instead of ramping up slowly.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "YouTube: Boomstick Gaming",
+     "url": "https://www.youtube.com/watch?v=Ej0fASAz9f4"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-b5263b6c",
+   "title": "Dexter's apartment on Washington Island",
+   "body": "Dexter Morgan's apartment is on Washington Island in Vice City, near the Vice Beach Top Fun Drones shop. You can't go inside, but a boat docked nearby looks like his Slice of Life.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-bf0814e4",
+   "title": "Change language to return home",
+   "body": "Changing the language in Settings reloads the game and puts you back at your home. It saves a long trip if you are stranded far away or on an island. Likely not intended, so it may get patched.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1xzxnnx"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-c2e72201",
+   "title": "Parrots point to hidden cash",
+   "body": "At the parrot robbery spot, talk to the parrot after clearing the guards and it tells you where more cash is. Open the safe in the back room, then open the generator the parrot mentions for another $1,000. Don't provoke the parrot, and do it before the cops take the bird and the loot.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go around the building and jump the fence",
+    "Take out the people near the parrots",
+    "Open the safe in the back room",
+    "Go back and talk to the parrot",
+    "Open the generator it names for the cash"
+   ],
+   "sources": [
+    {
+     "name": "Instagram: @shooteverytok",
+     "url": "https://www.instagram.com/reel/Df51scKp1OG/"
+    },
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=D_ViXEE1ClA"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-c5214478",
+   "title": "Mission payouts land in the mailbox",
+   "body": "Early mission payouts are delivered to the mailbox outside Jason's house, not to your pocket. Check it after missions so you don't leave money sitting there.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df41PRNkqP8/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-cf11ad31",
+   "title": "Layer clothes for more looks",
+   "body": "Hood up and down options plus layering give you 4 or more looks from the same outfit.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1xzzs1p"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-db6dcfa5",
+   "title": "Targeting and aim assist are separate",
+   "body": "Targeting (partial, lock on, free aim) controls how your aim moves toward a nearby target. Aim assist strength is its own slider and controls how much the game helps you track a target once you are on it. Partial targeting with aim assist at 4 feels good, or use free aim with aim assist maxed.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "Instagram: @flushablejam",
+     "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-e2e0636b",
+   "title": "Your partner bond depends on your actions",
+   "body": "Holding hands and going to bars strengthens Jason and Lucia's bond. Getting too handsy at the strip club or abandoning your partner in a police shootout damages it.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-e956d5d7",
+   "title": "Turn weapon sway off",
+   "body": "Under camera settings, comfort, turn weapon sway off so the crosshair stays still when you stand. Click the right stick while aiming to tighten the view, and add a sight to get a toggleable first person aim.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "YouTube: Boomstick Gaming",
+     "url": "https://www.youtube.com/watch?v=Ej0fASAz9f4"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-ef233183",
+   "title": "Cycle controller to fix Series S audio",
+   "body": "If the audio goes weird and stays that way on Series S, turn your controller off and back on. Players say it fixes it.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1xztuu2"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-f79fe465",
+   "title": "Pelican Valley safe codes for SMG",
+   "body": "Reported chain left of Pelican Valley: turn on a generator, read a password in another room, use the computer's Cleaves option, then use the safe codes 0072 and 0212. It ends with a kitted SMG and a bag with $10,000, which you should take to Brian's lock up to keep. Codes may not match for everyone.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Find the small buildings left of Pelican Valley",
+    "Turn on the generator behind one",
+    "Find the computer password in another room",
+    "Pick Cleaves on the computer for a clue",
+    "Push off the crab that attacks",
+    "Enter 0072 on the safe for a password",
+    "Enter 0212 in the next building",
+    "Take the SMG and the cash bag to Brian's lock up"
+   ],
+   "sources": [
+    {
+     "name": "Instagram: @ytlukeyy",
+     "url": "https://www.instagram.com/reel/Df6Om2JIoZV/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
+  {
+   "id": "t-f8b18bc1",
+   "title": "Stash cash at home early",
+   "body": "There is no bank until a story mission unlocks it, so cash on you is lost if you die or get arrested. Hide it in the loose floorboard in Jason's bedroom or the stash at home, and do it often.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df41PRNkqP8/"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y00880/tips_your_first_few_hours_in_the_keys/"
+    }
+   ],
+   "first_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T05:59:07Z"
+  },
   {
    "id": "t-33324fd1",
    "title": "Set a waypoint without the map",
@@ -16,7 +728,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-3837e409",
@@ -33,7 +746,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-4561f0de",
@@ -50,7 +764,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-5cbe5279",
@@ -67,7 +782,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-662a4cb2",
@@ -84,7 +800,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-7490733f",
@@ -101,7 +818,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-8748355d",
@@ -118,7 +836,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-bd916313",
@@ -135,7 +854,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-d03c2897",
@@ -152,7 +872,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-e158ead6",
@@ -169,7 +890,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-e932b369",
@@ -183,10 +905,15 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": null
   },
   {
    "id": "t-fc2c9039",
@@ -203,7 +930,8 @@
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-063b69a7",
@@ -220,7 +948,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-07e0f55b",
@@ -237,7 +966,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-2ea103aa",
@@ -254,7 +984,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-376699e5",
@@ -271,7 +1002,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-3ad054b5",
@@ -288,7 +1020,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-3d49674d",
@@ -305,7 +1038,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-44cd97b3",
@@ -322,7 +1056,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-6568fbd1",
@@ -339,7 +1074,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-88e437e1",
@@ -356,7 +1092,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-bc2a8d5e",
@@ -373,7 +1110,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-d34b0264",
@@ -390,7 +1128,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-e2d44710",
@@ -407,7 +1146,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-e3f01c13",
@@ -424,7 +1164,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-e5cbcf04",
@@ -441,7 +1182,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-f04b03b3",
@@ -458,7 +1200,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-f1c308a3",
@@ -472,10 +1215,15 @@
     {
      "name": "The Big Lead",
      "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+    },
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": null
   },
   {
    "id": "t-fde6be74",
@@ -492,7 +1240,8 @@
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-5ad51e09",
@@ -509,7 +1258,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:12:00Z",
-   "last_seen": "2026-11-18T19:12:00Z"
+   "last_seen": "2026-11-18T19:12:00Z",
+   "steps": null
   },
   {
    "id": "t-87b72878",
@@ -526,7 +1276,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:12:00Z",
-   "last_seen": "2026-11-18T19:12:00Z"
+   "last_seen": "2026-11-18T19:12:00Z",
+   "steps": null
   },
   {
    "id": "t-fbb81f58",
@@ -547,7 +1298,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:12:00Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-011182da",
@@ -565,10 +1317,19 @@
     {
      "name": "r/GTA",
      "url": "https://www.reddit.com/comments/1xzoner"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1xzw34x"
+    },
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y00ge4"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": null
   },
   {
    "id": "t-15eb6efa",
@@ -589,7 +1350,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-16e25c64",
@@ -606,7 +1368,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-23a071f4",
@@ -623,7 +1386,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-2d397c5c",
@@ -632,15 +1396,24 @@
    "category": "exploration",
    "spoiler": false,
    "hint": null,
-   "unverified": true,
+   "unverified": false,
    "sources": [
     {
      "name": "r/GTA",
      "url": "https://www.reddit.com/comments/1xzltvy"
+    },
+    {
+     "name": "Instagram: @spectrexgaming",
+     "url": "https://www.instagram.com/reel/Df47B2exCJ2/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y012am"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": null
   },
   {
    "id": "t-4731fb60",
@@ -657,7 +1430,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-58991844",
@@ -674,7 +1448,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-71d36ab3",
@@ -695,7 +1470,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-781433c2",
@@ -712,7 +1488,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-83f1d92e",
@@ -733,7 +1510,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T00:46:10Z"
+   "last_seen": "2026-11-19T00:46:10Z",
+   "steps": null
   },
   {
    "id": "t-841411a9",
@@ -750,7 +1528,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-85934e11",
@@ -771,7 +1550,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-88098d40",
@@ -788,7 +1568,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-8cd275eb",
@@ -805,7 +1586,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-a4e41651",
@@ -826,7 +1608,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-18T20:26:31Z",
+   "steps": null
   },
   {
    "id": "t-a754d25d",
@@ -843,7 +1626,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-a8658122",
@@ -860,7 +1644,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-b1861958",
@@ -877,7 +1662,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-b9b79d32",
@@ -894,7 +1680,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-c0c45fc2",
@@ -911,7 +1698,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-c36f383d",
@@ -928,7 +1716,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-c6f104a7",
@@ -942,10 +1731,22 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "Instagram: @ttymefromgta",
+     "url": "https://www.instagram.com/reel/Df47PRETjMP/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": [
+    "Press up on the D-pad to open your phone",
+    "Open the Wink app and point it at the car",
+    "Press the right bumper to scan it",
+    "Read the security pop-up at the bottom right",
+    "Smash the window with X if it only says locked",
+    "Hold the right stick up until the car starts"
+   ]
   },
   {
    "id": "t-c8216934",
@@ -962,7 +1763,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-e0ef476c",
@@ -979,7 +1781,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-eaf5bac9",
@@ -996,7 +1799,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-f701a10e",
@@ -1018,10 +1822,23 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "Instagram: @zemie_tv",
+     "url": "https://www.instagram.com/reel/Df5Pw3ZhMCU/"
+    },
+    {
+     "name": "PCMag",
+     "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "FandomWire",
+     "url": "https://fandomwire.com/gta-6-best-beginner-tips-for-a-head-start-ranked/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T20:26:31Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps": null
   },
   {
    "id": "t-f7045a98",
@@ -1038,7 +1855,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-f788e4b0",
@@ -1055,7 +1873,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   },
   {
    "id": "t-fc55e03c",
@@ -1072,7 +1891,8 @@
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-18T19:06:00Z",
+   "steps": null
   }
  ]
 }
