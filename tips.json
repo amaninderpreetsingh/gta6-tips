@@ -1,6 +1,210 @@
 {
- "updated": "2026-11-18T20:26:31Z",
+ "updated": "2026-11-19T00:46:10Z",
  "tips": [
+  {
+   "id": "t-33324fd1",
+   "title": "Set a waypoint without the map",
+   "body": "Hold Down for a view of nearby shops, waypoints and story missions, highlight one and press R3 to set GPS to it.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-3837e409",
+   "title": "See every story mission from the map",
+   "body": "Press the Touch Pad for the map, then Right on the index to list story missions. Must-do ones are at the top, optional ones below, and Cross sets a waypoint.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-4561f0de",
+   "title": "Easier combat and car damage options",
+   "body": "In Options > Settings > Gameplay, turn on Accessible Combat (you take less damage, enemies take more) and Reduced Vehicle Damage. They don't change the story or turn off Trophies.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-5cbe5279",
+   "title": "Find the nearest ATM fast",
+   "body": "Wallet cash is lost if you're Busted or Wasted, but BuckMe bank money is safe. Press Down to see both, then Up > BuckMe > ATM Finder routes you to the closest ATM.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-662a4cb2",
+   "title": "Blue wrench mod shops have special tuning",
+   "body": "Any mod shop sells basic upgrades, but specialist tuning is only at ones with a blue wrench icon. Find them in the map index under Vehicles > Mod Shops.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-7490733f",
+   "title": "Summon your car with Scooter Bros",
+   "body": "Press Up, open Scooter Bros and pick your car. It's dropped nearby and marked on the minimap. The fee depends on the distance and the car's condition.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-8748355d",
+   "title": "Hit the pink sweet spot to steal faster",
+   "body": "In the car break-in minigames (Slim Jim, Clone Key, hotwiring), move the sticks until you find the pink sweet spot. Landing it gets you in much quicker.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-bd916313",
+   "title": "Disable enemies instead of killing them",
+   "body": "Killing pushes your criminal profile toward aggressive. Grab enemies with R2 to knock them out, or hold L3 and R3 and shoot the yellow limbs. A yellow X means disabled, a red X means dead.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-d03c2897",
+   "title": "Reminders tab collects key messages",
+   "body": "Press Up for the phone, then Square for Reminders. It lists the important messages, including news and people waiting on a reply.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-e158ead6",
+   "title": "Buy garages for more car slots",
+   "body": "Parking a car in a parking space or garage only keeps it for a while. Registering needs a free stored vehicle slot, so sell old cars at Pay 'n' Spray or buy more garages in the Vice City Real Estate app.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-e932b369",
+   "title": "Switch to GTA 5 style controls",
+   "body": "The default layout puts run on L3 and jump on Cross. For the old GTA 5 layout, go to Options > Settings > Control Scheme and pick Classic.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
+  {
+   "id": "t-fc2c9039",
+   "title": "Skip a RydeMe ride",
+   "body": "Set a waypoint, press Up, open RydeMe and Book Ryde. Once you're in, hold L2 to focus on the driver and hold Triangle to skip the trip for about $100, more for longer rides.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    }
+   ],
+   "first_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T00:46:10Z"
+  },
   {
    "id": "t-063b69a7",
    "title": "Shove vehicles to move them",
@@ -522,10 +726,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z"
+   "last_seen": "2026-11-19T00:46:10Z"
   },
   {
    "id": "t-841411a9",
