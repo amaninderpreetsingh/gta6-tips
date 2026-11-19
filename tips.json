@@ -51,7 +51,7 @@
   {
    "id": "t-14ef646c",
    "title": "High contrast shaders make you glow",
-   "body": "High Contrast Shaders is in Settings > Display and is off by default. It colours people, items and interactables in the world in high contrast, and it has a Player Color toggle. The same Display tab has a Motion Blur Strength slider and a Dismemberment On/Off toggle. The guides I read don't say the player colour is yellow.",
+   "body": "High Contrast Shaders is in Settings > Display and is off by default. It colours people, items and interactables in the world in high contrast, and it has a Player Color toggle. The same Display tab has a Motion Blur Strength slider and a Dismemberment On/Off toggle.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -292,7 +292,7 @@
   {
    "id": "t-4ce259bc",
    "title": "Buy body armor at the gun shop",
-   "body": "Ammu-Nation sells body armor along with ammo and explosives. Stuff you buy there is sent to the trunk of your owned car. The guide doesn't say how to equip it, so check that in game.",
+   "body": "Ammu-Nation sells body armor along with ammo and explosives. Stuff you buy there is sent to the trunk of your owned car.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -316,7 +316,7 @@
   {
    "id": "t-52cf2bb8",
    "title": "New Zealand trick to play early",
-   "body": "On Xbox Series X or S, with a pre-order copy, set the console location to New Zealand and restart to play before the US launch. On PS5 it means a separate New Zealand PSN account with the game bought there. That game stays locked to that account, and some users reported suspensions, so the page advises waiting.",
+   "body": "On Xbox Series X or S, with a pre-order copy, set the console location to New Zealand and restart to play before the US launch. On PS5 it means a separate New Zealand PSN account with the game bought there. That game stays locked to that account, and some users reported suspensions, so waiting is safer.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -499,7 +499,7 @@
   {
    "id": "t-897a3ca7",
    "title": "Staff area safe and cameras in robberies",
-   "body": "Open the register and grab the bills, then go to the back-room safe. Find its combination, or blow it with explosives, which damages the loot. Destroy the security footage and take out the cameras and security system. The page says a mask is the only sure way to keep your face from police.",
+   "body": "Open the register and grab the bills, then go to the back-room safe. Find its combination, or blow it with explosives, which damages the loot. Destroy the security footage and take out the cameras and security system. A mask is the only sure way to keep your face from police.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1523,7 +1523,7 @@
   {
    "id": "t-bc2a8d5e",
    "title": "Deposit cash to earn interest",
-   "body": "Cash you carry is lost if you die or get arrested, and money in the bank is safe. Deposit your cash every so often so you don't lose it. The page says you can withdraw at ATMs across Leonida. It gives no interest rate or limits.",
+   "body": "Cash you carry is lost if you die or get arrested, and money in the bank is safe. Deposit your cash every so often so you don't lose it. You can withdraw at ATMs across Leonida.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1833,7 +1833,7 @@
   {
    "id": "t-16e25c64",
    "title": "Use silencers for crimes",
-   "body": "Get a silencer as early as you can. Ammu-Nation stores across Leonida sell them from the start. A silenced pistol can stop a police report going out for gunfire in robberies, if you shoot before your allies do. Silencers cut weapon damage, but the page says it's worth it.",
+   "body": "Get a silencer as early as you can. Ammu-Nation stores across Leonida sell them from the start. A silenced pistol can stop a police report going out for gunfire in robberies, if you shoot before your allies do. Silencers cut weapon damage, but it's worth it.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -2114,7 +2114,7 @@
   {
    "id": "t-8cd275eb",
    "title": "Focus gains depend on your profile",
-   "body": "Your criminal profile decides how you build Focus. Professional and hardened profiles get Focus from non-lethal incapacitations. Violent and psycho profiles get it from headshots. The page gives no amounts.",
+   "body": "Your criminal profile decides how you build Focus. Professional and hardened profiles get Focus from non-lethal incapacitations. Violent and psycho profiles get it from headshots.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -2198,7 +2198,7 @@
   {
    "id": "t-b1861958",
    "title": "Sprint moved to the left stick",
-   "body": "In GTA 6 you now click the left stick to run (L3 on PS5, LS on Xbox) instead of tapping X or A. You can preview and switch control schemes in Settings, Control Scheme. The Classic scheme swaps Run and Crouch. The page doesn't say where Run goes under each scheme.",
+   "body": "In GTA 6 you now click the left stick to run (L3 on PS5, LS on Xbox) instead of tapping X or A. You can preview and switch control schemes in Settings, Control Scheme. The Classic scheme swaps Run and Crouch.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -2461,7 +2461,7 @@
   {
    "id": "t-fc55e03c",
    "title": "Xbox temporary network issue fix",
-   "body": "If Xbox shows the \"Temporary network problem\" message when you launch GTA 6, pick the offline option on that screen if it offers one. One player in the r/GTA6 launch megathread said this loaded them straight into the game. It's a player report, not an official Microsoft or Rockstar fix. Restarting the console and setting it as your Home Xbox are the other things the guide suggests.",
+   "body": "If Xbox shows the \"Temporary network problem\" message when you launch GTA 6, pick the offline option on that screen if it offers one. One player in the r/GTA6 launch megathread said this loaded them straight into the game. It's a player report, not an official fix. Restarting the console and setting it as your Home Xbox also help.",
    "category": "glitches",
    "spoiler": false,
    "hint": null,
