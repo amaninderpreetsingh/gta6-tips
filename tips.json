@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:42:25Z",
+ "updated": "2026-11-19T09:07:23Z",
  "tips": [
   {
    "id": "t-a54d298a",
@@ -24,7 +24,9 @@
     }
    ],
    "first_seen": "2026-11-19T07:42:25Z",
-   "last_seen": "2026-11-19T07:42:25Z"
+   "last_seen": "2026-11-19T07:42:25Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-03e7281e",
@@ -42,25 +44,44 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-14ef646c",
    "title": "High contrast shaders make you glow",
-   "body": "Turning on high contrast shaders makes your character glow bright yellow, so you don't lose yourself in a fight. There are also a motion blur slider and a dismemberment toggle in the same menus.",
+   "body": "High Contrast Shaders is in Settings > Display and is off by default. It colours people, items and interactables in the world in high contrast, and it has a Player Color toggle. The same Display tab has a Motion Blur Strength slider and a Dismemberment On/Off toggle. The guides I read don't say the player colour is yellow.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Pause the game and open Options, then Settings.",
+    "Press L1 or R1 to switch to the Display tab.",
+    "Find the High Contrast Shaders section and turn High Contrast Shaders On (off by default).",
+    "Set Player Color to On in that section to colour your character.",
+    "Adjust the Fill Opacity slider in the same section if you want.",
+    "Under Visual Effects, set the Motion Blur Strength slider (default 3, down to 0 is off).",
+    "Under Visual Effects, switch Dismemberment On or Off (On by default)."
+   ],
    "sources": [
     {
      "name": "Instagram: @flushablejam",
      "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    },
+    {
+     "name": "GTA6Map",
+     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-display-settings"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "GTA6Map",
+    "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-display-settings"
+   },
+   "enrich_tried": "2026-11-19T09:02:26Z"
   },
   {
    "id": "t-1592b09d",
@@ -78,7 +99,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:02:26Z"
   },
   {
    "id": "t-1d63216b",
@@ -103,7 +126,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-238f1ea5",
@@ -121,7 +146,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:03:01Z"
   },
   {
    "id": "t-2f0f1f26",
@@ -139,7 +166,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-35447dd8",
@@ -161,17 +190,25 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:03:01Z"
   },
   {
    "id": "t-3556df2e",
    "title": "Call Joey to fix your car",
-   "body": "Your car burns fuel, so top up before long drives. If it gets wrecked, call Joey from your contacts and he repairs it and brings it back for free. The car gets parked nearby, not right in front of you, so look around.",
+   "body": "Once Joey has your number, open Contacts from the d-pad, call him and he repairs your car for free. The car reappears parked next to you after a short loading scene. You unlock his number by getting your first body modifications at Coastal Auto Care in Key Lento.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Take your car to Coastal Auto Care, Joey's mod shop in Key Lento, and have Joey repair it.",
+    "Get the first body modifications there so Joey gives you his phone number.",
+    "When your car is damaged, press up on the d-pad and open Contacts.",
+    "Call Joey. He repairs the car at no charge.",
+    "Wait through the short loading scene, then find your car parked next to you."
+   ],
    "sources": [
     {
      "name": "Instagram: @abtw.yt",
@@ -180,28 +217,51 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/r/GTA6/comments/1y00880/tips_your_first_few_hours_in_the_keys/"
+    },
+    {
+     "name": "Game Rant",
+     "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "Game Rant",
+    "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
+   },
+   "enrich_tried": "2026-11-19T09:03:01Z"
   },
   {
    "id": "t-3d69227e",
    "title": "Turn on stand and sprint",
-   "body": "With stand and sprint on, you stand up automatically when you start sprinting instead of staying crouched.",
+   "body": "Stand & Sprint is a toggle in the Movement group of the Gameplay tab in Settings. When it's on, your character stands up automatically as you start to sprint, instead of staying crouched.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Open Options, then Settings.",
+    "Press R1 twice to reach the Gameplay tab.",
+    "Find Stand & Sprint in the Movement group.",
+    "Set it to On so you stand up automatically when you start sprinting."
+   ],
    "sources": [
     {
      "name": "Instagram: @flushablejam",
      "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    },
+    {
+     "name": "GTA6Map",
+     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-gameplay-settings"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "GTA6Map",
+    "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-gameplay-settings"
+   },
+   "enrich_tried": "2026-11-19T09:03:55Z"
   },
   {
    "id": "t-4395108a",
@@ -225,12 +285,14 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:03:55Z"
   },
   {
    "id": "t-4ce259bc",
    "title": "Buy body armor at the gun shop",
-   "body": "Buy body armor at the gun shop and equip it from the weapon wheel before a shootout. It keeps you alive much longer.",
+   "body": "Ammu-Nation sells body armor along with ammo and explosives. Stuff you buy there is sent to the trunk of your owned car. The guide doesn't say how to equip it, so check that in game.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -240,20 +302,35 @@
     {
      "name": "YouTube: JorRaptor",
      "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    },
+    {
+     "name": "Insider Gaming",
+     "url": "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:03:55Z"
   },
   {
    "id": "t-52cf2bb8",
    "title": "New Zealand trick to play early",
-   "body": "Set your Xbox Series X or S location to New Zealand and restart the console to play before the US launch. On PS5 you need a separate PSN account for it.",
+   "body": "On Xbox Series X or S, with a pre-order copy, set the console location to New Zealand and restart to play before the US launch. On PS5 it means a separate New Zealand PSN account with the game bought there. That game stays locked to that account, and some users reported suspensions, so the page advises waiting.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Pre-order the game on Xbox Series X or S first.",
+    "From the home screen, open Settings with the gear icon.",
+    "Go to System, then Language & Location.",
+    "Open the Location dropdown and choose New Zealand.",
+    "Select the restart option to confirm the change.",
+    "After the restart, check the location still reads New Zealand and the Microsoft Store shows NZ-dollar prices.",
+    "If it does not work, restart and try again.",
+    "Skip Store purchases while on New Zealand, since your original region's Microsoft funds can't be used."
+   ],
    "sources": [
     {
      "name": "SlashGear",
@@ -261,7 +338,12 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "SlashGear",
+    "url": "https://www.slashgear.com/2321305/gta-6-how-to-play-game-early-console-trick/"
+   },
+   "enrich_tried": "2026-11-19T09:04:13Z"
   },
   {
    "id": "t-5f658a73",
@@ -279,12 +361,14 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:04:13Z"
   },
   {
    "id": "t-61cfc984",
    "title": "Set movement speed to jog",
-   "body": "Setting movement speed to jog makes you move at a brisk jog when you push the stick all the way. It is much faster than the default walk.",
+   "body": "In the options you can set your default movement pace to a normal walk, a faster walk or a jog. The pick becomes your default, so you don't crawl through interiors. This comes from preview reports, and no menu path was given.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -294,46 +378,83 @@
     {
      "name": "Instagram: @flushablejam",
      "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    },
+    {
+     "name": "GTABoom",
+     "url": "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:04:13Z"
   },
   {
    "id": "t-630d4239",
    "title": "Mute licensed music for clips",
-   "body": "There is a setting that mutes the real licensed songs in the game. Turn it on if you stream or post clips, since licensed songs are what usually get videos claimed.",
+   "body": "Pause the game, open Settings, and go to the Audio tab. Turn on Mute Licensed Music. It is off by default. It mutes licensed songs only, not the game's original music, and captions for songs still show if you have them on.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Pause the game and open Settings.",
+    "On PS5, press R1 six times from Control Scheme to reach the Audio tab, the seventh tab.",
+    "Highlight Mute Licensed Music, the sixth row in the SETUP group, directly above Vehicle Radio.",
+    "Change the toggle from Off to On.",
+    "To reset it to the default, highlight the setting and press Square."
+   ],
    "sources": [
     {
      "name": "Instagram: @flushablejam",
      "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    },
+    {
+     "name": "allthings.how",
+     "url": "https://allthings.how/gta-6-mute-licensed-music-streaming/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "allthings.how",
+    "url": "https://allthings.how/gta-6-mute-licensed-music-streaming/"
+   },
+   "enrich_tried": "2026-11-19T09:04:39Z"
   },
   {
    "id": "t-6793af40",
    "title": "Turn on auto low latency mode",
-   "body": "Switch on your TV's auto low latency mode (ALLM) for the best response. Also cycle through the picture modes and pick the one that looks best to you.",
+   "body": "Turn on ALLM in your TV settings, or set it to Automatic, so the console switches the TV to low-latency mode when a game starts. On PS5 set ALLM to Automatic. On Xbox enable Allow Auto Low Latency Mode. On most TVs ALLM and Game Mode only work on HDMI 1.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Plug your console into the HDMI 1 port, since ALLM and Game Mode usually only work there.",
+    "Open your TV's settings.",
+    "Find ALLM and turn it on or set it to Automatic.",
+    "Turn on Game Mode, called Game Optimizer on LG.",
+    "On PS5, set ALLM to Automatic. On Xbox, enable Allow Auto Low Latency Mode if supported.",
+    "Set color temperature to Warm or Warm 2, or Warm 50 on some LG TVs, for more natural colors."
+   ],
    "sources": [
     {
      "name": "Instagram: @developeradam",
      "url": "https://www.instagram.com/reel/Df1zX2lRk9t/"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-tv-settings/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "Beebom",
+    "url": "https://beebom.com/gta-6-best-tv-settings/"
+   },
+   "enrich_tried": "2026-11-19T09:04:39Z"
   },
   {
    "id": "t-7c33f1e9",
@@ -351,7 +472,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:04:39Z"
   },
   {
    "id": "t-880c5d09",
@@ -369,25 +492,45 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:05:23Z"
   },
   {
    "id": "t-897a3ca7",
    "title": "Staff area safe and cameras in robberies",
-   "body": "After taking the register cash, head to the staff area for an extra safe with more money. Destroying the security footage and security system makes it harder for the police to find you.",
+   "body": "Open the register and grab the bills, then go to the back-room safe. Find its combination, or blow it with explosives, which damages the loot. Destroy the security footage and take out the cameras and security system. The page says a mask is the only sure way to keep your face from police.",
    "category": "money",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Put on a mask before entering the store.",
+    "Open the register, then grab the bills.",
+    "Search rooms, overhear pedestrians or check a fence's text to find the safe combination.",
+    "Open the back-room safe with the combination to keep the full loot value.",
+    "Or blow the safe with explosives, which is faster but damages the loot.",
+    "Destroy the security footage so police don't see your face.",
+    "Take out the cameras and disable the security system.",
+    "Leave through a back exit if the store has one."
+   ],
    "sources": [
     {
      "name": "YouTube: JorRaptor",
      "url": "https://www.youtube.com/shorts/vdmqbeDM78Q"
+    },
+    {
+     "name": "WikiGTAVI",
+     "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "WikiGTAVI",
+    "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
+   },
+   "enrich_tried": "2026-11-19T09:05:23Z"
   },
   {
    "id": "t-92a6f50f",
@@ -397,7 +540,14 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Go to Jason's house in Key Lento, the first safehouse in Chapter 1.",
+    "Find the glass terrarium that holds Dolores, the pet corn snake.",
+    "Walk up to the enclosure and interact with it.",
+    "Pick the option to feed her a mouse.",
+    "Watch her eat. Jason's Focus goes up.",
+    "Check Focus in the Jason & Lucia menu: select Jason and look for the purple eye icon."
+   ],
    "sources": [
     {
      "name": "Instagram: @abtw.yt",
@@ -410,10 +560,19 @@
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=D_ViXEE1ClA"
+    },
+    {
+     "name": "GameRiv",
+     "url": "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "GameRiv",
+    "url": "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/"
+   },
+   "enrich_tried": "2026-11-19T09:05:23Z"
   },
   {
    "id": "t-98223496",
@@ -431,7 +590,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:05:46Z"
   },
   {
    "id": "t-995ad989",
@@ -449,7 +610,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:05:46Z"
   },
   {
    "id": "t-a4b3b224",
@@ -467,7 +630,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:05:46Z"
   },
   {
    "id": "t-a77e110f",
@@ -485,7 +650,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:06:16Z"
   },
   {
    "id": "t-b398b08b",
@@ -507,7 +674,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:06:16Z"
   },
   {
    "id": "t-b5263b6c",
@@ -525,7 +694,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:06:16Z"
   },
   {
    "id": "t-bf0814e4",
@@ -543,7 +714,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-c2e72201",
@@ -571,25 +744,41 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-c5214478",
    "title": "Mission payouts land in the mailbox",
-   "body": "Early mission payouts are delivered to the mailbox outside Jason's house, not to your pocket. Check it after missions so you don't leave money sitting there.",
+   "body": "Early mission reward money is delivered to the mailbox outside Jason's house, not straight to you. Go back to Jason's house and check that mailbox regularly to collect the cash.",
    "category": "money",
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Finish an early mission and head back to Jason's house.",
+    "Go to the mailbox outside Jason's house.",
+    "Collect the cash from the mailbox.",
+    "Check the mailbox regularly, since all your mission reward money is delivered there."
+   ],
    "sources": [
     {
      "name": "Instagram: @rumpiiwhynot",
      "url": "https://www.instagram.com/reel/Df41PRNkqP8/"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": {
+    "name": "VGC",
+    "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/"
+   },
+   "enrich_tried": "2026-11-19T09:06:42Z"
   },
   {
    "id": "t-cf11ad31",
@@ -607,7 +796,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:06:42Z"
   },
   {
    "id": "t-db6dcfa5",
@@ -629,7 +820,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:06:42Z"
   },
   {
    "id": "t-e2e0636b",
@@ -647,7 +840,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:07:23Z"
   },
   {
    "id": "t-e956d5d7",
@@ -665,7 +860,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:07:23Z"
   },
   {
    "id": "t-ef233183",
@@ -683,7 +880,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-f79fe465",
@@ -710,7 +909,9 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-f8b18bc1",
@@ -736,12 +937,14 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z"
+   "last_seen": "2026-11-19T05:59:07Z",
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:07:23Z"
   },
   {
    "id": "t-33324fd1",
    "title": "Set a waypoint without the map",
-   "body": "Hold Down for a view of nearby shops, waypoints and story missions, highlight one and press R3 to set GPS to it.",
+   "body": "You don't have to open the map to set a route. Hold Down to see nearby shops, waypoints and story missions, highlight one, then press R3 to set your GPS to it.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -754,12 +957,22 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Hold Down instead of pressing Touch Pad to open the map.",
+    "Look through the nearby shops, waypoints and story missions shown.",
+    "Highlight the one you want.",
+    "Press R3 to set the GPS route to it."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:03Z"
   },
   {
    "id": "t-3837e409",
    "title": "See every story mission from the map",
-   "body": "Press the Touch Pad for the map, then Right on the index to list story missions. Must-do ones are at the top, optional ones below, and Cross sets a waypoint.",
+   "body": "Open the map with the Touch Pad, then press Right on the index on the left of the screen to see a list of available story missions. Mandatory ones sit at the top and optional ones below. Cross sets a waypoint on any mission.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -772,12 +985,22 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Press the Touch Pad to open the map.",
+    "Use the index on the left of the screen and press Right.",
+    "Read the list of available story missions: mandatory ones at the top, optional ones below.",
+    "Press Cross to set a waypoint to any mission."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:03Z"
   },
   {
    "id": "t-4561f0de",
    "title": "Easier combat and car damage options",
-   "body": "In Options > Settings > Gameplay, turn on Accessible Combat (you take less damage, enemies take more) and Reduced Vehicle Damage. They don't change the story or turn off Trophies.",
+   "body": "Go to Options > Settings > Gameplay and scroll to the bottom. Options 24 and 25 are Accessible Combat and Reduced Vehicle Damage. Accessible Combat means you take less damage in gunfights and enemies take more. Reduced Vehicle Damage makes your car less likely to become hard to control or explode. The game warns that they change the balance of gameplay, but they don't alter the story or disable Trophies.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -790,12 +1013,23 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Open Options, then Settings, then Gameplay.",
+    "Scroll to the bottom of the Gameplay list, to options 24 and 25.",
+    "Turn on Accessible Combat to take less damage and deal more damage to enemies.",
+    "Turn on Reduced Vehicle Damage so your car takes less damage in crashes or combat.",
+    "Read the warning that this changes the balance and experience of gameplay, then confirm."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:21Z"
   },
   {
    "id": "t-5cbe5279",
    "title": "Find the nearest ATM fast",
-   "body": "Wallet cash is lost if you're Busted or Wasted, but BuckMe bank money is safe. Press Down to see both, then Up > BuckMe > ATM Finder routes you to the closest ATM.",
+   "body": "Wallet cash is lost if you get Busted or Wasted, but money in your BuckMe bank is safe. Press Down to see both. To bank your cash, press Up, open BuckMe, then ATM Finder, and follow the waypoint to the nearest ATM.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -808,12 +1042,23 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Press Down to see your wallet cash and your BuckMe bank money.",
+    "Press Up to open your smartphone.",
+    "Select BuckMe, then ATM Finder.",
+    "Follow the waypoint, which is set automatically to the nearest ATM.",
+    "Deposit your wallet funds into your BuckMe bank so they're safe if you get Busted or Wasted."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:21Z"
   },
   {
    "id": "t-662a4cb2",
    "title": "Blue wrench mod shops have special tuning",
-   "body": "Any mod shop sells basic upgrades, but specialist tuning is only at ones with a blue wrench icon. Find them in the map index under Vehicles > Mod Shops.",
+   "body": "Any mod shop sells generic upgrades for all vehicles, but specialist tuning is only at mod shops marked with a blue wrench icon. Open the map with Up, then Right for the map index, and pick Vehicles > Mod Shops.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -826,12 +1071,23 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Press Up to open your map.",
+    "Press Right to open the map index.",
+    "Select Vehicles > Mod Shops.",
+    "Look for a Mod Shop with a blue wrench icon.",
+    "Set a waypoint to that shop and go there for specialised upgrades for your current vehicle."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:21Z"
   },
   {
    "id": "t-7490733f",
    "title": "Summon your car with Scooter Bros",
-   "body": "Press Up, open Scooter Bros and pick your car. It's dropped nearby and marked on the minimap. The fee depends on the distance and the car's condition.",
+   "body": "Press Up to open your phone, open the Scooter Bros app and pick the car you want. You're charged a fee based on the delivery distance and the car's condition. The car spawns nearby and is marked on your minimap.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -844,12 +1100,23 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Press Up to open your smartphone.",
+    "Open the Scooter Bros app.",
+    "Choose the car you want from the app.",
+    "Pay the fee, which depends on delivery distance and the car's condition.",
+    "Find the car at its nearby spawn spot, marked on your minimap."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:33Z"
   },
   {
    "id": "t-8748355d",
    "title": "Hit the pink sweet spot to steal faster",
-   "body": "In the car break-in minigames (Slim Jim, Clone Key, hotwiring), move the sticks until you find the pink sweet spot. Landing it gets you in much quicker.",
+   "body": "In the car theft minigames (Slim Jim, Clone Key, hotwiring), move the sticks around until you find the pink sweet spot. Hitting it speeds up the break-in, so you get into the car and get away sooner.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -862,12 +1129,14 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:01:33Z"
   },
   {
    "id": "t-bd916313",
    "title": "Disable enemies instead of killing them",
-   "body": "Killing pushes your criminal profile toward aggressive. Grab enemies with R2 to knock them out, or hold L3 and R3 and shoot the yellow limbs. A yellow X means disabled, a red X means dead.",
+   "body": "Killing enemies makes your criminal profile more aggressive, so go non-lethal. Grab enemies with R2 to knock them out. In a firefight, press L3 and R3 and aim at the yellow body parts, like arms and kneecaps. A yellow X in the reticle means disabled, and a red X means dead.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -880,12 +1149,22 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Favor stealth and grab enemies with R2 to knock them out cleanly.",
+    "In a firefight, press L3 and R3 to show the non-vital body parts in yellow.",
+    "Aim at the yellow parts, such as kneecaps and arms, and shoot.",
+    "Check your reticle: a yellow X means the enemy is disabled, a red X means they are dead."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:33Z"
   },
   {
    "id": "t-d03c2897",
    "title": "Reminders tab collects key messages",
-   "body": "Press Up for the phone, then Square for Reminders. It lists the important messages, including news and people waiting on a reply.",
+   "body": "Press Up to open your phone, then press Square to open Reminders. It shows a curated list of key messages, including in-game news articles and NPCs who are waiting for your reply.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -898,12 +1177,21 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Press Up to bring up your smartphone.",
+    "Press Square to open Reminders.",
+    "Check the list for key messages, news articles and NPCs waiting on your reply."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:47Z"
   },
   {
    "id": "t-e158ead6",
    "title": "Buy garages for more car slots",
-   "body": "Parking a car in a parking space or garage only keeps it for a while. Registering needs a free stored vehicle slot, so sell old cars at Pay 'n' Spray or buy more garages in the Vice City Real Estate app.",
+   "body": "Parking a car in a parking space or garage only stores it for a while. To keep it for good, register it at a Pay 'N' Spray, which needs a free Stored Vehicle slot. Sell old cars at the Pay 'N' Spray or buy more garages in the Vice City Real Estate app.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -916,12 +1204,25 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Park the car in a Parking Space or Garage to store it for a while.",
+    "Drive into a Pay 'N' Spray and select Register to swap the plates.",
+    "Pay the registration fee, which depends on the car's value.",
+    "Make sure you have a free Stored Vehicle slot before registering.",
+    "To free a slot, sell an old car directly at the Pay 'N' Spray.",
+    "Or press Up to open your smartphone and select the Vice City Real Estate app.",
+    "Buy more garages there to add extra parking spots."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:47Z"
   },
   {
    "id": "t-e932b369",
    "title": "Switch to GTA 5 style controls",
-   "body": "The default layout puts run on L3 and jump on Cross. For the old GTA 5 layout, go to Options > Settings > Control Scheme and pick Classic.",
+   "body": "GTA 6 starts on the new Default control layout, with run on L3 and jump on Cross. If you prefer the GTA 5 feel, press Options, go to Settings, then Control Scheme, and switch to Classic.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -938,12 +1239,22 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null
+   "steps": [
+    "Press Options.",
+    "Select Settings.",
+    "Select Control Scheme.",
+    "Change the scheme from Default to Classic to get the GTA 5 style layout."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:01:47Z"
   },
   {
    "id": "t-fc2c9039",
    "title": "Skip a RydeMe ride",
-   "body": "Set a waypoint, press Up, open RydeMe and Book Ryde. Once you're in, hold L2 to focus on the driver and hold Triangle to skip the trip for about $100, more for longer rides.",
+   "body": "Set a waypoint first, then book a ride in the RydeMe app on your phone. Once you're in the car, you can pay to skip the trip and arrive right away. It costs about $100, and longer rides cost more.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -956,12 +1267,24 @@
    ],
    "first_seen": "2026-11-19T00:46:10Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Set a waypoint, either in the RydeMe app or on the map with the Touch Pad.",
+    "Press Up to bring up your smartphone and select RydeMe.",
+    "Select Book Ryde.",
+    "Wait for the driver. You get a notification and can see them on your minimap.",
+    "Once you're in the Ryde, hold L2 to focus on your driver.",
+    "Hold Triangle to skip the journey for $100 and arrive immediately. Longer journeys cost more."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T09:02:26Z"
   },
   {
    "id": "t-063b69a7",
    "title": "Shove vehicles to move them",
-   "body": "Walk into a vehicle and keep pushing until a shove prompt appears, then hold the button (Square on PlayStation). It frees a grounded boat and flips a car back onto its wheels without paying for a tow.",
+   "body": "Walk into a vehicle and keep pushing until a shove prompt shows up in the bottom-right of the screen. Hold Square to shove it hard. You can push a grounded boat back out to sea, or put a flipped car back on its wheels without paying for a tow.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -974,12 +1297,23 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Walk into the vehicle and keep walking against it.",
+    "Wait until a shove prompt appears in the bottom-right of the screen.",
+    "Hold Square on PlayStation to push the vehicle hard.",
+    "For a grounded boat, push it back out to sea.",
+    "For a flipped car, push it until it lands back on its wheels."
+   ],
+   "steps_source": {
+    "name": "The Big Lead",
+    "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+   },
+   "enrich_tried": "2026-11-19T08:59:08Z"
   },
   {
    "id": "t-07e0f55b",
    "title": "Mark guards before a robbery",
-   "body": "Walk in as a customer first, lock onto each security guard like you're going to talk to them, and press right on the D-pad. That puts an arrow over their heads so you can track them during the robbery.",
+   "body": "Before a robbery, walk into the place as a customer first. Lock onto each security guard as if you were going to talk to them, then press right on the D-pad. An arrow shows over their heads so you can track them during the robbery.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -992,12 +1326,22 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Walk into the place as a customer before you rob it.",
+    "Lock onto a security guard, as if you were going to talk to them.",
+    "Press right on the D-pad to mark the guard. An arrow appears over their head.",
+    "Repeat for each guard, then track them by the arrows during the robbery."
+   ],
+   "steps_source": {
+    "name": "The Big Lead",
+    "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+   },
+   "enrich_tried": "2026-11-19T08:59:24Z"
   },
   {
    "id": "t-2ea103aa",
    "title": "Sell high-end cars to Randy",
-   "body": "After the mission Clonin' Keys, Makin' Gs, Randy's Wish List has 18 sports cars he wants. A car in good shape reportedly pays $30,000 or more, so avoid damaging it, and message Randy for location hints.",
+   "body": "Randy's Wish List lists 18 high-end sports cars he wants, and it unlocks after his first car mission. The cars show up around Vice City. A car in excellent condition pays $30,000 or more, so avoid damaging it. Message Randy for hints on where to find a specific car.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1010,12 +1354,23 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Finish Randy's first car mission to unlock his Wish List of 18 high-end sports cars.",
+    "Explore Vice City to find the cars on his list, which appear naturally around the city.",
+    "Open the Reminders section of your phone and message Randy for tips on where a specific car is.",
+    "Steal the car and avoid damaging it, since condition affects what you get paid.",
+    "Deliver it to Randy in excellent condition for $30,000 or more."
+   ],
+   "steps_source": {
+    "name": "Tech2Geek",
+    "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+   },
+   "enrich_tried": "2026-11-19T08:59:24Z"
   },
   {
    "id": "t-376699e5",
    "title": "Where to sell stolen cars",
-   "body": "In Chapter 2, Moses buys cars without trackers for about $1,000 or more, but not ones stolen close to his garage, and he has a roughly two minute cooldown. In Chapter 3 you can sell cars with Standard Trackers at Pay 'n' Spray for $4,000 or more.",
+   "body": "In Chapter 2, Moses buys cars without trackers for about $1,000 or more each. He may refuse cars stolen too close to his garage, and the garage has a cooldown of about two minutes. In Chapter 3, Pay 'n' Spray takes cars with Standard Trackers for $4,000 or more.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1028,7 +1383,19 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "In Chapter 2, steal a car that has no tracker.",
+    "Take it to Moses' garage, but steal it somewhere well away from the garage.",
+    "Sell it to Moses for about $1,000 or more.",
+    "Wait about two minutes for his garage to reopen before the next car.",
+    "In Chapter 3, steal a car that has a Standard Tracker.",
+    "Take it to Pay 'n' Spray and sell it for $4,000 or more, depending on condition and value."
+   ],
+   "steps_source": {
+    "name": "Tech2Geek",
+    "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+   },
+   "enrich_tried": "2026-11-19T08:59:24Z"
   },
   {
    "id": "t-3ad054b5",
@@ -1046,12 +1413,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:59:54Z"
   },
   {
    "id": "t-3d49674d",
    "title": "Hit people with your car door",
-   "body": "Press Square (PlayStation) while driving to swing the car door at people next to you, like a biker or someone trying to pull you out. On a motorbike it's a kick, which works on rivals in bike races.",
+   "body": "While driving a car, press Square to swing your door at people next to you, like a biker alongside or someone trying to pull you out. On a motorbike the same button is a kick, and you can use it to knock rivals off their bikes in bike races.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -1064,12 +1433,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:59:54Z"
   },
   {
    "id": "t-44cd97b3",
    "title": "Swim fast by clicking the stick",
-   "body": "Start on the surface and click the analogue stick once for a faster swim and twice for max speed. When stamina runs out, dive under and keep going at full speed using lung capacity, which roughly doubles your time.",
+   "body": "Start a long swim on the surface and click the analogue stick in. One click makes you a bit faster and a second click gives max speed. Clicking drains stamina, but when it runs out, dive underwater to keep full speed, since the game switches from stamina to lung capacity and that roughly doubles your time.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1082,7 +1453,19 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Start your swim on the water's surface.",
+    "Click the analogue stick in once to swim a bit faster.",
+    "Click the analogue stick in again to reach max speed.",
+    "Keep swimming until your stamina runs out.",
+    "Dive underwater to get back to top speed, because the game switches from stamina to lung capacity.",
+    "Keep swimming at full speed underwater, which roughly doubles how long you can go."
+   ],
+   "steps_source": {
+    "name": "The Big Lead",
+    "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+   },
+   "enrich_tried": "2026-11-19T08:59:54Z"
   },
   {
    "id": "t-6568fbd1",
@@ -1100,7 +1483,9 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:11Z"
   },
   {
    "id": "t-88e437e1",
@@ -1118,12 +1503,27 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Play the campaign through the end of Chapter 4.",
+    "Complete the optional mission that introduces vault robberies.",
+    "Follow a security van until it reaches a bank.",
+    "When the guards carry money into the vault, follow them inside and take the cash.",
+    "Expect a four-star wanted level right away.",
+    "Escape on a fast motorcycle through traffic.",
+    "Change vehicle and appearance so police lose you.",
+    "Keep spare outfits in your car trunk, up to five, to cut heat.",
+    "Deposit the cash in your BuckMe account, since carried money is lost if you die or get arrested."
+   ],
+   "steps_source": {
+    "name": "Tech2Geek",
+    "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+   },
+   "enrich_tried": "2026-11-19T09:00:11Z"
   },
   {
    "id": "t-bc2a8d5e",
    "title": "Deposit cash to earn interest",
-   "body": "Banks let you deposit cash for safe keeping and interest. Dying or getting arrested costs you money, so bank your cash now and then and withdraw at any ATM.",
+   "body": "Cash you carry is lost if you die or get arrested, and money in the bank is safe. Deposit your cash every so often so you don't lose it. The page says you can withdraw at ATMs across Leonida. It gives no interest rate or limits.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1136,12 +1536,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:11Z"
   },
   {
    "id": "t-d34b0264",
    "title": "Reputation depends on how you play",
-   "body": "Stealthy missions earn Professional, heavy killing earns Psycho, and shooting non-lethal spots earns Hardened. Reputation changes how NPCs treat you and can lock some open-world missions.",
+   "body": "Your reputation depends on how you play each mission. Finishing a mission stealthily earns Professional, killing too many enemies earns Psycho, and shooting non-lethal spots on enemies earns Hardened. Reputation changes how NPCs behave toward you and can lock you out of some open-world missions.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1154,12 +1556,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:23Z"
   },
   {
    "id": "t-e2d44710",
    "title": "Focus Mode reveals nearby encounters",
-   "body": "If you see or hear something suspicious, click both sticks to enter Focus Mode. A circular audio effect shows when something nearby leads to a unique encounter.",
+   "body": "If you see or hear something suspicious, press both analogue sticks in at once to enter Focus Mode. While it's on, a circular audio effect plays when something nearby will lead to a unique encounter.",
    "category": "exploration",
    "spoiler": false,
    "hint": null,
@@ -1172,7 +1576,9 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:23Z"
   },
   {
    "id": "t-e3f01c13",
@@ -1190,12 +1596,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:23Z"
   },
   {
    "id": "t-e5cbcf04",
    "title": "Vehicle menu under the radio wheel",
-   "body": "Hold left on the D-pad to open the radio stations, then press up on the stick to get the vehicle menu. It has hazard lights, full beams, windows, and a roof retract on convertibles.",
+   "body": "Hold left on the D-pad to bring up the radio stations, then press up on the stick to open the vehicle menu. It has hazard lights, full beams, and the windows. On convertibles it also lets you retract the roof.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -1208,7 +1616,16 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Hold left on the D-pad to bring up the radio stations.",
+    "Press up on the stick to open the vehicle menu.",
+    "Pick from the options: hazard lights, full beams, windows, or retracting the roof on convertibles."
+   ],
+   "steps_source": {
+    "name": "The Big Lead",
+    "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+   },
+   "enrich_tried": "2026-11-19T09:00:45Z"
   },
   {
    "id": "t-f04b03b3",
@@ -1226,12 +1643,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:45Z"
   },
   {
    "id": "t-f1c308a3",
    "title": "Any explosion opens a safe",
-   "body": "If you don't have the safe code, you don't need a sticky bomb. Grenades, propane tanks and rocket launchers all break a safe open.",
+   "body": "If you don't have a safe's code, you don't need a sticky bomb. Any explosion opens it, including grenades, propane tanks and rocket launchers.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1248,12 +1667,14 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T09:00:45Z"
   },
   {
    "id": "t-fde6be74",
    "title": "Jewelry stores in Chapter 3",
-   "body": "After Yasmani's Jewelry Jobs, you can rob jewelry stores for a reported $10,000 to $25,000 each and sell the goods through Yasmani. Disable the alarm before smashing cases, and check the back room for a safe.",
+   "body": "Jewelry store robberies open up in Chapter 3 and reportedly pay $10,000 to $25,000 per store. Disable the alarm before you smash the display cases, then check the back room for a safe. You sell the stolen jewelry to a fence.",
    "category": "money",
    "spoiler": false,
    "hint": null,
@@ -1266,7 +1687,20 @@
    ],
    "first_seen": "2026-11-18T20:26:31Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": [
+    "Unlock jewelry robberies in Chapter 3 by finishing the jewelry jobs missions first.",
+    "Check the store's security systems before you go in.",
+    "Disable the alarm before smashing any display cases, so police aren't alerted right away.",
+    "Smash the display cases and collect the jewelry.",
+    "Check the back room for a safe and open it quickly to grab more valuables.",
+    "Sell the stolen jewelry to the fence who handles it.",
+    "Repeat at other stores. Payouts are reported at $10,000 to $25,000 each, not guaranteed."
+   ],
+   "steps_source": {
+    "name": "Tech2Geek",
+    "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+   },
+   "enrich_tried": "2026-11-19T09:01:03Z"
   },
   {
    "id": "t-5ad51e09",
@@ -1284,12 +1718,14 @@
    ],
    "first_seen": "2026-11-18T19:12:00Z",
    "last_seen": "2026-11-18T19:12:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-87b72878",
    "title": "Optional cigar pickup after Pipework",
-   "body": "After you finish the Pipework mission, grab the Macizo Cigar from the street outside Mandy's house. It's an optional reward.",
+   "body": "After the Pipework mission ends, go outside Mandy's house in Key Lento, Mariana County. A cigar box lands on the street, and you can pick up the Macizo Cigar from it. It's an optional reward.",
    "category": "exploration",
    "spoiler": false,
    "hint": null,
@@ -1302,12 +1738,22 @@
    ],
    "first_seen": "2026-11-18T19:12:00Z",
    "last_seen": "2026-11-18T19:12:00Z",
-   "steps": null
+   "steps": [
+    "Finish the Pipework mission.",
+    "Walk outside Mandy's house in Key Lento, Mariana County.",
+    "Find the cigar box on the street outside.",
+    "Walk up to the box and pick up the Macizo Cigar."
+   ],
+   "steps_source": {
+    "name": "Beebom",
+    "url": "https://beebom.com/gta-6-pipework-mandy-rent-mission/"
+   },
+   "enrich_tried": "2026-11-19T08:59:08Z"
   },
   {
    "id": "t-fbb81f58",
    "title": "Missions have no gold medals",
-   "body": "GTA 6 missions don't have Gold Medal objectives. You can just play them without chasing extra goals.",
+   "body": "GTA 6 missions don't have Gold Medal objectives, unlike earlier GTA games. You can just play through them without chasing extra goals.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1324,7 +1770,9 @@
    ],
    "first_seen": "2026-11-18T19:12:00Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:59:08Z"
   },
   {
    "id": "t-011182da",
@@ -1354,7 +1802,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:55:46Z"
   },
   {
    "id": "t-15eb6efa",
@@ -1376,12 +1826,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:55:46Z"
   },
   {
    "id": "t-16e25c64",
    "title": "Use silencers for crimes",
-   "body": "Cops react fast to gunfire, so a suppressor is the most important attachment for crimes. Other muzzle attachments and grips help with recoil.",
+   "body": "Get a silencer as early as you can. Ammu-Nation stores across Leonida sell them from the start. A silenced pistol can stop a police report going out for gunfire in robberies, if you shoot before your allies do. Silencers cut weapon damage, but the page says it's worth it.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -1390,11 +1842,27 @@
     {
      "name": "Sportskeeda",
      "url": "https://www.sportskeeda.com/gta/best-gta-6-early-game-tips-know"
+    },
+    {
+     "name": "Respec",
+     "url": "https://www.respec.net/guide/313-gta6-tips-9-points-for-new-players"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": [
+    "Visit an Ammu-Nation store in Leonida; silencers are sold there from the start of the game.",
+    "Buy a silencer.",
+    "Attach it to a specific weapon, such as a pistol.",
+    "Equip that weapon before the robbery or gang job.",
+    "Fire first, before your allies do, so no gunfire report goes out to the police.",
+    "Use Focus to help with the timing."
+   ],
+   "steps_source": {
+    "name": "Respec",
+    "url": "https://www.respec.net/guide/313-gta6-tips-9-points-for-new-players"
+   },
+   "enrich_tried": "2026-11-19T08:55:46Z"
   },
   {
    "id": "t-23a071f4",
@@ -1412,7 +1880,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:04Z"
   },
   {
    "id": "t-2d397c5c",
@@ -1438,7 +1908,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:04Z"
   },
   {
    "id": "t-4731fb60",
@@ -1456,7 +1928,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-58991844",
@@ -1474,7 +1948,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:04Z"
   },
   {
    "id": "t-71d36ab3",
@@ -1492,11 +1968,26 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/r/GTA6/comments/1xzd4x2/10_pros_and_10_cons_after_100_hours_of_gameplay/"
+    },
+    {
+     "name": "allthings.how",
+     "url": "https://allthings.how/gta-6-fast-travel-how-buses-trains-and-the-rydeme-app-work/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": [
+    "Open the in-game phone and start the RydeMe app.",
+    "Order a car to your destination.",
+    "Choose whether to skip ahead or ride along.",
+    "For buses, find a stop on your mini-map. Each bus follows a fixed route, so it may drop you near your destination.",
+    "For a taxi, flag one down on the street for a paid ride."
+   ],
+   "steps_source": {
+    "name": "allthings.how",
+    "url": "https://allthings.how/gta-6-fast-travel-how-buses-trains-and-the-rydeme-app-work/"
+   },
+   "enrich_tried": "2026-11-19T08:56:25Z"
   },
   {
    "id": "t-781433c2",
@@ -1514,12 +2005,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:25Z"
   },
   {
    "id": "t-83f1d92e",
    "title": "Register cars you want to keep",
-   "body": "Pay the fee at Pay 'n' Spray, which is cheaper for worse cars. Registered cars can then be summoned through the Scooter Bros app.",
+   "body": "Parking a car in a Parking Space or Garage only stores it for a while. To keep it for good, drive into a Pay 'N' Spray and choose Register to swap the plates. The fee depends on the car's value. Registered cars can be delivered through the Scooter Bros app on your phone.",
    "category": "driving",
    "spoiler": false,
    "hint": null,
@@ -1536,12 +2029,24 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-19T00:46:10Z",
-   "steps": null
+   "steps": [
+    "Drive the car you want to keep into a Pay 'N' Spray.",
+    "Make sure you have a free Stored Vehicle slot. Sell an older car at the Pay 'N' Spray to free one.",
+    "Select Register to swap the plates. The fee depends on the car's value.",
+    "Open your phone with Up and select the Scooter Bros app.",
+    "Choose the registered car you want. You pay based on delivery distance and the car's condition.",
+    "Look for the car spawning nearby, marked on your minimap."
+   ],
+   "steps_source": {
+    "name": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+   },
+   "enrich_tried": "2026-11-19T08:56:25Z"
   },
   {
    "id": "t-841411a9",
    "title": "Focus Mode by clicking both sticks",
-   "body": "With a gun it slows time for aiming. Out of combat it's unlimited and highlights enemies in red, interactables in yellow, cash in green, and animal tracks. It can also show enemies through walls, safe-code notes, and valuables in trunks.",
+   "body": "Click both sticks (L3 + R3) to use Focus. In a fight it highlights hittable enemy parts, red for lethal and yellow for non-lethal, so shooting arms or legs incapacitates without killing. Using it outside combat to scout your surroundings doesn't drain it.",
    "category": "combat",
    "spoiler": false,
    "hint": null,
@@ -1550,11 +2055,17 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/articles/gta-6/gta-6-focus-ability-explained-how-it-works-what-it-does"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:54Z"
   },
   {
    "id": "t-85934e11",
@@ -1576,7 +2087,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-88098d40",
@@ -1594,12 +2107,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-8cd275eb",
    "title": "Focus gains depend on your profile",
-   "body": "Professional and hardened criminal profiles gain Focus from non-lethal takedowns. Violent and psycho profiles gain it from headshots.",
+   "body": "Your criminal profile decides how you build Focus. Professional and hardened profiles get Focus from non-lethal incapacitations. Violent and psycho profiles get it from headshots. The page gives no amounts.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1612,7 +2127,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:54Z"
   },
   {
    "id": "t-a4e41651",
@@ -1634,12 +2151,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T20:26:31Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:56:54Z"
   },
   {
    "id": "t-a754d25d",
    "title": "Best recovery items",
-   "body": "Zombix, found in grocery stores and around the world, heals fastest. Protein bars and soda restore stamina, and coffee or tea speeds up Focus regen.",
+   "body": "Zombix is the fastest way to get health back. You can find it around the world and in grocery stores, and you use it from the loadout screen. Protein bars and soda restore stamina. Coffee and tea speed up Focus regen. Sleeping at your safehouse also restores stamina.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1652,7 +2171,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:19Z"
   },
   {
    "id": "t-a8658122",
@@ -1670,12 +2191,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-b1861958",
    "title": "Sprint moved to the left stick",
-   "body": "Sprint now defaults to the left stick instead of a face button. You can remap it in the controls settings.",
+   "body": "In GTA 6 you now click the left stick to run (L3 on PS5, LS on Xbox) instead of tapping X or A. You can preview and switch control schemes in Settings, Control Scheme. The Classic scheme swaps Run and Crouch. The page doesn't say where Run goes under each scheme.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -1684,11 +2207,17 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/articles/gta-6/gta-6-controls-guide-ps5-xbox-button-layout"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:19Z"
   },
   {
    "id": "t-b9b79d32",
@@ -1706,7 +2235,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:19Z"
   },
   {
    "id": "t-c0c45fc2",
@@ -1724,7 +2255,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:54Z"
   },
   {
    "id": "t-c36f383d",
@@ -1742,7 +2275,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:54Z"
   },
   {
    "id": "t-c6f104a7",
@@ -1771,12 +2306,14 @@
     "Read the security pop-up at the bottom right",
     "Smash the window with X if it only says locked",
     "Hold the right stick up until the car starts"
-   ]
+   ],
+   "steps_source": null,
+   "enrich_tried": null
   },
   {
    "id": "t-c8216934",
    "title": "Expect a combat learning curve",
-   "body": "Reviews say aiming needs real precision and each weapon handles differently. Expect it to feel harder than GTA 5 at first.",
+   "body": "GTA 6 uses very limited aim assist by default, so you have to place shots yourself. Each weapon handles differently, and the gaps between guns are more noticeable than in earlier games. Pistols are lighter and easier to control, while SMGs fire faster and are harder to control. The review does not say how hard it is compared with GTA 5.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1785,16 +2322,22 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/r/GTA6/comments/1xzcoml/gta_6_review_spoilerfree/"
+    },
+    {
+     "name": "The Outer Haven",
+     "url": "https://www.theouterhaven.net/grand-theft-auto-vi-review/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:57:54Z"
   },
   {
    "id": "t-e0ef476c",
    "title": "Console performance expectations",
-   "body": "Per Digital Foundry as relayed on Reddit, PS5 Pro holds a near-stable 30fps. Base PS5, Series X and Series S dip more often, with Series S reported worst. There's no 60fps mode.",
+   "body": "Digital Foundry's console tests, as reported by WindowsForum, found every version targets 30fps and Rockstar has confirmed no 40 or 60fps mode. PS5 Pro came closest to holding 30fps, with one brief drop to 24fps in a vehicle-destruction test. Base PS5 and Series X dip into the high 20s and sometimes the low 20s in busy chases and shootouts. Series S dips most: it renders at 720p, sits in the mid-20s in combat, and drops to about 20fps or lower in the worst cases.",
    "category": "settings",
    "spoiler": false,
    "hint": null,
@@ -1803,11 +2346,17 @@
     {
      "name": "r/GTA",
      "url": "https://www.reddit.com/comments/1xzh8ka"
+    },
+    {
+     "name": "WindowsForum",
+     "url": "https://windowsforum.com/news/gta-6-console-performance-compared-ps5-pro-holds-30-fps-xbox-series-s-struggles.453173/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:58:27Z"
   },
   {
    "id": "t-eaf5bac9",
@@ -1825,7 +2374,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:58:27Z"
   },
   {
    "id": "t-f701a10e",
@@ -1863,7 +2414,9 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:58:27Z"
   },
   {
    "id": "t-f7045a98",
@@ -1881,12 +2434,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:58:58Z"
   },
   {
    "id": "t-f788e4b0",
    "title": "Weight matters",
-   "body": "Regular balanced meals maintain your weight. Junk food or overeating gains it, and irregular or too little eating loses it. Track it in the phone's fitness app.",
+   "body": "Your character's weight changes with how you eat. Regular, calorie-balanced meals keep it steady, junk food or overeating adds weight, and too little or irregular eating drops it. The fitness tracker on the phone shows where you stand on calorie intake.",
    "category": "advice",
    "spoiler": false,
    "hint": null,
@@ -1899,12 +2454,14 @@
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T08:58:58Z"
   },
   {
    "id": "t-fc55e03c",
    "title": "Xbox temporary network issue fix",
-   "body": "If you get the temporary network issue message on Xbox, click the offline button to load into the game.",
+   "body": "If Xbox shows the \"Temporary network problem\" message when you launch GTA 6, pick the offline option on that screen if it offers one. One player in the r/GTA6 launch megathread said this loaded them straight into the game. It's a player report, not an official Microsoft or Rockstar fix. Restarting the console and setting it as your Home Xbox are the other things the guide suggests.",
    "category": "glitches",
    "spoiler": false,
    "hint": null,
@@ -1913,11 +2470,25 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/r/GTA6/comments/1xzc7el/gta_vi_launch_day_bugs_glitches_megathread/"
+    },
+    {
+     "name": "Timesaver",
+     "url": "https://timesaver.gg/blog/gta-6-server-status"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
    "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null
+   "steps": [
+    "Check Xbox Status, especially the Account & profile and Store & subscriptions sections.",
+    "Fully restart the console using the Xbox button menu.",
+    "If the error screen offers an offline option, choose it to load into the game.",
+    "Set this Xbox as your Home Xbox, ideally before network problems start, so digital games can play when the license server is slow."
+   ],
+   "steps_source": {
+    "name": "Timesaver",
+    "url": "https://timesaver.gg/blog/gta-6-server-status"
+   },
+   "enrich_tried": "2026-11-19T08:58:58Z"
   }
  ]
 }
