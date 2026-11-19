@@ -1,6 +1,31 @@
 {
- "updated": "2026-11-19T05:59:07Z",
+ "updated": "2026-11-19T07:42:25Z",
  "tips": [
+  {
+   "id": "t-a54d298a",
+   "title": "Best aim settings for easier shooting",
+   "body": "In combat settings, switch targeting to lock on and max out aim assist strength. Keep lock on target switch, shooting assist, drive by assist and quick draw turned on, with lock on time set about halfway.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open settings, then gameplay, then scroll down to combat",
+    "Set targeting to lock on",
+    "Max out aim assist strength",
+    "Set lock on time about halfway",
+    "Turn on lock on target switch and shooting assist",
+    "Turn on drive by assist and quick draw"
+   ],
+   "sources": [
+    {
+     "name": "Instagram: @xunclecainogta6",
+     "url": "https://www.instagram.com/reel/Df4vQSJRVk4/"
+    }
+   ],
+   "first_seen": "2026-11-19T07:42:25Z",
+   "last_seen": "2026-11-19T07:42:25Z"
+  },
   {
    "id": "t-03e7281e",
    "title": "Double tap left blinker for radio",
