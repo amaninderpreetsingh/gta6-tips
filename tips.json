@@ -1,6 +1,1085 @@
 {
- "updated": "2026-11-19T09:07:23Z",
+ "updated": "2026-11-19T14:48:09Z",
  "tips": [
+  {
+   "id": "t-063b5d57",
+   "title": "Turn off inverted aircraft controls",
+   "body": "Aircraft movement is inverted by default, so you pull down to go up. Turn it off in the inverted controls settings if you want up to mean up.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-07b22b15",
+   "title": "Always show throwable arc",
+   "body": "Projectile Arc is a setting that shows the path of grenades and other thrown items, which helps until you get the hang of throwing. It's in the UI settings under the HUD section. The page doesn't mention an Always On option or an R3 toggle.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Press the Start button to open the pause menu.",
+    "Scroll to the end of the menu list.",
+    "Open UI.",
+    "Find Projectile Arc in the HUD section.",
+    "Turn Projectile Arc on to see the path of grenades and other projectiles."
+   ],
+   "steps_source": {
+    "name": "GGGamer",
+    "url": "https://gggamer.net/best-gta-6-setting-guide/"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "GGGamer",
+     "url": "https://gggamer.net/best-gta-6-setting-guide/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-1546830a",
+   "title": "South Vice Dale warehouse loot run",
+   "body": "A warehouse in South Vice Dale County gives over $13,000 in loot, a rare collectible card and a few weapons. Outside is a yellow toolbox with free sunglasses. Inside are an Uzi, a stash bag with $6,000 and a Duke 556 assault rifle, and paraphernalia that pays $400 each.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the warehouse in South Vice Dale County and open the yellow toolbox outside for free sunglasses",
+    "Go inside and pick up the Uzi SMG from the floor",
+    "Grab the stash bag with $6,000 and the Duke 556 assault rifle",
+    "Take the paraphernalia from the back of the van, worth $400 each",
+    "Take the $100 from the cash counter and open the safe in that room for the Leroy Rook card",
+    "Open the next door for more paraphernalia, then sell the card at the pawn shop"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @ghostninja",
+     "url": "https://www.instagram.com/reel/Df58gNBTcX4/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-19185982",
+   "title": "Watch your fuel level",
+   "body": "Vehicles can run out of fuel. While driving, hold Left to show your vehicle's stats on the HUD, including fuel. A warning shows when fuel gets low. Gas cars refuel at any gas station, and stolen cars don't always have a full tank.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Hold LEFT while driving to show your vehicle's stats, including fuel, on the HUD.",
+    "Watch for the HUD warning that shows when fuel gets low.",
+    "Find a gas station on the interactive map under the Vehicles group.",
+    "Refuel at any gas station, which also offers minor repairs. Electric vehicles use charging stations instead.",
+    "If you run dry, push the vehicle from the front or back with L-DIRECTION, and hold SQUARE / X to shove harder."
+   ],
+   "steps_source": {
+    "name": "GTABase",
+    "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-299c1759",
+   "title": "Keep going to the gym",
+   "body": "Gym gains are meant to last only while you keep training. The page says neglect causes those gains to slide back. You get access by buying a membership at the gym front desk. Gyms, boxing clubs and outdoor workout parks are the places to train.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
+    },
+    {
+     "name": "allthings.how",
+     "url": "https://allthings.how/gta-6-gym-system-how-working-out-changes-jason-and-lucia/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-31a7dc63",
+   "title": "Save and load to respawn warehouse loot",
+   "body": "Reloading a save after looting the South Feistdale County building respawns its loot, including the vans' cash and the safe's cash and code. Your cash bags stored in the car stay put, so you can repeat the loop until the stash slots are full, then sell at Brian's lockup. The reel says a loop takes about two minutes.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Loot the building in South Feistdale County, then put all the cash bags in the back of your car",
+    "Save from the start menu, then go to load game and load that save",
+    "Return to the building and loot the vans and the safe again, which have respawned",
+    "Store the new bags in the car, then save and load again",
+    "Repeat until your stored cash bag slots are full",
+    "Go to Brian's lockup, enter code 7700 and sell all the bags"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @oll_ms",
+     "url": "https://www.instagram.com/reel/Df7JmxzKJzA/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-3377766a",
+   "title": "Wear a helmet on bikes",
+   "body": "Auto Equip Helmet is in the Gameplay tab of Settings and is off by default. When it's on, you get a helmet when you mount a motorcycle or bike and lose it when you get off.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Press Options to open the pause menu.",
+    "Choose Settings at the bottom of the pause menu.",
+    "Switch tabs with L1 and R1 until you reach the Gameplay tab.",
+    "Turn on Auto Equip Helmet, which is off by default."
+   ],
+   "steps_source": {
+    "name": "Vice Manual",
+    "url": "https://vicemanual.com/gta-6-settings"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "Vice Manual",
+     "url": "https://vicemanual.com/gta-6-settings"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-33cdf2db",
+   "title": "Statue near Manifest Canyon",
+   "body": "A statue near Manifest Canyon makes the controller vibrate and beep more the closer you get. Four stallions circle it, each with different symbols, and the text on it mentions \"Leonidafication\". The finder thinks it may be GTA 6's Mount Chiliad. No solution is known yet.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y02wt7"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-34a922ff",
+   "title": "Restart a mission to reopen robbed stores",
+   "body": "Sleeping does not reopen stores like it did in GTA 5. The video claims that going to a mission marker with a cutscene, restarting the mission from the pause menu and quitting once the cutscene replays resets the stores. You can then rob them again. Based on one creator's video, so treat it as unconfirmed.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Rob the stores and stash the cash at home",
+    "Go to any mission marker that starts a cutscene",
+    "Open the pause menu and restart the mission",
+    "When the cutscene starts again, quit the mission",
+    "Return to the stores and rob them again"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Musty Sky",
+     "url": "https://www.youtube.com/watch?v=UzFtMo_ZDAo"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-37c3a14e",
+   "title": "Raise look and aim sensitivity",
+   "body": "All four look and aim sensitivities default to 7, which feels sluggish. The creator uses 12 for both look sensitivities and 10 for both aim sensitivities as a starting point. Leave look acceleration alone, and experienced shooter players can raise aim acceleration slightly to snap between targets faster.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the controller section of settings",
+    "Set both look sensitivities to 12",
+    "Set both aim sensitivities to 10",
+    "Adjust to taste, optionally raising aim acceleration slightly"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-3f0ee5e8",
+   "title": "Holster long guns when strolling",
+   "body": "You can carry two concealed handguns at all times. You can also carry two long guns, one on your back and one in your off hand. A long gun on your back is fine, but one held in your hands makes nearby people react and move away.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "Dexerto",
+     "url": "https://www.dexerto.com/gta/rockstar-boss-explains-gta-6-gun-change-that-will-get-you-in-more-trouble-than-before-3406367/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-540c3f84",
+   "title": "Do Key Lento side content first",
+   "body": "Finish the Key Lento side content while you're still there. Once the story moves you to other regions, the drive back to the Leonida Keys takes around 10 minutes. Underwater treasure diving, fishing and neighbour Shirley's odd requests are the three to clear first.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "Red Bull",
+     "url": "https://www.redbull.com/th-th/gta-6-beginners-guide"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-5758152b",
+   "title": "OLED HDR black levels at 15",
+   "body": "On an OLED, the default HDR Black Levels of 50 won't give true black. Set it to 15 and use HGIG instead of Dynamic Tone Mapping on the TV. Set Max Brightness to your TV's peak nits and keep Paper White at 50, since lower values cut max nits.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "On the TV set Dynamic Tone Mapping to HGIG",
+    "In the game's HDR settings set Max Brightness to your TV's peak nits",
+    "Set Black Levels to 15",
+    "Set Paper White to 50"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y06ol2"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-582065b9",
+   "title": "Adaptive speed limiter on R2",
+   "body": "The Adaptive Speed Limiter is a DualSense feature. Press R2 until you feel the trigger resist and hold it there, and the car keeps a reasonable speed for the road you're on. To turn it off, open Options, then Settings, go to the Controller tab and set Adaptive Speed Limiter to Off.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Press R2 while driving until you feel the trigger resist.",
+    "Hold R2 at that resistance point so the vehicle keeps a reasonable speed for the road.",
+    "To turn it off, open Options, then Settings.",
+    "Press R1 once from Control Scheme to reach the Controller tab.",
+    "Find Adaptive Speed Limiter in the DualSense features list.",
+    "Set Adaptive Speed Limiter to Off."
+   ],
+   "steps_source": {
+    "name": "GTA6Map",
+    "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-controller-settings"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "GTA6Map",
+     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-controller-settings"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-6776a1be",
+   "title": "Cleared hideout worth $16,000",
+   "body": "A hideout where everyone is already dead holds a coke van, weapons, a safe and a second room with more loot. Sell the loot at Brian's Lockup for about $10,000, then sell the collectible card from the safe at a shop for $6,000. Stash the cash afterward so you don't lose it if you die.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the hideout location marked on the map and walk inside, where the guards are already dead",
+    "Loot every body, and grab the double bag so you can carry more",
+    "Take the van full of coke, the weapons and the contents of the safe, including the collectible card",
+    "Walk into the next room for more loot and grab the second van outside",
+    "Sell the loot at Brian's Lockup for about $10,000",
+    "Sell the card at a shop for $6,000, then stash your money"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @yooleeem",
+     "url": "https://www.instagram.com/reel/Df658BOxSUS/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-712f111a",
+   "title": "Fix base PS5 stutter",
+   "body": "A base PS5 player fixed micro-stutters and choppiness by clearing the console cache and turning off HDCP. They say it made a massive difference.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Clear the PS5 cache",
+    "Turn off HDCP in the PS5 settings",
+    "Restart the game and check the stutter"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y04mog/if_you_are_on_base_ps5_and_have_issues_with/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-71e41911",
+   "title": "Find Paul Walker's Eclipse early",
+   "body": "A 1995 Mitsubishi Eclipse is in a garage on Vespucci Island by Vice City, about 5 miles from Jason's house, and you can take it before finishing any mission. One reel says a snake attacks when you open the boot. It is also said to be very fast, maybe the fastest car in the game. One creator suggests doing it after Chapter 1, because you lose your stuff then anyway.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the marked house on Vespucci Island by Vice City, about 5 miles from Jason's house.",
+    "Cross the bridge; it is the first building on your left, with two cars parked out front.",
+    "Go through the gate, which opens for you, and leave enough room to drive the car out.",
+    "Break into the door, which triggers an alarm.",
+    "Open the garage door to find the Eclipse inside.",
+    "Break into the car with a Slim Jim."
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @millzaatv",
+     "url": "https://www.instagram.com/reel/Df7CBFkK7Cg/"
+    },
+    {
+     "name": "Instagram: @schlayerr",
+     "url": "https://www.instagram.com/reel/Df7CUxbuos1/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-769f6dc0",
+   "title": "Ask the cashier for the safe code",
+   "body": "When robbing a store, skip the customers, who give only a few dollars. Go for the register, then check for a back safe. You can often get the code by asking the cashier while aiming at them. Leave when sirens start.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Ignore customers and go straight to the cash register",
+    "Check for a safe at the back",
+    "Ask the cashier for the code while pointing your gun",
+    "Stop looting and leave when you hear sirens"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-867b488a",
+   "title": "Samsung Game Motion Plus for smoother 30fps",
+   "body": "On a Samsung TV with Game Motion Plus, set the Xbox to 60 Hz with VRR off, then turn on Game Motion Plus. The TV makes in-between frames so 30fps looks smoother. It adds some input lag and artifacts, and VRR must be off or the option is unavailable.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "On Xbox go to Settings, General, TV & display options and set Resolution to 4K UHD",
+    "Set Refresh rate to 60 Hz (not 120 Hz) and Variable Refresh Rate to Off",
+    "On the Samsung TV open Game Mode Settings, Game Motion Plus and turn it On",
+    "Set Judder Reduction to 10, Blur Reduction to 0 and LED Clear Motion to Off"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y07zdi"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-8cb0ccf3",
+   "title": "Lower stick deadzones to 0",
+   "body": "Both stick deadzones default to 4. Dropping them to 0 makes the camera and character react to tiny movements. If your controller drifts, raise them one step at a time until it stops.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the controller section of settings",
+    "Set the deadzone for both sticks to 0",
+    "Let go of the sticks and watch for drift",
+    "If the camera or character drifts, raise the deadzone one step at a time until it stops"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-8cb8c433",
+   "title": "Keep engine and radio on when exiting",
+   "body": "Normally stepping out of a car shuts off the engine, radio, lights and hazards. Double tapping the exit button (Triangle on PlayStation) leaves them all running, so you can stand by the car with the radio on and escape fast. Commenters confirmed it works.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "While in the car, double tap Triangle to exit",
+    "Check that engine, radio, lights and hazards stay on"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y03px0/tips_on_car_turning_off/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-957d09fd",
+   "title": "Switch units to metric and 24h clock",
+   "body": "Defaults are imperial miles, pounds, Fahrenheit and a 12 hour clock. Pause, open Settings, go to the UI tab and find Units of Measurement. There you can set Distance, Weight, Temperature and Clock Format.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Press Options on PS5 or Menu on Xbox to pause.",
+    "Select Settings at the end of the pause menu.",
+    "Switch to the UI tab with L1/R1 on PS5 or LB/RB on Xbox.",
+    "Under Activities, find Units of Measurement.",
+    "Set Distance to Metric, Weight to Kilos and Temperature to Celsius.",
+    "Set Clock Format to 24 Hour.",
+    "Back out of the menu to apply the changes."
+   ],
+   "steps_source": {
+    "name": "iGeeksBlog",
+    "url": "https://www.igeeksblog.com/change-distance-measurement-units-gta-6/"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "iGeeksBlog",
+     "url": "https://www.igeeksblog.com/change-distance-measurement-units-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-988800aa",
+   "title": "Loot the vans at the stash house",
+   "body": "Once the prologue is done and you've played one or two missions for Brian so the stash house is open, head to the dirt patch just north and east of Hamlet. The vans there have packets in the back that add cash as you pick them up, and one van has a shotgun and an AR rifle. You need two duffel bags; another bag is by the left van. Take the counter cash too, then bring everything to Brian's stash house and drop it in the big bag to bank it.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Do one or two missions for Brian so the stash house is open",
+    "Go to the dirt patch north of Hamlet, east side, and clear each van's trunk first",
+    "Pick up every packet in the vans and grab the weapons on the floor of the second van",
+    "Open the side doors for more packets and weapons, and take the cash on the counter",
+    "Carry the loot to Brian's stash house, unlock it with code 7700 and put it all in the big bag"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Musty Sky",
+     "url": "https://www.youtube.com/watch?v=UzFtMo_ZDAo"
+    },
+    {
+     "name": "Instagram: @ytlukeyy",
+     "url": "https://www.instagram.com/reel/Df6BVE5ofjX/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-9a2575b7",
+   "title": "Sell the vault card at the pawn shop",
+   "body": "The warehouse south of Hamlet in South Vice-Dale County has a safe holding the Leroy Rook collectible card, along with cash and cocaine. Beebom says the card sells at a pawn shop for $6,000. It doesn't say where the pawn shop is.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the warehouse in South Vice-Dale County, south of Hamlet. Beebom calls it an early-game stop with no prerequisites.",
+    "Enter the warehouse and clear the main room and offices.",
+    "Open the safe. It holds extra cash, cocaine and the Leroy Rook collectible card.",
+    "Take the Leroy Rook card from the safe.",
+    "Sell the card at a pawn shop for $6,000."
+   ],
+   "steps_source": {
+    "name": "Beebom",
+    "url": "https://beebom.com/gta-6-best-money-spots/"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Musty Sky",
+     "url": "https://www.youtube.com/watch?v=UzFtMo_ZDAo"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-9dac532f",
+   "title": "Tone down cinematic kill and crash cams",
+   "body": "Cinematic Kill Shot Frequency and Cinematic Vehicle Crash Frequency are sliders in the Camera tab of Settings, in the bottom group. Both default to 3. Turn them down if the cinematic shots break your flow.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open Settings.",
+    "Go to the Camera tab.",
+    "Find the bottom group with the cinematic options.",
+    "Adjust Cinematic Kill Shot Frequency (default 3) to change how often a kill switches to a cinematic shot.",
+    "Adjust Cinematic Vehicle Crash Frequency (default 3) to change how often a crash switches to a cinematic shot.",
+    "Turn both sliders down if the cinematic shots break your flow."
+   ],
+   "steps_source": {
+    "name": "Vice Manual",
+    "url": "https://vicemanual.com/gta-6-settings"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "Vice Manual",
+     "url": "https://vicemanual.com/gta-6-settings"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-adf697f4",
+   "title": "Claim your Ultimate Edition car and guns",
+   "body": "The Ultimate Edition car is the regular starting car with a special kit applied at Coastal Auto Care, not Pay and Spray. The edition guns are in the managed weapons locker at Ammunation. The creator says more items unlock later in the story but hadn't reached them.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Take your starting car to Coastal Auto Care, not Pay and Spray, and go inside",
+    "Pick Full Kits on the left, then D-pad right to Retro Build Ultimate Edition and select it",
+    "Go to Ammunation and walk to the right to the managed weapons locker",
+    "Equip Duval's Signature ES9 from the locker",
+    "Return to the same shop to equip Lucia's Close K17 pistol with her"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df51n5FtxS1/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-b7eaf73d",
+   "title": "Calibrate HDR on max brightness",
+   "body": "On an HDR TV, HDR calibration replaces the normal brightness option. Put the TV in game mode with HGIG on, or tone mapping off if it has no HGIG, so only the game adjusts the picture.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Pause the game and open Settings, then Display.",
+    "Check that HDR, the first row, is On. It is On by default.",
+    "Open HDR Calibration, the second row in the Display group.",
+    "Select Max Brightness (default 600) and move it with the D-pad while watching the test image.",
+    "On image 1/3, the white logo on black, adjust until the logo is barely visible.",
+    "Press R1 to switch to images 2/3 and 3/3. Check that bright areas look vivid without losing detail.",
+    "Adjust Black Levels (default 50) and Paper White (default 50) the same way. Press Square to restore a slider's default.",
+    "Press Cross to finish. Triangle hides the UI, and Circle backs out."
+   ],
+   "steps_source": {
+    "name": "allthings.how",
+    "url": "https://allthings.how/gta-6-hdr-calibration-display-settings/"
+   },
+   "enrich_tried": "2026-11-19T14:48:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "allthings.how",
+     "url": "https://allthings.how/gta-6-hdr-calibration-display-settings/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-ba055fb6",
+   "title": "Keep motion blur on at 30fps",
+   "body": "The game runs at 30fps on base PS5 and PS5 Pro with no performance mode. The creator says a bit of motion blur helps it look smoother, so keep the default of 3, or raise it slightly if 30fps feels rough.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-bba3c633",
+   "title": "Register the Eclipse at Moses' garage",
+   "body": "In Chapter 2 you can bring the Eclipse to Moses' garage shop and register it so it is yours for the rest of the playthrough. The creator paid $6,750 to register it. You could also sell it instead.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Meet Moses in Chapter 2 and drive the Eclipse into his garage shop.",
+    "Talk to Moses and ask for his services.",
+    "Choose to register the car and pay the $6,750 fee."
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @schlayerr",
+     "url": "https://www.instagram.com/reel/Df7CUxbuos1/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-d5ea2c9e",
+   "title": "Turn on progress notifications",
+   "body": "Notifications for discovering new weapons, vehicles and animals, and for completed challenges, are off by default. Turn them on if you are collecting everything, especially the animals one.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-d79f6e62",
+   "title": "Escape cops on the road",
+   "body": "If you have no car, block a driver's path and pull them out, jumping away and retrying if they don't brake. While being shot at, duck with Circle (PS5) or B (Xbox). Hold L1/LB and press R1/RB to shoot back. A sudden U-turn with the handbrake opens a gap.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Run up to a driver and pull them out of their car",
+    "Duck with Circle on PS5 or B on Xbox if shot at",
+    "Hold L1/LB and press R1/RB to shoot back",
+    "Hold X on PS5 or A on Xbox with a left or right steer for a handbrake U-turn",
+    "On a bike, press Square on PS5 or X on Xbox to kick sideways"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-d7dc2830",
+   "title": "Turn off GPS turn indicators",
+   "body": "GPS turn indicators put a big direction card on screen before every turn while driving to a waypoint. Since the route is on the minimap, the creator turns it off or sets it to highways only.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the UI section and go to navigation",
+    "Set GPS turn indicators to off or highways only"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-db7e343d",
+   "title": "Red warehouse loot in Isadel County",
+   "body": "A red warehouse in the south of Isadel County has an SMG and a $6,000 stash bag on the table inside. There are vans with coke to sell, and two hidden rooms. The first has more coke on a table. The second has a register with cash and a safe holding more coke and a rare collectible card you can sell.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @advursityy",
+     "url": "https://www.instagram.com/reel/Df6NIQbB6ej/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-ddbd1e6c",
+   "title": "Turn motion blur to zero",
+   "body": "Motion blur makes spinning the camera look smeared and can make you queasy. Setting it to zero clears the picture, and the creator says 30 FPS looks fine without it.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the settings menu",
+    "Go to Display",
+    "Set motion blur to 0"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @whistrey_",
+     "url": "https://www.instagram.com/reel/Df481-qCGFi/"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-ef59dfcc",
+   "title": "Play cop scanner through the controller",
+   "body": "Controller cop scanner plays the police scanner audio through the DualSense speaker while cops chase you. The controller speaker is not available when you use headphones.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the audio section of settings",
+    "Turn on controller cop scanner",
+    "Play through TV or speakers, not headphones"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-eff277a9",
+   "title": "Silenced pistol and shotgun on boats",
+   "body": "Two legendary weapons sit in boats near the end of a small island. One boat holds a silenced pistol, and another a bit further up holds a legendary shotgun. Bring your own boat to reach them.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Grab a boat and sail to the marked spot at the end of the small island",
+    "Open the boat there to take the silenced pistol",
+    "Head a little further up to the other boat and take the legendary shotgun"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @ytlukeyy",
+     "url": "https://www.instagram.com/reel/Df7Ag7wI1fU/"
+    },
+    {
+     "name": "Instagram: @itseakr",
+     "url": "https://www.instagram.com/reel/Df6YT--zeje/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-f17a6476",
+   "title": "Reduce camera shake and bob",
+   "body": "Camera shake and bob are part of the intended feel, but if you get motion sick or the camera moves too much when running, turning shake off and lowering bob from its default of 10 steadies things.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the camera section of settings and go to comfort",
+    "Turn off camera shake",
+    "Lower camera bob from the default of 10"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-f4cf2043",
+   "title": "Egg in a radio tower nest",
+   "body": "Climbing a radio tower takes about six minutes. At the top there is an egg in a nest, and throwing it off the tower triggers a scene. Which tower was not given.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Climb a radio tower to the top",
+    "Find the egg in the nest",
+    "Throw the egg off the tower to trigger the scene"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/live/news/gta-6-launch-day-november-19"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-f58136a3",
+   "title": "Rob the Keys gas station stores",
+   "body": "Close to your house in the Keys there is a petrol station with two shops you can rob with a gun. Avoid killing anyone so your wanted level stays low, which lets you rob more stores. Two more shops down the road pay less, and the clerk at one door often carries a gun, so you may have to shoot her. Put the cash back in your house so an arrest doesn't cost you the money.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Get a gun, for example from the stash house vans",
+    "Go to the petrol station in the Keys and rob both shops without shooting anyone",
+    "Walk down the road to the left and rob the next stores, taking the armed clerk's gun if needed",
+    "Take the cash home and stash it before the cops catch you"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Musty Sky",
+     "url": "https://www.youtube.com/watch?v=UzFtMo_ZDAo"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-f6a0c875",
+   "title": "How saving works",
+   "body": "The game auto saves after every mission and after big open-world encounters, including getting Wasted or arrested. Otherwise you must save manually, and there are only 15 slots. You can't save during missions, so use the console's Rest mode if you need a break mid-mission.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/live/news/gta-6-launch-day-november-19"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
+  {
+   "id": "t-f6c5a43c",
+   "title": "Read the wanted icons",
+   "body": "After a crime, red icons show what police know: outfit, car or face. A red zone on the map shows where they search. Change the matching thing, then drive slowly, hide visible guns and blend in. Police don't show on the minimap.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Check the red icons at the top right (clothes, car, head)",
+    "Change what they know: new clothes, another car, or face accessories",
+    "Cross the red zone slowly with no visible firearms",
+    "Wait for the red zone to disappear"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Rock Paper Shotgun",
+     "url": "https://www.rockpapershotgun.com/gta-6-how-to-lose-wanted-level"
+    }
+   ],
+   "first_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T14:48:09Z"
+  },
   {
    "id": "t-a54d298a",
    "title": "Best aim settings for easier shooting",
@@ -123,10 +1202,14 @@
     {
      "name": "Polygon",
      "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/"
+    },
+    {
+     "name": "The Big Lead",
+     "url": "https://www.thebiglead.com/gta-6-cheat-codes/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": null
   },
@@ -253,10 +1336,14 @@
     {
      "name": "GTA6Map",
      "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-gameplay-settings"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": {
     "name": "GTA6Map",
     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-gameplay-settings"
@@ -282,10 +1369,18 @@
     {
      "name": "Instagram: @misleadingyt",
      "url": "https://www.instagram.com/reel/Df5bqTusFd3/"
+    },
+    {
+     "name": "Instagram: @sliceofgaming97",
+     "url": "https://www.instagram.com/reel/Df6FXEBJR-_/"
+    },
+    {
+     "name": "Instagram: @millzaatv",
+     "url": "https://www.instagram.com/reel/Df5Nb_HK4R-/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:03:55Z"
   },
@@ -297,7 +1392,10 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Buy armor at a gun shop",
+    "Put it on from the weapon wheel before a fight"
+   ],
    "sources": [
     {
      "name": "YouTube: JorRaptor",
@@ -306,10 +1404,14 @@
     {
      "name": "Insider Gaming",
      "url": "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/"
+    },
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:03:55Z"
   },
@@ -373,7 +1475,11 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Open the gameplay section of settings",
+    "Set movement speed to jog or run",
+    "Set combat movement speed just below it to run"
+   ],
    "sources": [
     {
      "name": "Instagram: @flushablejam",
@@ -382,10 +1488,14 @@
     {
      "name": "GTABoom",
      "url": "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:04:13Z"
   },
@@ -412,10 +1522,14 @@
     {
      "name": "allthings.how",
      "url": "https://allthings.how/gta-6-mute-licensed-music-streaming/"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": {
     "name": "allthings.how",
     "url": "https://allthings.how/gta-6-mute-licensed-music-streaming/"
@@ -522,10 +1636,14 @@
     {
      "name": "WikiGTAVI",
      "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
+    },
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": {
     "name": "WikiGTAVI",
     "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
@@ -607,10 +1725,14 @@
     {
      "name": "PCMag",
      "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:05:46Z"
   },
@@ -671,10 +1793,18 @@
     {
      "name": "YouTube: Boomstick Gaming",
      "url": "https://www.youtube.com/watch?v=Ej0fASAz9f4"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:06:16Z"
   },
@@ -770,10 +1900,14 @@
     {
      "name": "VGC",
      "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/"
+    },
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": {
     "name": "VGC",
     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/"
@@ -817,10 +1951,14 @@
     {
      "name": "Instagram: @flushablejam",
      "url": "https://www.instagram.com/reel/Df4rurRygSU/"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:06:42Z"
   },
@@ -906,10 +2044,18 @@
     {
      "name": "Instagram: @ytlukeyy",
      "url": "https://www.instagram.com/reel/Df6Om2JIoZV/"
+    },
+    {
+     "name": "Instagram: @ttymefromgta",
+     "url": "https://www.instagram.com/reel/Df7MeKHTG4k/"
+    },
+    {
+     "name": "Instagram: @sliceofgaming97",
+     "url": "https://www.instagram.com/reel/Df6mx0DJCtI/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": null
   },
@@ -934,10 +2080,18 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/r/GTA6/comments/1y00880/tips_your_first_few_hours_in_the_keys/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "Instagram: @lamartjr",
+     "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:07:23Z"
   },
@@ -1009,10 +2163,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Open Options, then Settings, then Gameplay.",
     "Scroll to the bottom of the Gameplay list, to options 24 and 25.",
@@ -1038,10 +2196,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Press Down to see your wallet cash and your BuckMe bank money.",
     "Press Up to open your smartphone.",
@@ -1096,10 +2258,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Press Up to open your smartphone.",
     "Open the Scooter Bros app.",
@@ -1200,10 +2366,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "Red Bull",
+     "url": "https://www.redbull.com/th-th/gta-6-beginners-guide"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Park the car in a Parking Space or Garage to store it for a while.",
     "Drive into a Pay 'N' Spray and select Register to swap the plates.",
@@ -1235,10 +2405,18 @@
     {
      "name": "YouTube: MrRoflWaffles",
      "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Press Options.",
     "Select Settings.",
@@ -1552,10 +2730,14 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "Rock Paper Shotgun",
+     "url": "https://www.rockpapershotgun.com/gta-6-how-to-lose-wanted-level"
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:00:23Z"
@@ -1572,10 +2754,14 @@
     {
      "name": "The Big Lead",
      "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:00:23Z"
@@ -1846,10 +3032,14 @@
     {
      "name": "Respec",
      "url": "https://www.respec.net/guide/313-gta6-tips-9-points-for-new-players"
+    },
+    {
+     "name": "Red Bull",
+     "url": "https://www.redbull.com/th-th/gta-6-beginners-guide"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": [
     "Visit an Ammu-Nation store in Leonida; silencers are sold there from the start of the game.",
     "Buy a silencer.",
@@ -1876,11 +3066,23 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/comments/1xzm6wn"
+    },
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y02c7e"
+    },
+    {
+     "name": "YouTube: Octorious",
+     "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null,
+   "last_seen": "2026-11-19T14:48:09Z",
+   "steps": [
+    "Set a destination",
+    "Switch to the cinematic camera",
+    "To allow more use, set auto drive to unrestricted in the gameplay section"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:56:04Z"
   },
@@ -2167,11 +3369,18 @@
     {
      "name": "Insider Gaming",
      "url": "https://insider-gaming.com/how-fitness-works-gta-6-strength-cardio-focus/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null,
+   "last_seen": "2026-11-19T14:48:09Z",
+   "steps": [
+    "Open your loadout when shot",
+    "Press the button shown in the lower left corner to take zombix"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:57:19Z"
   },
@@ -2271,11 +3480,20 @@
     {
      "name": "Sportskeeda",
      "url": "https://www.sportskeeda.com/gta/best-gta-6-early-game-tips-know"
+    },
+    {
+     "name": "Instagram: @gtavi.guides",
+     "url": "https://www.instagram.com/reel/Df4tSp2ia8n/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
-   "steps": null,
+   "last_seen": "2026-11-19T14:48:09Z",
+   "steps": [
+    "Park your own car a few levels up in a multi-storey lot near a bank",
+    "Steal a random getaway car and rob the bank",
+    "Drive straight back to the parking lot while the cops respond",
+    "Stash the cash, change outfits and cruise past the cops watching the exit"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:57:54Z"
   },
@@ -2410,10 +3628,18 @@
     {
      "name": "FandomWire",
      "url": "https://fandomwire.com/gta-6-best-beginner-tips-for-a-head-start-ranked/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "Red Bull",
+     "url": "https://www.redbull.com/th-th/gta-6-beginners-guide"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T14:48:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:27Z"
