@@ -1,6 +1,857 @@
 {
- "updated": "2026-11-19T14:48:09Z",
+ "updated": "2026-11-19T18:09:09Z",
  "tips": [
+  {
+   "id": "t-013ecb00",
+   "title": "First person lock glitch",
+   "body": "Reported glitch that locks the camera in first person until you reload. It starts from the controller settings and the phone inside a car. Keep trying, it takes a few attempts and gets easier.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Open settings, go to the controller section and set the touch pad button option to 2/2",
+    "Get inside a car and open the phone",
+    "Spam the touch pad button and circle to back out of the phone",
+    "Repeat until the view sticks in first person, then reload to leave it"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0g6uo"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-0919b1cc",
+   "title": "Recover a lost loot bag",
+   "body": "If you get busted or killed and lose a bag of loot, go back to the spot where it happened and look for a green bag icon. That icon marks your lost loot. The police could also have the bag, so how you get it back is up to you.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-1dbf6b2d",
+   "title": "Witness the Sahara truck scam",
+   "body": "In Vice City, a Sahara delivery truck crashes into a car. The car's driver sets himself on fire to make the damage worse and asks you to be his witness. Agreeing pays you a few thousand on Buckme, the game's Venmo.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "YouTube: Loredonia",
+     "url": "https://www.youtube.com/shorts/3UEPd7P5Z-s"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-21107380",
+   "title": "Collect every magazine and book early",
+   "body": "Grab every magazine and book in the Chapter 1 house before the chapter ends, since they are listed as missable.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a chapter 1 missable collectible",
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @neonvicechaos",
+     "url": "https://www.instagram.com/reel/Df59mlQI0Jm/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-2b983100",
+   "title": "Stealth route for an impound job",
+   "body": "In an early mission to take a red Phoenix from the police impound, sneaking is simpler than charging in and helps keep your Criminal Profile at Professional. The car always sits in the northeast end of the impound, hooked to a winch. Take down the gate guard silently, open the gate from a wall button, then lower the winch and hotwire the car.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a walkthrough for an early story mission",
+   "unverified": false,
+   "steps": [
+    "Meet Cal at his fishing spot in Corsair Key to start Unwanted Attention",
+    "Hug the left side of the impound's outer wall and enter through the opening in the barbed wire",
+    "Sneak past or choke out the two patrolling guards, one at the gate and one near the Phoenix",
+    "Enter the building behind the Phoenix and silently take down the guard manning the gate",
+    "Press the wall button to open the gate, lower the winch holding the Phoenix and hotwire it",
+    "Drive out through the gate and lose the cops via backstreets or off-road routes",
+    "Repaint the car at the marked Pay and Spray in Hamlet, then drop it at Brian's Garage"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "DualShockers",
+     "url": "https://www.dualshockers.com/gta-6-steal-red-phoenix/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-2e79b3ce",
+   "title": "Treasure hunts from Kenton Rees",
+   "body": "After Brian introduces you to Kenton Rees, the Island Dreams owner, he gives you treasure hunting missions that pay reasonably well. Stolen cars are another quick small payout, sold at Pay 'n' Spray stores and later to Moses.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to Kenton in Key Lento to unlock treasure hunting.",
+    "Take the boat and scanner he gives you.",
+    "Dive and use the scanner to locate sunken treasure. It can take a while.",
+    "Wait for Kenton to sell the valuables. He pays after the sale, which can take a few hours."
+   ],
+   "steps_source": {
+    "name": "Vice",
+    "url": "https://www.vice.com/en/article/gta-6-how-to-make-money-fast/"
+   },
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Yahoo (SVG)",
+     "url": "https://tech.yahoo.com/gaming/articles/money-fast-gta-6-best-163901303.html"
+    },
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=pRLPb15hIyA"
+    },
+    {
+     "name": "Vice",
+     "url": "https://www.vice.com/en/article/gta-6-how-to-make-money-fast/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-319a6ae8",
+   "title": "Chapter 1 tasks vanish at chapter end",
+   "body": "Finish every task Shirley gives you while you are at Jason's place. They disappear when Chapter 1 ends and you can't go back for them.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a chapter 1 missable set of tasks",
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @neonvicechaos",
+     "url": "https://www.instagram.com/reel/Df59mlQI0Jm/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-413cfc5d",
+   "title": "Chapter 1 meditation missable",
+   "body": "After the mission Down to Earth, Lucia offers to meditate on Jason's balcony. Say yes, because that spot disappears afterward. Skipping it may cost you the positive mental attitude trophy.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a chapter 1 missable activity",
+   "unverified": false,
+   "steps": [
+    "Finish Down to Earth",
+    "Say yes when Lucia offers to meditate on Jason's balcony"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @neonvicechaos",
+     "url": "https://www.instagram.com/reel/Df59mlQI0Jm/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-4814adab",
+   "title": "Stay out of the swamp rivers",
+   "body": "Gators live in the murky waters of Grassrivers and other swampy areas. You can spot them sunning on riverbanks or slipping under the surface. The page calls them an apex predator and a constant threat to the unwary, so keep out of the water there.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @mattkahla",
+     "url": "https://www.instagram.com/reel/Df7Q-4wB_AD/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/gta-6/animals/alligator"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-4d27ead6",
+   "title": "Wanted level needs a witness",
+   "body": "Per the reel, the wanted system now needs a witness. With no witness there are no stars, so commit the crime quietly and leave before the cops arrive. Avoid escalating into shootings. If you reach three stars, ditch the car unless it is very fast.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Commit crimes where nobody can see you, and avoid setting off alarms, since police are only alerted by a witness, a report or an alarm.",
+    "If you escape undetected, your wanted level doesn't rise.",
+    "If you're identified, expect stars to climb the longer the chase runs and the more violence and destruction you cause.",
+    "Check the icons under your stars to see what police know: CCTV, your clothing, your description, your weapon and your vehicle.",
+    "To shake police, change clothes and switch vehicles, and split up if you're traveling as a pair."
+   ],
+   "steps_source": {
+    "name": "Dexerto",
+    "url": "https://www.dexerto.com/wikis/gta-6/wanted-system-explained/"
+   },
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @mattkahla",
+     "url": "https://www.instagram.com/reel/Df7Q-4wB_AD/"
+    },
+    {
+     "name": "Dexerto",
+     "url": "https://www.dexerto.com/wikis/gta-6/wanted-system-explained/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-5534a374",
+   "title": "D-pad down shows nearby things to do",
+   "body": "When you don't know what to do next, press down on the directional pad. It highlights nearby missions and activities, and it also shows nearby stores you could rob. It's handy in a busy area when you have no plan.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Stand in the area you want to explore",
+    "Press down on the directional pad",
+    "Pick one of the highlighted missions, activities or stores"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-5d9936fe",
+   "title": "PS5 video output: max resolution and VRR",
+   "body": "Before launch, check your PS5 video output so the console uses the best your display supports. Set resolution to the highest option and VRR to automatic. You can also try applying VRR to unsupported games.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open Settings, then Screen and Video, then Video Output",
+    "Set Resolution to the highest option so the PS5 uses the max your display supports",
+    "Set VRR to Automatic",
+    "Optionally turn on applying VRR to unsupported games"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Naj",
+     "url": "https://www.youtube.com/shorts/VIidOzrpWC0"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-74f706d0",
+   "title": "Rob the store through the front",
+   "body": "In the video, the player scared customers out, threatened the clerk at the front and demanded the register money. The clerk then opened the back and the safe, and no police came right away. Take all the cash, since extra cash can be left behind.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Scare or taunt customers until they leave the store",
+    "Threaten the clerk at the front and demand the register money",
+    "Make the clerk open the back room and safe",
+    "Check every spot for leftover cash before you leave"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-7a39d43d",
+   "title": "Smoking boat cocaine during Kenton treasure runs",
+   "body": "While driving between Kenton's shipwreck treasure spots you may hear an explosion and see a smoking boat in the distance. Cocaine floats in the water around it and you can pick it up from the side of the boat. Donnie's trailer pays more for it than Brian's lock up, and the player made about $6,500 or more per run.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Do Kenton's shipwreck treasure missions, diving in and sweeping the metal detector across the floor to find treasure",
+    "When you hear an explosion on the way to the next wreck, drive to the smoking boat in the distance",
+    "Pick up the cocaine floating in the water from the side of the boat, and avoid jumping in because sharks can attack",
+    "Finish the remaining treasure spots and deliver the treasure back to Kenton",
+    "Drop the cocaine at Donnie's trailer, which pays more than Brian's lock up",
+    "Collect the payment from your mailbox"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @schlayerr",
+     "url": "https://www.instagram.com/reel/Df5cE1ZhNx8/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-7a9f72b6",
+   "title": "Turn motion blur off",
+   "body": "Motion blur defaults to 3 and looks heavy. Setting it to 0 removes the extra blur and the picture looks cleaner.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-847082ca",
+   "title": "Car theft needs tools and can be tracked",
+   "body": "One-button car theft is gone. You start with cheap cars and basic locks, and better rides need tools such as a slim jim for one car and a key cloner for another, which you earn as you progress. Nice cars may carry GPS trackers, so you may have to outrun the signal before the car is really yours.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Hold UP to open WAiNK, then hold R1 or RB to scan the car.",
+    "Press Triangle or Y to check whether the door is locked.",
+    "If it is locked, press Square or X to smash the window. This can set off an alarm.",
+    "Hotwire the engine by bringing both sticks together to fill the semi-circles.",
+    "For a keyless car, use a key cloner, because hotwiring won't work on it.",
+    "If the car has an advanced tracker, keep moving at high speed so it doesn't transmit the location.",
+    "Drive fast until you've lost the cops.",
+    "Sell the car, or register it at a Pay 'n' Spray. Some trackers can make a Pay 'n' Spray refuse the car."
+   ],
+   "steps_source": {
+    "name": "GTABase",
+    "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+   },
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @mattkahla",
+     "url": "https://www.instagram.com/reel/Df7Q-4wB_AD/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-8659d2bb",
+   "title": "Drunk man near La Medusa gives spear gun",
+   "body": "At night next to La Medusa, a drunk NPC named Jimmy asks for money, and handing it over got the player a spear gun. The player says to go with under $200 so it costs less than the gun store price, but the video is unclear on that. The spear gun can be holstered on your back.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Go to the spot next to La Medusa at night",
+    "Carry less than $200 before you talk to the drunk man, Jimmy",
+    "Give him the money when he asks",
+    "Take the spear gun and put it away on your back"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=CWObxNWTt0w"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-8976f7f3",
+   "title": "Dial down screen effects to 1",
+   "body": "Set player status effects, hit effects and awareness effects to 1. You still get the effect but it is less intense.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-89cb3773",
+   "title": "Free rocket launcher and SMG in an impound bunker",
+   "body": "After the mission \"Building a Life\" you can store weapons in your car, which lets you grab an unguarded Honors HAT rocket launcher early. It is in a bunker in an RV in an impound block southwest of the Griffin Firing Range, north of the starting area in the Keys. Rocket ammo can't be bought, so save before firing and keep the launcher in your car trunk.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Progress to the mission \"Building a Life\" so you can store weapons in your car",
+    "Head north of the starting area in the Keys, west of Vice City, to the Griffin Firing Range",
+    "Find the impound block just southwest of the range and go through the unlocked gate",
+    "Find the RV covered in antennas and satellite dishes and enter from the north",
+    "Open the bunker hatch and take the Honors HAT rocket launcher (4 rockets) from beside the safe",
+    "Also take the Conspiracist Type 9 SMG, frag grenades, adrenaline and zombics",
+    "Save your game before firing the launcher"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @igndotcom",
+     "url": "https://www.instagram.com/reel/Df5xXWrmSz4/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-8dee9956",
+   "title": "Touchpad can switch camera",
+   "body": "On PS5 the touchpad opens the map by default. Setting it to camera lets you change the camera on the fly, but then the map is only reachable through Start and the map tab.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Change the touchpad option from map to camera",
+    "Press the touchpad to switch camera views",
+    "Open the map by pressing Start and choosing map"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-96afdf4c",
+   "title": "Whistle to distract enemies",
+   "body": "You can whistle to pull an enemy's attention, which helps in stealth and also during activities like bank heists. Have a plan for what happens afterwards.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-98f33b22",
+   "title": "Rob with your partner, both masked",
+   "body": "Solo robberies work, but it is easier with your partner, who controls the crowd while you loot. They warn you when cops are close. Give one of your bags to the other character, who can also distract the cops.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Bring your partner on the robbery and have both of you wear masks",
+    "Let your partner control the crowd while you bag the loot",
+    "Hand one bag to the other character if you carry several",
+    "Use your partner as a distraction if the cops arrive"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-9a50a170",
+   "title": "Legendary sniper and pistol on Bobcat Key",
+   "body": "Both legendary weapons are on Bobcat Key, just left of Mariana County and north of Key Lento. A suppressed sniper (FF-SR) is in a boxed compound near the start of the island, and the Turnt Nipper .38 pistol is at the island's northern tip.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the map and go to Bobcat Key, north of Key Lento",
+    "At the compound at the start of the island, follow the fence on the right side",
+    "Walk through the crack in the fence and push through the bushes on the right to the boxes, where the suppressed FF-SR sniper is",
+    "Continue north up Bobcat Key to Bobcat Bite, the northernmost accessible part of the island",
+    "Find the tree with a vehicle stuck in a parachute and shoot the strings with any weapon",
+    "Pick up the Turnt Nipper .38 pistol that is behind where the vehicle falls"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @misleadingyt",
+     "url": "https://www.instagram.com/reel/Df60OPyhZbO/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-9aa20c15",
+   "title": "Raid Illegal Operations for cash",
+   "body": "Illegal Operations are criminal bases you can raid without worrying about the law, and they hold cash or drugs. Sell the loot to Brian, Donnie or Bunk, whichever is available in the early chapters. In Chapter 1, hit the Three Sheets liquor store first for a four-figure payout, then the Kingfisher operations in remote parts of Key Lento. Chapter 2 has at least 10 more across Kelly County and Mariana County, and some pay five figures.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Yahoo (SVG)",
+     "url": "https://tech.yahoo.com/gaming/articles/money-fast-gta-6-best-163901303.html"
+    },
+    {
+     "name": "SVG",
+     "url": "https://www.svg.com/2321868/how-make-money-fast-gta-6-explained/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-a59b4d5d",
+   "title": "Knock out the cashier after a robbery",
+   "body": "When holding up a store you can pick dialogue to threaten the cashier. Knocking him out removes the witness, and a few minutes later he wakes up and calls the cops, who surround the building thinking you are still inside.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Threaten the cashier with the dialogue options",
+    "Stay aimed at him while you grab the cash",
+    "Knock him out to remove the witness",
+    "Take his wallet and leave"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @blue_thundergaming",
+     "url": "https://www.instagram.com/reel/Df56Fx8CnS4/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-ac88879c",
+   "title": "Solo or duo stealth",
+   "body": "Some missions allow stealth but do not require it. With two people, your partner can get detected and you cannot control that, though they are good at coordinated takedowns. Playing non-lethally and escaping cleanly boosts your Criminal Profile.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-aec7ff7e",
+   "title": "Bank cash so a bust can't take it",
+   "body": "Cash you carry is lost if you get wasted or busted, along with a small BuckMe maintenance fee and any weapons you don't own. Bank money sits in your BuckMe account and is safe, so deposit pocket cash at an ATM before risky jobs. Side income comes from store robberies, safes and selling cars.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Know that being wasted or busted costs you your pocket cash, a small BuckMe maintenance fee and any unowned weapons.",
+    "Deposit your pocket cash at an ATM, especially before a risky job. Banked money in your BuckMe account is safe.",
+    "Rob almost any store you walk into, but convenience stores and gas stations pay only a couple of thousand dollars at most.",
+    "Check the map for marked safes, and look for safes inside stores. Some need a combination, found through clues or NPCs.",
+    "Scan cars with the WAiNK app to check value and security.",
+    "Sell cars with trackers for cash, or register them as your own, at a Pay 'n' Spray once the story unlocks it."
+   ],
+   "steps_source": {
+    "name": "GTABase",
+    "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide"
+   },
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "Instagram: @mattkahla",
+     "url": "https://www.instagram.com/reel/Df7Q-4wB_AD/"
+    },
+    {
+     "name": "GTABase",
+     "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-af463d31",
+   "title": "Check your stats in the fitness app",
+   "body": "Your health affects what you can do in the field, so work out at the gym and do cardio. The phone's fitness app shows your Strength, Cardio and Focus levels, so you can see where you're weakest.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-19T18:09:09Z",
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-b5a01dd1",
+   "title": "Missing persons hangar near Moses",
+   "body": "In chapter 2, a closed hangar sits to the right of Moses' shop. Its entrance is shut but you can crawl in from the right side. Inside are belongings of missing persons from posters and photos that seem to point to body locations. Collecting them sends texts to Cal and adds a question mark at the hangar location.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": [
+    "Go to Moses' shop in chapter 2 and turn right",
+    "Find the closed hangar on your right",
+    "Go around its right side and crawl inside",
+    "Collect the belongings and photos"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0ccn1"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-bb19050a",
+   "title": "Hero dog rescues you at sea",
+   "body": "If you get lost in the ocean, a dog wearing goggles can come rescue you on a jet ski. It then rides along with you.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: Loredonia",
+     "url": "https://www.youtube.com/shorts/3UEPd7P5Z-s"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-bc429542",
+   "title": "Talk while driving for backstory",
+   "body": "Chatting with your partner, especially while driving, gives you details about Jason and Lucia's backgrounds that the main story does not cover. They also discuss what is currently going on, which works as a story refresher.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-c420f050",
+   "title": "Upgrade your pistol, not long arms",
+   "body": "You get a free long arm weapon at the first ammunition store, but NPCs react to you carrying one. Spend upgrade money on your pistol instead, since you carry it all the time and use it often.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/gwEjOKrsDzc"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-c5041a54",
+   "title": "Which weapons you can get back",
+   "body": "Purchased weapons are tied to Jason and Lucia, so if you lose them, get them from a weapon storage or your vehicle's trunk. Unique weapons found while exploring cannot be modified, and both characters can use them once unlocked. Weapons dropped by enemies can go in your trunk in small numbers, but once lost they cannot be retrieved from storage.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-cd2ec070",
+   "title": "Sell your stash bag at the drop-off",
+   "body": "Robbery loot goes into a bag that can hold narcotics, jewelry and marked bills. Take it to the drop-off the game marks and choose Sell stash bag to get paid. Marked bills are dirty money and need laundering, which the player had not learned yet.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Finish the robbery and keep the loot bag",
+    "Go to the drop-off location the game marks",
+    "Choose Sell stash bag"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
+  {
+   "id": "t-e0d7b16f",
+   "title": "Launch a jet ski with a trailer",
+   "body": "You can hook a trailer under your car and use it to lower a jet ski into the water, then ride it.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Hook a trailer under your car",
+    "Drive to the water and use the trailer to lower the jet ski in",
+    "Hop on the jet ski and ride"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "sources": [
+    {
+     "name": "Instagram: @blue_thundergaming",
+     "url": "https://www.instagram.com/reel/Df56Fx8CnS4/"
+    }
+   ],
+   "first_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-19T18:09:09Z"
+  },
   {
    "id": "t-063b5d57",
    "title": "Turn off inverted aircraft controls",
@@ -76,10 +927,14 @@
     {
      "name": "Instagram: @ghostninja",
      "url": "https://www.instagram.com/reel/Df58gNBTcX4/"
+    },
+    {
+     "name": "Instagram: @sliceofgaming97",
+     "url": "https://www.instagram.com/reel/Df7q3Tbpv2N/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-19185982",
@@ -109,10 +964,14 @@
     {
      "name": "GTABase",
      "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/EKhowBIybOU"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-299c1759",
@@ -133,10 +992,14 @@
     {
      "name": "allthings.how",
      "url": "https://allthings.how/gta-6-gym-system-how-working-out-changes-jason-and-lucia/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/EKhowBIybOU"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-31a7dc63",
@@ -263,10 +1126,14 @@
     {
      "name": "YouTube: Octorious",
      "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-3f0ee5e8",
@@ -523,10 +1390,14 @@
     {
      "name": "YouTube: Octorious",
      "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-8cb8c433",
@@ -905,10 +1776,14 @@
     {
      "name": "Instagram: @itseakr",
      "url": "https://www.instagram.com/reel/Df6YT--zeje/"
+    },
+    {
+     "name": "Instagram: @sartheofficial",
+     "url": "https://www.instagram.com/reel/Df7UMFCT7-V/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-f17a6476",
@@ -933,10 +1808,14 @@
     {
      "name": "Instagram: @kod12yt_",
      "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-f4cf2043",
@@ -957,10 +1836,14 @@
     {
      "name": "TechRadar",
      "url": "https://www.techradar.com/live/news/gta-6-launch-day-november-19"
+    },
+    {
+     "name": "YouTube: Loredonia",
+     "url": "https://www.youtube.com/shorts/3UEPd7P5Z-s"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T18:09:09Z"
   },
   {
    "id": "t-f58136a3",
@@ -1178,10 +2061,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+    },
+    {
+     "name": "Instagram: @captaineggcellent",
+     "url": "https://www.instagram.com/reel/Df7heJ5gsuS/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:03:01Z"
   },
@@ -1329,10 +2216,18 @@
     {
      "name": "Instagram: @millzaatv",
      "url": "https://www.instagram.com/reel/Df5Nb_HK4R-/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/_Eo2i6Nl-7g"
+    },
+    {
+     "name": "Instagram: @catflix1433",
+     "url": "https://www.instagram.com/reel/Df6NxP9M18H/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:03:55Z"
   },
@@ -1444,10 +2339,14 @@
     {
      "name": "YouTube: Octorious",
      "url": "https://www.youtube.com/watch?v=Jk-6qrO6hqQ"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:04:13Z"
   },
@@ -1512,10 +2411,14 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-best-tv-settings/"
+    },
+    {
+     "name": "YouTube: Naj",
+     "url": "https://www.youtube.com/shorts/VIidOzrpWC0"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": {
     "name": "Beebom",
     "url": "https://beebom.com/gta-6-best-tv-settings/"
@@ -1592,10 +2495,14 @@
     {
      "name": "Instagram: @lamartjr",
      "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
+    },
+    {
+     "name": "YouTube: JoblessGarrett",
+     "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": {
     "name": "WikiGTAVI",
     "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
@@ -1634,10 +2541,14 @@
     {
      "name": "GameRiv",
      "url": "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/"
+    },
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": {
     "name": "GameRiv",
     "url": "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/"
@@ -1672,7 +2583,12 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Go to Zeke's Gadgets in Hamlet, north of the starting area in the Keys",
+    "Buy the headphones",
+    "Open your loadout, go to items and equip the headphones",
+    "Press left on the d-pad to pick a radio station or podcast"
+   ],
    "sources": [
     {
      "name": "PCMag",
@@ -1681,10 +2597,14 @@
     {
      "name": "Polygon",
      "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/G_blODCY5wY"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:05:46Z"
   },
@@ -1753,10 +2673,14 @@
     {
      "name": "Instagram: @kod12yt_",
      "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:06:16Z"
   },
@@ -1927,10 +2851,14 @@
     {
      "name": "PCMag",
      "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/EKhowBIybOU"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:07:23Z"
   },
@@ -2119,10 +3047,18 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options"
+    },
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/what-are-the-gta-6-difficulty-options/"
+    },
+    {
+     "name": "YouTube: NIXNE",
+     "url": "https://www.youtube.com/shorts/_2UhpYno70E"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": [
     "Open Options, then Settings, then Gameplay.",
     "Scroll to the bottom of the Gameplay list, to options 24 and 25.",
@@ -2686,10 +3622,14 @@
     {
      "name": "Rock Paper Shotgun",
      "url": "https://www.rockpapershotgun.com/gta-6-how-to-lose-wanted-level"
+    },
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:00:23Z"
@@ -3058,10 +3998,14 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/comments/1y012am"
+    },
+    {
+     "name": "YouTube: Loredonia",
+     "url": "https://www.youtube.com/shorts/3UEPd7P5Z-s"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:56:04Z"
@@ -3179,10 +4123,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T00:46:10Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": [
     "Drive the car you want to keep into a Pay 'N' Spray.",
     "Make sure you have a free Stored Vehicle slot. Sell an older car at the Pay 'N' Spray to free one.",
@@ -3228,7 +4176,7 @@
    "category": "exploration",
    "spoiler": false,
    "hint": null,
-   "unverified": true,
+   "unverified": false,
    "sources": [
     {
      "name": "r/GTA",
@@ -3237,10 +4185,14 @@
     {
      "name": "gtacheat.codes",
      "url": "https://gtacheat.codes/"
+    },
+    {
+     "name": "ABP Live",
+     "url": "https://news.abplive.com/gaming/gta-6-cheat-codes-ps5-xbox-how-to-unlock-infinite-ammo-zero-fall-damage-more-1876612"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": null
@@ -3540,10 +4492,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/gwEjOKrsDzc"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
+   "last_seen": "2026-11-19T18:09:09Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:27Z"
@@ -3588,11 +4544,29 @@
     {
      "name": "Red Bull",
      "url": "https://www.redbull.com/th-th/gta-6-beginners-guide"
+    },
+    {
+     "name": "GamingBolt",
+     "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/gwEjOKrsDzc"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/EKhowBIybOU"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T14:48:09Z",
-   "steps": null,
+   "last_seen": "2026-11-19T18:09:09Z",
+   "steps": [
+    "Wear a mask, then change your hairstyle to mix up your look",
+    "Keep spare outfits in a trunk and change quickly",
+    "Swap to a registered vehicle at the Pay and Spray",
+    "Unselect your weapons and split up from your partner",
+    "Destroy CCTV at the crime scene, knowing the alarm will still go off eventually"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:27Z"
   },
