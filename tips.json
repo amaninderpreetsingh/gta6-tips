@@ -1,6 +1,1756 @@
 {
- "updated": "2026-11-20T06:07:02Z",
+ "updated": "2026-11-20T06:33:32Z",
  "tips": [
+  {
+   "id": "t-012b07aa",
+   "title": "Story choices may change your ending",
+   "body": "Rockstar has said missions can be finished in several ways, and some choices, like trusting a certain character, may feed into the ending. This is speculation so far, so keep a manual save before big story decisions if you want to see other outcomes.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "story choices that may affect the ending",
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-0cd48773",
+   "title": "Swap between Jason and Lucia in chases",
+   "body": "High-star pursuits are built around switching between the two characters. Take the passenger to disable cruisers and helicopters, then switch to the driver to dodge roadblocks and lose the cops.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0p5im"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-10fe1fd1",
+   "title": "Check your TV's HDMI 2.1 support on Xbox",
+   "body": "On Xbox Series X/S, go to Settings > General > TV and Display Options > 4K TV Details. Green checkmarks mean your TV and HDMI port can handle the console's best features. Those advanced features need HDMI 2.1, and on some TVs only certain ports have it, so plug the Xbox into the best one.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open Settings on your Xbox Series X/S.",
+    "Go to General, then TV and Display Options.",
+    "Select 4K TV Details.",
+    "Look for the group of green checkmarks, which shows your TV and HDMI port can handle the console's best features.",
+    "Remember the advanced features need HDMI 2.1, and on some TVs only certain ports support it.",
+    "Use the TV's best HDMI port for the Xbox."
+   ],
+   "steps_source": {
+    "name": "Engadget",
+    "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/"
+   },
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-1455437d",
+   "title": "Reload a save instead of paying repairs",
+   "body": "Car repairs can cost a lot. Save your game and reload that save: you likely respawn at your house with money still in the bank and a fully repaired car outside. Narcotics you carried end up in the trunk. Saving and reloading far from home respawns you far from home.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Save your game",
+    "Reload the save you just made",
+    "Collect the repaired car outside your house"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-1ae01413",
+   "title": "Loot floating coke from wrecked boats",
+   "body": "Around Leonida Keys, a small boat exploded and the body and the floating coke could be looted. A shark showed up while looting in the water, and a spear gun found on the boat killed it. Taking the duffel bag of stash to Brian's drop house paid $1,600.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Find a wrecked or exploded boat near Leonida Keys",
+    "Loot the body and the floating coke",
+    "Take the duffel bag of stash to Brian's drop house to sell it"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0syzq/this_is_not_a_complaint_post_but_is_anyone_else/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-1b7c6cd4",
+   "title": "Repair the punching bag for cardio",
+   "body": "The Heavy Punching Bag is in the garden shed underneath Jason's house in Key Lento. Interact with it and hang it under the house, then start a Cardio workout. It's one of the quickest early ways to raise Cardio, which raises max Stamina. The guide gives no per-set percentage.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to Jason's house in Key Lento, Leonida Keys.",
+    "Enter the garden shed underneath the house and find the Heavy Punching Bag.",
+    "Interact with the bag and choose the option to hang it underneath the house.",
+    "Approach the hung bag and start a Cardio workout.",
+    "Follow the on-screen prompts and finish without running out of Stamina.",
+    "Check the Fitness app to confirm the session counted.",
+    "Eat, rest, then repeat in the next available Workout Window."
+   ],
+   "steps_source": {
+    "name": "KeenGamer",
+    "url": "https://www.keengamer.com/articles/guides/gta-6-stamina-guide-how-to-work-out-and-increase-cardio/"
+   },
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    },
+    {
+     "name": "KeenGamer",
+     "url": "https://www.keengamer.com/articles/guides/gta-6-stamina-guide-how-to-work-out-and-increase-cardio/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-1f21ee42",
+   "title": "How to drift AWD and RWD cars",
+   "body": "In an AWD car you can hold the throttle to keep a four wheel drift. In a RWD car you also need to counter steer, or you will spin out.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0klow"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-21ed9eb3",
+   "title": "Raise combat movement speed to jog",
+   "body": "The gameplay settings have a separate combat movement speed. The video suggests raising it to jog so you move faster during gunfights.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/SuoedKji6uY"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-22c954c8",
+   "title": "Hidden bunker gives a free expensive car",
+   "body": "A trapped compound in North Leonard County hides a bunker with a pricey car. Save first, since you can die to the mines and drones. The owner makes you come back later for a second, harder round, and you must stay with him in the bunker during the crisis to get the car. The side mission makes Lucia dislike you, but you can win her back. Register the car with Moses so you keep it.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the compound in North Leonard County and save the game before entering",
+    "Take a tractor from a nearby farm to the back of the compound",
+    "Run to the bunker door through the mines and drones, and bring meds",
+    "Wait for the owner's text, then return for the second round with more traps",
+    "Take the tractor over the fence and past the dirt mound to the right of the bunker to reach the door",
+    "Choose to stay with him in the bunker during the crisis to receive the car",
+    "Take the car to Moses and register it"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @schlayerr",
+     "url": "https://www.instagram.com/reel/Df8BUL8BWjw/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-276f6dbb",
+   "title": "Peggy's scooter unlocks Shirley's car",
+   "body": "Keep visiting Shirley and she gives a follow-up mission involving her friend Peggy. You steal Peggy's mobility scooter and finish the mission, which lets you borrow Shirley's car whenever you want.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-2ea90669",
+   "title": "Unlock the trunk from the driver's seat",
+   "body": "You can unlock a car's trunk from inside the car, so you don't have to smash the back window with a Slim Jim and set off the alarm. Use the same button that changes the radio to open the car utilities menu.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Get into the driver's seat of the car you want to loot",
+    "Press the radio-change button to open the car utilities menu",
+    "Unlock the trunk from that menu and loot it"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0qib6"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-322e2853",
+   "title": "Destroy CCTV before a robbery",
+   "body": "CCTV cameras really work. If you destroy them before the crime, there is no recording to wipe and the cops can't ID you from it. Plan this before you go in.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-35f03b56",
+   "title": "Exotic Animals Front cash in Key Lento",
+   "body": "Do Shirley's rum errand from the liquor store, then return to the store and investigate the noises in its backroom. The clerk blocks the staff area, so climb the fence beside the store into the courtyard, clear the guards and talk to the parrot. It points to the generator, where the vent holds $1,300. The backroom safe has $900 plus valuables, and the register has $100.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Visit Shirley and accept her request to bring her a bottle of rum from the nearby liquor store",
+    "Return to the store and investigate the noises from its backroom; the clerk won't let you in",
+    "Leave the store, climb the fence beside it and enter the courtyard",
+    "Take out the criminals guarding the caged animals and interact with the parrot",
+    "Open the vent beside the generator to collect $1,300",
+    "Go into the backroom, crack the safe for $900 and valuables, and grab $100 from the register"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/rz_iJcKjMlY"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-3fbac723",
+   "title": "Sneak through the Gone Fishing camp",
+   "body": "You only have one weapon at the camp, and shots alert everyone there. Go stealth instead, using the high grass on the right side. You don't need to clear the camp: just reach the dock with Donnie's plane and the mission moves on.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Crouch with Circle and move into the high grass on the right side of the camp",
+    "Sneak up on an enemy and grab them with R2",
+    "Take them out quietly, no shooting",
+    "Head to the dock with Donnie's plane to finish, clearing the camp is optional"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df5QtCACh-n/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-46b42284",
+   "title": "Race at Gelhorn Raceway for cash",
+   "body": "Gelhorn Raceway has races you can enter for money. Renting a car costs about $500 and a win pays up to $4,000, in around five minutes.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the Gelhorn Raceway icon on the map",
+    "Rent a car for about $500",
+    "Enter and win a race"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-489059cf",
+   "title": "Slow down with focus mode while driving",
+   "body": "Press both sticks down while driving to enter focus mode and slow time. This helps when you need to take a quick turn: brake, leave focus mode and carry on.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Press both the left and right sticks down to enter focus mode",
+    "Brake for the turn while time is slowed",
+    "Leave focus mode and keep driving"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df8EZInhtnh/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-528fe1e5",
+   "title": "Ultimate Edition Chapter 1 items vanish",
+   "body": "Three Ultimate Edition perks are Chapter 1 only: the Dinka Enduro motorcycle, the Crest Kayak and the Vapid Ganado Retro Build. Use all three before Chapter 1 ends. The page doesn't say where to find them or how to use them. It says the chapter requirements are listed in the in-game store and were documented by IGN.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": 1,
+   "missable": true,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0m8wy"
+    },
+    {
+     "name": "Rockstar Report",
+     "url": "https://rockstarreport.com/news/gta-6-ultimate-edition-bonuses-chapter-locked"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-59de6e92",
+   "title": "Max savings and romance for best ending",
+   "body": "GTA 6 has multiple endings, at least four so far. The best one comes when Jason and Lucia are deeply in love and their shared savings account has reached the maximum of two million dollars. Keep the relationship maxed and build the savings together.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a late-game system that affects how the story ends",
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-5bcd9633",
+   "title": "Ask your driver to speed up",
+   "body": "When you ride as the passenger with your partner driving, hold Right on the D-pad and press Square on PS5 or X on Xbox to ask them to speed up. The page doesn't say they ignore traffic laws. It says the driver follows traffic rules and stops at red lights.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Travel with both Jason and Lucia in the car",
+    "Ride as the passenger instead of driving",
+    "Instruct the driver to speed up so they ignore traffic laws"
+   ],
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JayWayyGaming",
+     "url": "https://www.youtube.com/shorts/T8FzQ5cW-94"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/how-to-auto-drive-in-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-5cd59ac1",
+   "title": "Odd room in a hotel",
+   "body": "In the Day Release mission, Lucia goes to the hotel bathroom and has to find her way back to the others. You can open the wrong doors on the way and find strange things. Room 305 reportedly has a tattooed man standing still with his back to the door and candles around the bed. Only one player has reported this and nobody has explained it.",
+   "category": "exploration",
+   "spoiler": true,
+   "hint": "an optional detail during a story mission",
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0uhay"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-5e31a133",
+   "title": "Early sniper and parachute at R&D tower",
+   "body": "A secret R&D tower sits very close to Jason's house. Climbing it and grabbing the Thelma collectible card lets you flip a voltage switch, which opens the way to a sniper rifle. A parachute is waiting at the top of the tower.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the map and go to the R&D tower right next to Jason's house",
+    "Climb the tower and grab the Thelma collectible card",
+    "Flip the voltage switch",
+    "Head out the door to pick up the sniper rifle",
+    "Climb to the top of the tower for the parachute"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @double_trouble_gaming1",
+     "url": "https://www.instagram.com/reel/Df8UBPqgRPn/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-651a1c1e",
+   "title": "Holster your weapon to cool off",
+   "body": "Cops react badly to a suspect holding a gun, so put your weapons away while you're trying to lose the heat. Treat it as one of several general ways to cool off, along with changing your look, ditching your vehicle and breaking line of sight.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": "2026-11-20T06:33:32Z",
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-655d601a",
+   "title": "Keep the relationship up for a good ending",
+   "body": "Keeping Jason and Lucia's relationship at its fullest without maxing the bank account gets a good, but not the best, ending. Two late-game systems affect the story: the shared account balance and how close the couple is.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "a late-game system that affects how the story ends",
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-661f27a4",
+   "title": "Trailer cash near the exit is an ambush",
+   "body": "A trailer near the exit of the Gone Fishing camp has cash on a table. Grabbing it triggers an ambush, so be ready before you take it.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df5QtCACh-n/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-6a71139e",
+   "title": "Free hammer behind Donnie's building",
+   "body": "In the first mission area there is a hammer behind Donnie's building. It's a free extra melee weapon.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df5QtCACh-n/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-6c7ecd77",
+   "title": "Help broken-down cars for a drug stash",
+   "body": "Random roadside events have people pretending their car is broken down while hiding drugs in it. Offer help, and if they don't tell you to leave, search the trunk for a stash. It's an average duffel bag worth about $1,280 in illegal products. Take it to Brian's Lockup and collect the money from your mailbox the next day. These have no fixed location, so keep driving around.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Approach the person by a broken-down car and offer assistance",
+    "Investigate the vehicle and search the trunk for the stash",
+    "Take the duffel bag to Brian's Lockup",
+    "Collect the money from your mailbox the following day"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-72085371",
+   "title": "Starter car handles badly, unlearn GTA 5",
+   "body": "Driving is quite different from GTA 5, so drop the old habits and learn the new handling. The starter vehicle isn't meant to be good. Better cars you find later have better traction and are smoother to drive.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df8EZInhtnh/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-792f3dd4",
+   "title": "Simplified workout mini-games",
+   "body": "Turning on simplified mini games in the gameplay settings makes squats, deadlifts and bench presses easier. Useful if you repeat the strength workouts daily for the buffs.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-7bf8d878",
+   "title": "Feather the gas and brake when driving",
+   "body": "Driving is less arcade-like than in GTA 5, so you need to ease off the brake and gas to keep from spinning out. On a PS5 DualSense the adaptive triggers add resistance, which makes it easier to feel how hard you are pressing when you floor it.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Gizmodo",
+     "url": "https://gizmodo.com/gta-vi-ps5-xbox-series-x-comparison-2000842565"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-7ecf499f",
+   "title": "Secret basketball challenge at Sahara Arena",
+   "body": "There is a hidden basketball challenge at the Sahara Arena. Make 5 shots inside the time limit to unlock a headband. Playing basketball at 10 courts around the world also unlocks a unique cab.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/1Q5OBwNnch4"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-80cbc91e",
+   "title": "Classic controls: swim faster also dives",
+   "body": "One PS5 player on the classic controls setting says the Cross button, the swim faster command, also makes the character swim down when underwater. They are not sure whether it is normal or a glitch.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0panc"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-825f4538",
+   "title": "Rocket launcher under a blue RV",
+   "body": "Near the shooting range there is a blue RV trailer with a metal trapdoor. Go down it to find a gun workshop with a rocket launcher and other weapons, early in the game.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the shooting range on the map",
+    "Find the blue RV trailer next to it",
+    "Open the metal trapdoor and go down",
+    "Take the rocket launcher from the gun workshop"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-83c1b2ad",
+   "title": "Hidden safe code puzzle near Pawn & Gun",
+   "body": "Hide from the police and walk up the staircase in the building east, across the street, of the Pawn & Gun in Crosstown. The door shuts and glowing graffiti shows a 6 digit code on the wall, then it disappears and may not trigger again, so record it. The code opens a safe on the ground floor and earns the \"The Truth Is Out There\" trophy.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the building across the street, east, from the Pawn & Gun in Crosstown",
+    "Hide from the police and walk up the staircase inside",
+    "Note the 6 digit code in the glowing graffiti before it disappears",
+    "Go to the safe on the ground floor and enter the code"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0jr5x"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-863336b7",
+   "title": "Kingfisher W22 rifle at the Grassrivers compound",
+   "body": "Donnie tells you about a robbery at the Kingfisher compound in Grassrivers. Approaching by boat makes the pier guards easier. Clear them and enter the building nearest the water to find a weapon crate on a desk with the Kingfisher W22 Small Game Rifle, which seems very quiet. Take the drugs and loot to Brian's Lockup.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Get the robbery tip from Donnie",
+    "Approach the compound by boat and take out the guards near the pier",
+    "Enter the building closest to the water",
+    "Open the weapon crate on the desk for the W22 rifle",
+    "Collect the loot and sell it at Brian's Lockup"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-8b912a37",
+   "title": "Ditch a vehicle police recognize",
+   "body": "Officers can recognize the vehicle you're driving, so get out of it as soon as possible once you're being chased.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-93436e76",
+   "title": "Save before the last missing person",
+   "body": "A player who died in the Port Gellhorn missing persons mission in Chapter 2, right before finding the last person, got stuck. The final call to the tip line just ended and the mission would not progress. Keep a recent save before that last find.",
+   "category": "glitches",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": 2,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0k6rt"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-96dde44b",
+   "title": "Turn on VRR and ALLM on Xbox",
+   "body": "Variable refresh rate matches the TV to the Xbox's frames, which cuts stutter and tearing. Auto low latency mode puts the TV into game mode, so there is less post-processing and less delay.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to Settings > General > TV and Display Options > Video Modes",
+    "Check Allow variable refresh rate",
+    "Check Allow auto low latency mode"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-97558e88",
+   "title": "Hobo Shotgun in Hamlet storage building",
+   "body": "An industrial storage building south of Hamlet, toward the highway, has no map icon. You hear someone screaming when you get close. Inside, a weapon case holds the Marabunta Grande Hobo Shotgun, a unique variant you can recover from your weapon locker. Cash is on a nearby table, and a yellow toolbox in the corner has more bundles.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Head south from Hamlet toward the highway and look for an industrial building near the road",
+    "Go in when you hear screaming and open the weapon case for the Hobo Shotgun",
+    "Take the cash from the nearby table",
+    "Open the yellow toolbox in the corner for more cash"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-9a6134fa",
+   "title": "CCTV can ID Jason and Lucia together",
+   "body": "Police can use CCTV footage to recognize Jason and Lucia when they are together, so being seen as a pair makes you easier to identify.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-9b97e0fc",
+   "title": "Push a rolled car back upright",
+   "body": "If you roll your car in a chase, you can walk up to it and flip it back onto its wheels yourself.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Walk up to the rolled car",
+    "Hold Circle to push it back right side up"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JayWayyGaming",
+     "url": "https://www.youtube.com/shorts/T8FzQ5cW-94"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-9d124494",
+   "title": "Set movement speed to run",
+   "body": "Under the movement settings, set both movement speed and combat movement speed to run. You then move faster just by pushing the left stick forward, without hitting sprint constantly.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the settings and go to the movement options",
+    "Set movement speed to run",
+    "Set combat movement speed to run"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-9e56ad53",
+   "title": "Loot bodies for ammo",
+   "body": "In long gunfights, run over and loot the enemies you take out. You are likely to get ammo back and keep the fight going.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-a2a8a451",
+   "title": "Break line of sight and stay low",
+   "body": "Wanted heat scales with how serious your crimes are, much like Red Dead Redemption 2. To get away, break the police's line of sight, alter your appearance and keep a low profile.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-a3c79677",
+   "title": "Finish the opening missions first",
+   "body": "Several features are locked behind the early main missions: vehicle customization, a bank account for buying pricier items, and stash houses where you can sell valuables. Doing those first makes earning money and getting around easier.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-afa4a572",
+   "title": "Turn on the compass",
+   "body": "In the UI settings, turn the compass on. It makes it easier to find your parked car nearby and to spot activities and icons around you.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b172d72c",
+   "title": "Slow down to hook Donnie's packages",
+   "body": "In Gone Fishing, Donnie drops packages from his plane and you pick them up by boat with Cal. Drive up to each package and slow down. If you go too fast, Cal can't hook it.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df5QtCACh-n/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b250dacc",
+   "title": "Six stars means a relentless chase",
+   "body": "At a six-star wanted level the police hit you very hard and never stop chasing. It only ends when you are arrested or dead, so avoid getting there.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JayWayyGaming",
+     "url": "https://www.youtube.com/shorts/T8FzQ5cW-94"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b54c2970",
+   "title": "Stimulant leaves you fully healed",
+   "body": "Using a stimulant at low health gives a temporary yellow health bar. When the effect wears off, your health and stamina end up maxed, as if you had used a normal heal.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b5757731",
+   "title": "Turn off the gore setting",
+   "body": "The game can get very bloody, for example a shotgun blast to the face leaves blood everywhere. There is a setting to turn the gore off if you don't want it.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JayWayyGaming",
+     "url": "https://www.youtube.com/shorts/T8FzQ5cW-94"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b6b8b463",
+   "title": "Tidy the safehouse early",
+   "body": "Early on, Jason is at his safehouse before Lucia arrives, so you can do some upkeep. Use the bathroom to improve your appearance, train stamina with weights or the punching bag, and look around for vehicles you may have stashed.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-b74c096b",
+   "title": "Biker hideout with a shotgun and Mustang",
+   "body": "The big dark blue enterable building near Lake Leonida in Ambrosia is a biker hideout. Clear the bikers and watch for the dog. The back room holds the Short Straw sawed-off shotgun, and afterward you can take the Mustang (Devil's Rope Gauntlet), which has nitrous and a unique wrap.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Head to Ambrosia, just right of Kelly County, using a taxi to Lake Leonida as the nearest easy spot",
+    "Find the big dark blue building, which means you can enter it",
+    "Go inside and take out the bikers, avoiding damage to the Mustang and watching for the dog",
+    "Check the back room for the Short Straw sawed-off shotgun",
+    "Once everyone is cleared, steal the Mustang with nitrous and the unique wrap"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @misleadingyt",
+     "url": "https://www.instagram.com/reel/Df8YDlPN_jS/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-baa82305",
+   "title": "Keepable early weapons: golden AK and more",
+   "body": "An illegal operation marked on your map early on holds a silenced rifle you can keep. A more heavily guarded area has a golden AK, a grenade launcher and more loot, with many enemies. Enter it through the broken fence and go inside the building. The video also names a boat trip from your house to a rival's spot with loot, but gives no exact location.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/shorts/-5ZvTEmdK2A"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-c2053e67",
+   "title": "Rob liquor, clothing and fast food shops",
+   "body": "Robbing isn't limited to convenience stores. Liquor stores, clothing stores and fast food joints work too.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-c2e85eb7",
+   "title": "Store big guns in your car trunk",
+   "body": "You can put picked-up weapons in the back of your vehicle, which suits rifles and shotguns. Early on you can't register these weapons permanently, but anything left in the car can be picked up again later.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-c7c7ec80",
+   "title": "Bird watching with binoculars",
+   "body": "62 bird species can be discovered and logged using binoculars.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-cb5d8030",
+   "title": "Check a car's value in the phone app",
+   "body": "The car app on your phone shows what a car is worth and what it costs to register. You only get three registration spots, so check before you spend one on the first shiny car.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-cd8f0642",
+   "title": "Dirt ramp into Mile Zero air base",
+   "body": "The Mile Zero air base in the bottom left of the map is heavily guarded. Use a bike or agile car, go around the small roadblock and turn right to a dirt pile. Jump the fence with it, take a two-star level, and steal a vehicle fast. Stealing adds more stars.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Take a motorbike or agile car to the spot near the base",
+    "Drive around the small roadblock and turn right",
+    "Use the dirt pile as a ramp to jump the fence",
+    "Steal the vehicle you want quickly"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-cdbca630",
+   "title": "Switch targeting to lock on",
+   "body": "Changing targeting from partial to lock on gives a classic GTA style aim. Raise the aim assist strength as well to make aiming easier.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the settings and go to Gameplay, then Combat",
+    "Change targeting from partial to lock on",
+    "Increase the aim assist strength"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/SuoedKji6uY"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-d40c6ae1",
+   "title": "Steal a nitrous car in Key Lento",
+   "body": "A fast car with nitrous sits in a driveway at a house in Key Lento. Take it after Chapter 1 ends, since you lose your stuff at the end of that chapter, and you need the Slim Jim from Chapter 2 to steal it. Registering it at Moses' garage costs $6,400 so you can keep it.",
+   "category": "driving",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "After Chapter 1, go to the marked house in Key Lento with the car in the driveway",
+    "Use the Slim Jim to steal the car",
+    "Drive the 7.3 miles to Moses' garage without wrecking it",
+    "Ask Moses for services and repair the car if it's damaged",
+    "Register the car for $6,400 to keep it as your own"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": 2,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @schlayerr",
+     "url": "https://www.instagram.com/reel/Df7k6psORy1/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-d5a96820",
+   "title": "Clear map fog with a helicopter",
+   "body": "A helicopter sits just south of Hamlet. Flying it around clears a lot of the map fog in one go. The video says it is most reliable late afternoon, around 4 to 5pm.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the spot just south of Hamlet around 4 to 5pm",
+    "Get in the helicopter",
+    "Fly around the map to clear the fog"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-d688849d",
+   "title": "Turn on speaker names in subtitles",
+   "body": "With subtitles on, enable Speaker Names in the settings so each line shows who is talking. It helps keep the many characters straight.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-d6afb632",
+   "title": "Laird 350 sniper at the motel south of Hamlet",
+   "body": "At the rundown motel south of Hamlet you hear screaming. Find the person crawling outside, then go in, where a tiger is attacking a man. The room has cash, a safe with over $1,000 and about $640 of cocaine on a table. The weapon case holds the Kingfisher's Laird 350 Sniper Rifle.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Walk toward the screaming at the motel south of Hamlet",
+    "Go inside past the crawling person",
+    "Take the cash and open the safe for over $1,000",
+    "Grab the cocaine from the table",
+    "Open the weapon case for the Laird 350 Sniper Rifle"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-db40c948",
+   "title": "Go first person with a scope",
+   "body": "If third-person aiming feels awkward, buy and equip a scope or sight for your weapon at a gun store. Aim and click the right stick to look through it, which switches you to first person.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Buy a scope or sight at a gun store and equip it",
+    "Aim your weapon",
+    "Click the right stick to look through the scope"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-dbbbb216",
+   "title": "Allow HDR10 and calibrate HDR on Xbox",
+   "body": "Allow HDR10 and run the Calibrate HDR for Games tool so bright and dark areas keep their detail on your screen. Dolby Vision is also supported on Series X and S with a Dolby Vision TV, and works best with VRR and ALLM on.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open Video Modes in the TV and Display Options menu",
+    "Check Allow HDR10",
+    "Run the Calibrate HDR for Games tool"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-e4adf707",
+   "title": "Sell collectible cards",
+   "body": "Collectible cards you find around the map aren't just souvenirs. You can sell them for cash.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-e55eb22a",
+   "title": "Defuse nearby cops with L2",
+   "body": "If cops get suspicious of you without a crime, open the interaction menu with L2 and use the Diffuse option on them. It calms them for a short while and can stop things escalating.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the interaction menu with L2 near the cop",
+    "Choose Diffuse"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-e5943344",
+   "title": "Loot plane crash sites fast",
+   "body": "When you see a smoking aircraft go down in Leonida, head to the wreck and search the ground under the burning plane for cocaine, around $1,000 worth at most sites. A body nearby has loot and a flare gun. Other criminals arrive to claim the drugs and police follow, so grab everything, kill anyone who approaches and leave. Turn the drugs into cash at Brian's Lockup.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Follow the smoke to the crash site",
+    "Search the ground under the burning aircraft for cocaine",
+    "Loot the dead body nearby, including the flare gun",
+    "Kill any criminals who arrive and leave before the police show up",
+    "Take the drugs to Brian's Lockup to sell"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-ea74bf43",
+   "title": "Early jobs can be done in any order",
+   "body": "After the first proper mission, the next few jobs can be done in any order, which is why mission lists number them differently. One of them has you buy a longarm at Chuck's Tackle & Shot in Key Lento, which guides often still call Ammu-Nation. Another has you take the '70 Ganado to Coastal Auto Care for a free repair and respray.",
+   "category": "advice",
+   "spoiler": true,
+   "hint": "the order of the early story missions",
+   "unverified": false,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0oz4r"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-eb7b700d",
+   "title": "Sleep in bed to skip time",
+   "body": "Interact with the bed at home to sleep until a time of day you choose. The bed isn't usable in some situations.",
+   "category": "advice",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to your home",
+    "Interact with the bed",
+    "Pick the time of day to sleep until"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-fbb4c77b",
+   "title": "Install on internal SSD or expansion card",
+   "body": "On Xbox Series X/S the game only runs from the internal SSD or an official storage expansion card. An external USB drive can hold the files, but the whole game must be on the internal SSD or the card to play. The download is reported at 212GB, so free up space first, especially on a 512GB Series S.",
+   "category": "settings",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open Settings > Storage",
+    "Delete games and files you can live without, or move them to USB storage",
+    "Install the game on the internal SSD or expansion card"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
+  {
+   "id": "t-feec6326",
+   "title": "Undead Gauntlet in a Frogswater barn",
+   "body": "One player found a working Undead Gauntlet parked in a barn on a farm in Frogswater, near the border with Ambrosia. They could enter it and drive it away. It's not known whether it always spawns.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": true,
+   "steps": null,
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0nvpw"
+    }
+   ],
+   "first_seen": "2026-11-20T06:33:32Z",
+   "last_seen": "2026-11-20T06:33:32Z"
+  },
   {
    "id": "t-00c6deb4",
    "title": "Get your impounded car delivered",
@@ -81,7 +1831,12 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Grab a fishing rod from the back of your house",
+    "Head down to the water",
+    "Press L3 and R3 to highlight the fish",
+    "Cast your line near them"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
@@ -96,10 +1851,14 @@
     {
      "name": "Sportskeeda",
      "url": "https://www.sportskeeda.com/gta/best-gta-6-early-game-tips-know"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -111,17 +1870,27 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Buy a bandana at the gun shop",
+    "Enter a clothing shop and pick up a spare outfit",
+    "Talk to any shopper and use the provoke option so they leave",
+    "Knock out the clerk with a couple of melee hits",
+    "Grab the valuables from the register and around the shop"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -162,10 +1931,14 @@
     {
      "name": "Tech2Geek",
      "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": 3,
    "missable": false
   },
@@ -206,10 +1979,14 @@
     {
      "name": "YouTube: MrRoflWaffles",
      "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -250,10 +2027,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -420,10 +2201,14 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -490,10 +2275,14 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -512,10 +2301,18 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "Instagram: @redzyvorn",
+     "url": "https://www.instagram.com/reel/Df7Rl9ro7L0/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -564,10 +2361,14 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0fn57/ok_i_am_in_disbelief_right_now_very_minor/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -683,10 +2484,18 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -808,17 +2617,35 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Put 5k into the family saver in your bank, since it is kept",
+    "Don't spend money modding Jason's car, because you lose it",
+    "Spend leftover cash on weapons, clothes and tattoos, which carry over",
+    "Leave big robberies like gang places and drug locations until Chapter 2",
+    "Treat Lucia asking if you are ready to do Mattia's job, after the yacht party, as the point of no return"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
     {
      "name": "Tech2Geek",
      "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0sv2n"
+    },
+    {
+     "name": "Instagram: @sartheofficial",
+     "url": "https://www.instagram.com/reel/Df7yELZPuj-/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": 1,
    "missable": true
   },
@@ -944,17 +2771,25 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Open the map menu",
+    "Go to the relationship tab",
+    "Check Jason's and Lucia's Criminal Profiles"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
     {
      "name": "GamingBolt",
      "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    },
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1054,17 +2889,26 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Progress the story until you've met Mandy",
+    "Drive across the bridge to trigger the plane crash event",
+    "Follow the smoke to the wreckage",
+    "Collect the valuables and leave before enemies arrive"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
     {
      "name": "Polygon",
      "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1127,10 +2971,14 @@
     {
      "name": "Polygon",
      "url": "https://www.polygon.com/gta-6-grand-theft-auto-beginners-tips-tricks/"
+    },
+    {
+     "name": "Instagram: @rumpiiwhynot",
+     "url": "https://www.instagram.com/reel/Df5QtCACh-n/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1180,10 +3028,14 @@
     {
      "name": "Tech2Geek",
      "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1320,10 +3172,14 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1744,10 +3600,14 @@
     {
      "name": "PCMag",
      "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1828,7 +3688,7 @@
    "category": "glitches",
    "spoiler": false,
    "hint": null,
-   "unverified": true,
+   "unverified": false,
    "steps": [
     "Open settings, go to the controller section and set the touch pad button option to 2/2",
     "Get inside a car and open the phone",
@@ -1841,10 +3701,38 @@
     {
      "name": "r/GTA6",
      "url": "https://www.reddit.com/comments/1y0g6uo"
+    },
+    {
+     "name": "r/gtaglitches",
+     "url": "https://www.reddit.com/comments/1y0ude9"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0l6nz"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0ngcl"
+    },
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0lbqf"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0l2km"
+    },
+    {
+     "name": "Instagram: @imcambll",
+     "url": "https://www.instagram.com/reel/Df8CyFMPpUU/"
+    },
+    {
+     "name": "Instagram: @gta6intel",
+     "url": "https://www.instagram.com/reel/Df8HB4aqFn2/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1867,10 +3755,14 @@
     {
      "name": "GamingBolt",
      "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -1983,10 +3875,14 @@
     {
      "name": "Vice",
      "url": "https://www.vice.com/en/article/gta-6-how-to-make-money-fast/"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2005,10 +3901,14 @@
     {
      "name": "Instagram: @neonvicechaos",
      "url": "https://www.instagram.com/reel/Df59mlQI0Jm/"
+    },
+    {
+     "name": "Instagram: @playwithmuteeb",
+     "url": "https://www.instagram.com/reel/Df7TkdMANd3/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": 1,
    "missable": true
   },
@@ -2030,10 +3930,14 @@
     {
      "name": "Instagram: @neonvicechaos",
      "url": "https://www.instagram.com/reel/Df59mlQI0Jm/"
+    },
+    {
+     "name": "Instagram: @playwithmuteeb",
+     "url": "https://www.instagram.com/reel/Df7TkdMANd3/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": 1,
    "missable": true
   },
@@ -2175,10 +4079,14 @@
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2234,10 +4142,18 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0mr2c/game_is_very_good_after_the_first_hour_or_two/"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2325,10 +4241,14 @@
     {
      "name": "YouTube: NIXNE",
      "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0fzft/why_is_the_top_of_my_screen_so_dim_is_there_a/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2355,10 +4275,14 @@
     {
      "name": "Instagram: @igndotcom",
      "url": "https://www.instagram.com/reel/Df5xXWrmSz4/"
+    },
+    {
+     "name": "Instagram: @nobledylan_",
+     "url": "https://www.instagram.com/reel/Df8G35Kswve/"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2497,10 +4421,14 @@
     {
      "name": "Tech2Geek",
      "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2594,10 +4522,26 @@
     {
      "name": "Tech2Geek",
      "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    },
+    {
+     "name": "Instagram: @redzyvorn",
+     "url": "https://www.instagram.com/reel/Df7Rl9ro7L0/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2743,10 +4687,14 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/TqK7ac3yOl0"
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2889,10 +4837,14 @@
     {
      "name": "Instagram: @sliceofgaming97",
      "url": "https://www.instagram.com/reel/Df7q3Tbpv2N/"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://beebom.com/gta-6-best-money-spots/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2928,10 +4880,18 @@
     {
      "name": "YouTube: FlayHQ",
      "url": "https://www.youtube.com/shorts/EKhowBIybOU"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    },
+    {
+     "name": "Instagram: @redzyvorn",
+     "url": "https://www.instagram.com/reel/Df7Rl9ro7L0/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -2995,10 +4955,14 @@
     {
      "name": "Instagram: @oll_ms",
      "url": "https://www.instagram.com/reel/Df7JmxzKJzA/"
+    },
+    {
+     "name": "Instagram: @301reese_",
+     "url": "https://www.instagram.com/reel/Df7-MizSiAU/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3029,10 +4993,14 @@
     {
      "name": "Vice Manual",
      "url": "https://vicemanual.com/gta-6-settings"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/SuoedKji6uY"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3065,7 +5033,7 @@
    "category": "money",
    "spoiler": false,
    "hint": null,
-   "unverified": true,
+   "unverified": false,
    "steps": [
     "Rob the stores and stash the cash at home",
     "Go to any mission marker that starts a cutscene",
@@ -3079,10 +5047,14 @@
     {
      "name": "YouTube: Musty Sky",
      "url": "https://www.youtube.com/watch?v=UzFtMo_ZDAo"
+    },
+    {
+     "name": "Instagram: @oll_ms",
+     "url": "https://www.instagram.com/reel/Df7nDoNqN9h/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3225,10 +5197,14 @@
     {
      "name": "GTA6Map",
      "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-controller-settings"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df8EZInhtnh/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3313,10 +5289,14 @@
     {
      "name": "Instagram: @schlayerr",
      "url": "https://www.instagram.com/reel/Df7CUxbuos1/"
+    },
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0o1fm"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3344,10 +5324,14 @@
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3402,10 +5386,14 @@
     {
      "name": "YouTube: NIXNE",
      "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3603,10 +5591,14 @@
     {
      "name": "Instagram: @kod12yt_",
      "url": "https://www.instagram.com/reel/Df51n5FtxS1/"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3832,10 +5824,14 @@
     {
      "name": "Instagram: @sartheofficial",
      "url": "https://www.instagram.com/reel/Df7UMFCT7-V/"
+    },
+    {
+     "name": "Instagram: @gunsenburner",
+     "url": "https://www.instagram.com/reel/Df7y61dzaX8/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3870,10 +5866,14 @@
     {
      "name": "YouTube: MrRoflWaffles",
      "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3942,7 +5942,11 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Press pause",
+    "Go to Game",
+    "Select Save Game and pick a slot"
+   ],
    "steps_source": null,
    "enrich_tried": null,
    "sources": [
@@ -3953,10 +5957,18 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0sb02/psa_save_your_game/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -3984,10 +5996,14 @@
     {
      "name": "GamingBolt",
      "url": "https://gamingbolt.com/gta-6-15-tips-and-tricks-that-beginners-should-know"
+    },
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "chapter": null,
    "missable": false
   },
@@ -4251,10 +6267,14 @@
     {
      "name": "Game Rant",
      "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": {
     "name": "Game Rant",
     "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
@@ -4369,10 +6389,14 @@
     {
      "name": "Instagram: @lamartjr",
      "url": "https://www.instagram.com/reel/Df66Y7qRsTl/"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:03:55Z",
    "chapter": null,
@@ -4471,10 +6495,14 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/SuoedKji6uY"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:04:13Z",
    "chapter": null,
@@ -4589,15 +6617,28 @@
    "spoiler": false,
    "hint": null,
    "unverified": false,
-   "steps": null,
+   "steps": [
+    "Go to the back of any unoccupied police car",
+    "Interact with the boot to start the lockpicking minigame",
+    "Complete the minigame to open the stash",
+    "Take the weapons inside"
+   ],
    "sources": [
     {
      "name": "Instagram: @itssmro",
      "url": "https://www.instagram.com/reel/Df42gPYB2c9/"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    },
+    {
+     "name": "Instagram: @advursityy",
+     "url": "https://www.instagram.com/reel/Df6Cl3pBEtg/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:05:23Z",
    "chapter": null,
@@ -4637,10 +6678,18 @@
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=c3EZuDNC6Zc"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": {
     "name": "WikiGTAVI",
     "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
@@ -4827,10 +6876,14 @@
     {
      "name": "YouTube: NIXNE",
      "url": "https://www.youtube.com/shorts/_2UhpYno70E"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:06:16Z",
    "chapter": null,
@@ -4903,10 +6956,14 @@
     {
      "name": "YouTube: JoblessGarrett",
      "url": "https://www.youtube.com/watch?v=D_ViXEE1ClA"
+    },
+    {
+     "name": "YouTube: Arekkz Gaming",
+     "url": "https://www.youtube.com/watch?v=8xUEwCgqFMs"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T05:59:07Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": null,
    "chapter": null,
@@ -5083,7 +7140,7 @@
    "category": "exploration",
    "spoiler": false,
    "hint": null,
-   "unverified": true,
+   "unverified": false,
    "steps": [
     "Find the small buildings left of Pelican Valley",
     "Turn on the generator behind one",
@@ -5106,10 +7163,30 @@
     {
      "name": "Instagram: @sliceofgaming97",
      "url": "https://www.instagram.com/reel/Df6mx0DJCtI/"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
+    },
+    {
+     "name": "Instagram: @xaviergamingtv",
+     "url": "https://www.instagram.com/reel/Df7l8xChPVF/"
+    },
+    {
+     "name": "Instagram: @oll_ms",
+     "url": "https://www.instagram.com/reel/Df8AguVqQcS/"
+    },
+    {
+     "name": "YouTube: FlayHQ",
+     "url": "https://www.youtube.com/shorts/kGKdWPgWwMc"
+    },
+    {
+     "name": "Instagram: @gunsenburner",
+     "url": "https://www.instagram.com/reel/Df7-FqTzz7e/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-19T14:48:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps_source": null,
    "enrich_tried": null,
    "chapter": null,
@@ -5249,10 +7326,22 @@
     {
      "name": "YouTube: MrRoflWaffles",
      "url": "https://www.youtube.com/watch?v=C8ElimNgIHQ"
+    },
+    {
+     "name": "YouTube: JayWayyGaming",
+     "url": "https://www.youtube.com/shorts/T8FzQ5cW-94"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    },
+    {
+     "name": "YouTube: NorZZa",
+     "url": "https://www.youtube.com/shorts/SuoedKji6uY"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Open Options, then Settings, then Gameplay.",
     "Scroll to the bottom of the Gameplay list, to options 24 and 25.",
@@ -5527,10 +7616,22 @@
     {
      "name": "Instagram: @kod12yt_",
      "url": "https://www.instagram.com/reel/Df51qilN4Wz/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1y0syzq/this_is_not_a_complaint_post_but_is_anyone_else/"
+    },
+    {
+     "name": "Instagram: @thepatmanstudios",
+     "url": "https://www.instagram.com/reel/Df60FrWPhdi/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Press Options.",
     "Select Settings.",
@@ -5557,10 +7658,14 @@
     {
      "name": "Push Square",
      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-19T00:46:10Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Set a waypoint, either in the RydeMe app or on the map with the Touch Pad.",
     "Press Up to bring up your smartphone and select RydeMe.",
@@ -5936,10 +8041,14 @@
     {
      "name": "Clarin",
      "url": "https://www.clarin.com/us-news/all-gta-6-missions-story-guide-chapter-list-and-complete-walkthrough_0_38Dz0A4hTR.html"
+    },
+    {
+     "name": "Instagram: @redzyvorn",
+     "url": "https://www.instagram.com/reel/Df7Rl9ro7L0/"
     }
    ],
    "first_seen": "2026-11-18T20:26:31Z",
-   "last_seen": "2026-11-18T20:26:31Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T09:00:23Z",
@@ -6158,11 +8267,19 @@
     {
      "name": "r/GTA",
      "url": "https://www.reddit.com/comments/1y00ge4"
+    },
+    {
+     "name": "r/GTA",
+     "url": "https://www.reddit.com/comments/1y0jqej"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T05:59:07Z",
-   "steps": null,
+   "last_seen": "2026-11-20T06:33:32Z",
+   "steps": [
+    "Turn off VRR",
+    "Set the console output to 120Hz (best on Xbox Series X)",
+    "Set the TV's Motion Smoothing to High, or adjust it under Custom"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:55:46Z",
    "chapter": null,
@@ -6218,10 +8335,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Visit an Ammu-Nation store in Leonida; silencers are sold there from the start of the game.",
     "Buy a silencer.",
@@ -6266,10 +8387,18 @@
     {
      "name": "YouTube: BennyCentral",
      "url": "https://www.youtube.com/watch?v=zzJrBYsV39Y"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
+    },
+    {
+     "name": "Instagram: @kod12yt_",
+     "url": "https://www.instagram.com/reel/Df8EZInhtnh/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Set a destination",
     "Switch to the cinematic camera",
@@ -6308,10 +8437,18 @@
     {
      "name": "Beebom",
      "url": "https://beebom.com/gta-6-tips-and-tricks/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
+    },
+    {
+     "name": "r/GTA6",
+     "url": "https://www.reddit.com/comments/1y0orva"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:56:04Z",
@@ -6520,10 +8657,14 @@
     {
      "name": "ABP Live",
      "url": "https://news.abplive.com/gaming/gta-6-cheat-codes-ps5-xbox-how-to-unlock-infinite-ammo-zero-fall-damage-more-1876612"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-19T18:09:09Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": null,
@@ -6780,10 +8921,14 @@
     {
      "name": "PCMag",
      "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Press up on the D-pad to open your phone",
     "Open the Wink app and point it at the car",
@@ -6839,10 +8984,14 @@
     {
      "name": "WindowsForum",
      "url": "https://windowsforum.com/news/gta-6-console-performance-compared-ps5-pro-holds-30-fps-xbox-series-s-struggles.453173/"
+    },
+    {
+     "name": "Gizmodo",
+     "url": "https://gizmodo.com/gta-vi-ps5-xbox-series-x-comparison-2000842565"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:27Z",
@@ -6869,11 +9018,21 @@
     {
      "name": "PCMag",
      "url": "https://www.pcmag.com/explainers/ive-been-playing-gta-6-for-weeks-these-12-tips-will-help-you-become-the"
+    },
+    {
+     "name": "YouTube: JorRaptor",
+     "url": "https://www.youtube.com/watch?v=tRZu-sjvyHA"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
-   "steps": null,
+   "last_seen": "2026-11-20T06:33:32Z",
+   "steps": [
+    "Feed the snake after waking up for a focus boost",
+    "Drink a protein shake from the fridge for a health and stamina buff",
+    "Drink a coffee for a focus and stamina buff",
+    "Do squats, deadlifts and bench presses",
+    "Punch the punching bag until cardio is done or it gives no more benefit"
+   ],
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:27Z",
    "chapter": null,
@@ -6935,10 +9094,18 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "The Game Haus",
+     "url": "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-20T03:06:10Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": [
     "Wear a mask, then change your hairstyle to mix up your look",
     "Keep spare outfits in a trunk and change quickly",
@@ -6963,10 +9130,14 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
+    },
+    {
+     "name": "YouTube: MrRoflWaffles",
+     "url": "https://www.youtube.com/watch?v=cZVMq2dc9Ag"
     }
    ],
    "first_seen": "2026-11-18T19:06:00Z",
-   "last_seen": "2026-11-18T19:06:00Z",
+   "last_seen": "2026-11-20T06:33:32Z",
    "steps": null,
    "steps_source": null,
    "enrich_tried": "2026-11-19T08:58:58Z",
