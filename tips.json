@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:06:10Z",
+ "updated": "2026-11-20T06:07:02Z",
  "tips": [
   {
    "id": "t-00c6deb4",
@@ -22,7 +22,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-00cac437",
@@ -45,7 +47,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0130a8c2",
@@ -65,7 +69,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0403cfb5",
@@ -93,7 +99,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0c6d4248",
@@ -113,7 +121,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0f91f5aa",
@@ -133,7 +143,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0ffe7990",
@@ -153,7 +165,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": 3,
+   "missable": false
   },
   {
    "id": "t-102eeece",
@@ -173,7 +187,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-10fb03a7",
@@ -193,7 +209,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-12819806",
@@ -213,7 +231,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-14314338",
@@ -233,7 +253,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-17879765",
@@ -253,7 +275,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-17ae4b6e",
@@ -273,7 +297,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-17b84e11",
@@ -297,7 +323,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1c02a123",
@@ -317,7 +345,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1e3fe537",
@@ -341,7 +371,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-211b0b15",
@@ -361,7 +393,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-279d8a85",
@@ -389,7 +423,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-27a2b08e",
@@ -409,7 +445,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-30cd37dd",
@@ -429,7 +467,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-398ee769",
@@ -453,7 +493,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-39b68fb6",
@@ -473,7 +515,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3a70c1ae",
@@ -501,7 +545,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3be6c482",
@@ -521,7 +567,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3c843329",
@@ -541,7 +589,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-40f6917d",
@@ -561,7 +611,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-43a84577",
@@ -585,7 +637,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4605a5a6",
@@ -610,7 +664,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-477277a8",
@@ -630,7 +686,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4978785f",
@@ -650,7 +708,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4cda6885",
@@ -670,7 +730,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4e4ad98d",
@@ -690,7 +752,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4ff8259c",
@@ -710,7 +774,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-539f4157",
@@ -730,7 +796,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-53ad5bd9",
@@ -750,7 +818,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": 1,
+   "missable": true
   },
   {
    "id": "t-55ca2df9",
@@ -770,7 +840,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-677e9e23",
@@ -790,7 +862,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-69ebce70",
@@ -814,7 +888,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-6c392d55",
@@ -834,7 +910,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-6d241193",
@@ -854,7 +932,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-714852c6",
@@ -874,7 +954,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-7fcccb6d",
@@ -894,7 +976,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-81098df7",
@@ -914,7 +998,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-813e7353",
@@ -934,7 +1020,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": 3,
+   "missable": false
   },
   {
    "id": "t-81b990a6",
@@ -954,7 +1042,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8710e84d",
@@ -974,7 +1064,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-897b1ad7",
@@ -994,7 +1086,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8ae5b828",
@@ -1014,7 +1108,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8b7b29ce",
@@ -1034,7 +1130,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8ebe69a0",
@@ -1054,7 +1152,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-93b478dc",
@@ -1083,7 +1183,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-9c537499",
@@ -1107,7 +1209,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a9dac9b9",
@@ -1127,7 +1231,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-ba055fb6",
@@ -1147,7 +1253,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c07f1502",
@@ -1167,7 +1275,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c0f32469",
@@ -1187,7 +1297,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c1878ef8",
@@ -1211,7 +1323,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c18b8fe0",
@@ -1231,7 +1345,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": 3,
+   "missable": false
   },
   {
    "id": "t-c1f34227",
@@ -1255,7 +1371,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-cd215f5d",
@@ -1275,7 +1393,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-cd70c95a",
@@ -1299,7 +1419,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-cfda761e",
@@ -1319,7 +1441,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d41aa575",
@@ -1339,7 +1463,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d73ff2ec",
@@ -1364,7 +1490,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d9aa8dfc",
@@ -1387,7 +1515,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d9fdf24d",
@@ -1411,7 +1541,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e03fb84d",
@@ -1431,7 +1563,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e2ef036d",
@@ -1455,7 +1589,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e3c53958",
@@ -1475,7 +1611,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f0aeb98e",
@@ -1495,7 +1633,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f50d9e42",
@@ -1515,7 +1655,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f521b267",
@@ -1535,7 +1677,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f5a0c607",
@@ -1559,7 +1703,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fa16119e",
@@ -1579,7 +1725,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fb3932a3",
@@ -1599,7 +1747,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fc322725",
@@ -1619,7 +1769,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fef16a79",
@@ -1639,7 +1791,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-ff1c4d73",
@@ -1663,7 +1817,9 @@
     }
    ],
    "first_seen": "2026-11-20T03:06:10Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-013ecb00",
@@ -1688,7 +1844,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-0919b1cc",
@@ -1712,7 +1870,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1dbf6b2d",
@@ -1732,7 +1892,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-21107380",
@@ -1756,7 +1918,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": 1,
+   "missable": true
   },
   {
    "id": "t-2b983100",
@@ -1784,7 +1948,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-2e79b3ce",
@@ -1820,7 +1986,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-319a6ae8",
@@ -1840,7 +2008,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": 1,
+   "missable": true
   },
   {
    "id": "t-413cfc5d",
@@ -1863,7 +2033,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": 1,
+   "missable": true
   },
   {
    "id": "t-4814adab",
@@ -1887,7 +2059,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4d27ead6",
@@ -1920,7 +2094,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-5534a374",
@@ -1948,7 +2124,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-5d9936fe",
@@ -1973,7 +2151,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-74f706d0",
@@ -1998,7 +2178,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-7a39d43d",
@@ -2025,7 +2207,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-7a9f72b6",
@@ -2053,7 +2237,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-847082ca",
@@ -2093,7 +2279,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8659d2bb",
@@ -2118,7 +2306,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8976f7f3",
@@ -2138,7 +2328,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-89cb3773",
@@ -2166,7 +2358,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8dee9956",
@@ -2194,7 +2388,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-96afdf4c",
@@ -2214,7 +2410,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-98f33b22",
@@ -2243,7 +2441,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-9a50a170",
@@ -2270,7 +2470,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-9aa20c15",
@@ -2298,7 +2500,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a59b4d5d",
@@ -2323,7 +2527,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-ac88879c",
@@ -2343,7 +2549,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-aec7ff7e",
@@ -2389,7 +2597,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-af463d31",
@@ -2413,7 +2623,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b5a01dd1",
@@ -2438,7 +2650,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": 2,
+   "missable": false
   },
   {
    "id": "t-bb19050a",
@@ -2458,7 +2672,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-bc429542",
@@ -2478,7 +2694,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c420f050",
@@ -2498,7 +2716,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c5041a54",
@@ -2526,7 +2746,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-cd2ec070",
@@ -2550,7 +2772,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e0d7b16f",
@@ -2574,7 +2798,9 @@
     }
    ],
    "first_seen": "2026-11-19T18:09:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-063b5d57",
@@ -2594,7 +2820,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-07b22b15",
@@ -2631,7 +2859,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1546830a",
@@ -2662,7 +2892,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-19185982",
@@ -2699,7 +2931,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-299c1759",
@@ -2735,7 +2969,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-31a7dc63",
@@ -2762,7 +2998,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3377766a",
@@ -2794,7 +3032,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-33cdf2db",
@@ -2814,7 +3054,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-34a922ff",
@@ -2840,7 +3082,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-37c3a14e",
@@ -2869,7 +3113,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3f0ee5e8",
@@ -2897,7 +3143,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-540c3f84",
@@ -2917,7 +3165,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-5758152b",
@@ -2942,7 +3192,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-582065b9",
@@ -2976,7 +3228,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-6776a1be",
@@ -3003,7 +3257,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-712f111a",
@@ -3027,7 +3283,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-71e41911",
@@ -3058,7 +3316,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-769f6dc0",
@@ -3087,7 +3347,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-867b488a",
@@ -3112,7 +3374,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8cb0ccf3",
@@ -3141,7 +3405,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8cb8c433",
@@ -3164,7 +3430,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-957d09fd",
@@ -3203,7 +3471,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-988800aa",
@@ -3233,7 +3503,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-9a2575b7",
@@ -3266,7 +3538,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-9dac532f",
@@ -3304,7 +3578,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-adf697f4",
@@ -3330,7 +3606,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b7eaf73d",
@@ -3366,7 +3644,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-bba3c633",
@@ -3390,7 +3670,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": 2,
+   "missable": false
   },
   {
    "id": "t-d5ea2c9e",
@@ -3414,7 +3696,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d79f6e62",
@@ -3440,7 +3724,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d7dc2830",
@@ -3467,7 +3753,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-db7e343d",
@@ -3487,7 +3775,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T14:48:09Z"
+   "last_seen": "2026-11-19T14:48:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-ef59dfcc",
@@ -3511,7 +3801,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-eff277a9",
@@ -3543,7 +3835,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-19T18:09:09Z"
+   "last_seen": "2026-11-19T18:09:09Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f17a6476",
@@ -3579,7 +3873,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f4cf2043",
@@ -3607,7 +3903,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f58136a3",
@@ -3632,7 +3930,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f6a0c875",
@@ -3656,7 +3956,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f6c5a43c",
@@ -3685,7 +3987,9 @@
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-20T03:06:10Z"
+   "last_seen": "2026-11-20T03:06:10Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a54d298a",
@@ -3712,7 +4016,9 @@
    "first_seen": "2026-11-19T07:42:25Z",
    "last_seen": "2026-11-19T07:42:25Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-03e7281e",
@@ -3736,7 +4042,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-14ef646c",
@@ -3775,7 +4083,9 @@
     "name": "GTA6Map",
     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-display-settings"
    },
-   "enrich_tried": "2026-11-19T09:02:26Z"
+   "enrich_tried": "2026-11-19T09:02:26Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1592b09d",
@@ -3795,7 +4105,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:02:26Z"
+   "enrich_tried": "2026-11-19T09:02:26Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-1d63216b",
@@ -3826,7 +4138,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-238f1ea5",
@@ -3850,7 +4164,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:03:01Z"
+   "enrich_tried": "2026-11-19T09:03:01Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-2f0f1f26",
@@ -3870,7 +4186,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-35447dd8",
@@ -3902,7 +4220,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:03:01Z"
+   "enrich_tried": "2026-11-19T09:03:01Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3556df2e",
@@ -3939,7 +4259,9 @@
     "name": "Game Rant",
     "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
    },
-   "enrich_tried": "2026-11-19T09:03:01Z"
+   "enrich_tried": "2026-11-19T09:03:01Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3d69227e",
@@ -3975,7 +4297,9 @@
     "name": "GTA6Map",
     "url": "https://www.gta6map.net/wiki/gta-6/guides/gta-6-gameplay-settings"
    },
-   "enrich_tried": "2026-11-19T09:03:55Z"
+   "enrich_tried": "2026-11-19T09:03:55Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4395108a",
@@ -4017,7 +4341,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T18:09:09Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:03:55Z"
+   "enrich_tried": "2026-11-19T09:03:55Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4ce259bc",
@@ -4048,7 +4374,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:03:55Z"
+   "enrich_tried": "2026-11-19T09:03:55Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-52cf2bb8",
@@ -4080,7 +4408,9 @@
     "name": "SlashGear",
     "url": "https://www.slashgear.com/2321305/gta-6-how-to-play-game-early-console-trick/"
    },
-   "enrich_tried": "2026-11-19T09:04:13Z"
+   "enrich_tried": "2026-11-19T09:04:13Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-5f658a73",
@@ -4100,7 +4430,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:04:13Z"
+   "enrich_tried": "2026-11-19T09:04:13Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-61cfc984",
@@ -4144,7 +4476,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:04:13Z"
+   "enrich_tried": "2026-11-19T09:04:13Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-630d4239",
@@ -4181,7 +4515,9 @@
     "name": "allthings.how",
     "url": "https://allthings.how/gta-6-mute-licensed-music-streaming/"
    },
-   "enrich_tried": "2026-11-19T09:04:39Z"
+   "enrich_tried": "2026-11-19T09:04:39Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-6793af40",
@@ -4219,7 +4555,9 @@
     "name": "Beebom",
     "url": "https://beebom.com/gta-6-best-tv-settings/"
    },
-   "enrich_tried": "2026-11-19T09:04:39Z"
+   "enrich_tried": "2026-11-19T09:04:39Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-7c33f1e9",
@@ -4239,7 +4577,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:04:39Z"
+   "enrich_tried": "2026-11-19T09:04:39Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-880c5d09",
@@ -4259,7 +4599,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:05:23Z"
+   "enrich_tried": "2026-11-19T09:05:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-897a3ca7",
@@ -4303,7 +4645,9 @@
     "name": "WikiGTAVI",
     "url": "https://www.wikigtavi.com/guides/gta-6-robbery-system"
    },
-   "enrich_tried": "2026-11-19T09:05:23Z"
+   "enrich_tried": "2026-11-19T09:05:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-92a6f50f",
@@ -4349,7 +4693,9 @@
     "name": "GameRiv",
     "url": "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/"
    },
-   "enrich_tried": "2026-11-19T09:05:23Z"
+   "enrich_tried": "2026-11-19T09:05:23Z",
+   "chapter": 1,
+   "missable": false
   },
   {
    "id": "t-98223496",
@@ -4369,7 +4715,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:05:46Z"
+   "enrich_tried": "2026-11-19T09:05:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-995ad989",
@@ -4402,7 +4750,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:05:46Z"
+   "enrich_tried": "2026-11-19T09:05:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a4b3b224",
@@ -4422,7 +4772,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:05:46Z"
+   "enrich_tried": "2026-11-19T09:05:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a77e110f",
@@ -4442,7 +4794,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:06:16Z"
+   "enrich_tried": "2026-11-19T09:06:16Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b398b08b",
@@ -4478,7 +4832,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:06:16Z"
+   "enrich_tried": "2026-11-19T09:06:16Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b5263b6c",
@@ -4498,7 +4854,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:06:16Z"
+   "enrich_tried": "2026-11-19T09:06:16Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-bf0814e4",
@@ -4518,7 +4876,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c2e72201",
@@ -4548,7 +4908,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c5214478",
@@ -4584,7 +4946,9 @@
     "name": "VGC",
     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/"
    },
-   "enrich_tried": "2026-11-19T09:06:42Z"
+   "enrich_tried": "2026-11-19T09:06:42Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-cf11ad31",
@@ -4604,7 +4968,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:06:42Z"
+   "enrich_tried": "2026-11-19T09:06:42Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-db6dcfa5",
@@ -4632,7 +4998,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:06:42Z"
+   "enrich_tried": "2026-11-19T09:06:42Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e2e0636b",
@@ -4660,7 +5028,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:07:23Z"
+   "enrich_tried": "2026-11-19T09:07:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e956d5d7",
@@ -4680,7 +5050,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:07:23Z"
+   "enrich_tried": "2026-11-19T09:07:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-ef233183",
@@ -4700,7 +5072,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T05:59:07Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f79fe465",
@@ -4737,7 +5111,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-19T14:48:09Z",
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f8b18bc1",
@@ -4781,7 +5157,9 @@
    "first_seen": "2026-11-19T05:59:07Z",
    "last_seen": "2026-11-20T03:06:10Z",
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:07:23Z"
+   "enrich_tried": "2026-11-19T09:07:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-33324fd1",
@@ -4809,7 +5187,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:03Z"
+   "enrich_tried": "2026-11-19T09:01:03Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3837e409",
@@ -4837,7 +5217,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:03Z"
+   "enrich_tried": "2026-11-19T09:01:03Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4561f0de",
@@ -4882,7 +5264,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:21Z"
+   "enrich_tried": "2026-11-19T09:01:21Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-5cbe5279",
@@ -4915,7 +5299,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:21Z"
+   "enrich_tried": "2026-11-19T09:01:21Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-662a4cb2",
@@ -4944,7 +5330,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:21Z"
+   "enrich_tried": "2026-11-19T09:01:21Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-7490733f",
@@ -4977,7 +5365,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:33Z"
+   "enrich_tried": "2026-11-19T09:01:33Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8748355d",
@@ -5001,7 +5391,9 @@
     "Hold it there to finish quicker and drive off"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:01:33Z"
+   "enrich_tried": "2026-11-19T09:01:33Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-bd916313",
@@ -5033,7 +5425,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:33Z"
+   "enrich_tried": "2026-11-19T09:01:33Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d03c2897",
@@ -5068,7 +5462,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:47Z"
+   "enrich_tried": "2026-11-19T09:01:47Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e158ead6",
@@ -5103,7 +5499,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:47Z"
+   "enrich_tried": "2026-11-19T09:01:47Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e932b369",
@@ -5143,7 +5541,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:01:47Z"
+   "enrich_tried": "2026-11-19T09:01:47Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fc2c9039",
@@ -5173,7 +5573,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T09:02:26Z"
+   "enrich_tried": "2026-11-19T09:02:26Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-063b69a7",
@@ -5206,7 +5608,9 @@
     "name": "The Big Lead",
     "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
    },
-   "enrich_tried": "2026-11-19T08:59:08Z"
+   "enrich_tried": "2026-11-19T08:59:08Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-07e0f55b",
@@ -5234,7 +5638,9 @@
     "name": "The Big Lead",
     "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
    },
-   "enrich_tried": "2026-11-19T08:59:24Z"
+   "enrich_tried": "2026-11-19T08:59:24Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-2ea103aa",
@@ -5263,7 +5669,9 @@
     "name": "Tech2Geek",
     "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
    },
-   "enrich_tried": "2026-11-19T08:59:24Z"
+   "enrich_tried": "2026-11-19T08:59:24Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-376699e5",
@@ -5293,7 +5701,9 @@
     "name": "Tech2Geek",
     "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
    },
-   "enrich_tried": "2026-11-19T08:59:24Z"
+   "enrich_tried": "2026-11-19T08:59:24Z",
+   "chapter": 2,
+   "missable": false
   },
   {
    "id": "t-3ad054b5",
@@ -5313,7 +5723,9 @@
    "last_seen": "2026-11-18T20:26:31Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:59:54Z"
+   "enrich_tried": "2026-11-19T08:59:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-3d49674d",
@@ -5333,7 +5745,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:59:54Z"
+   "enrich_tried": "2026-11-19T08:59:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-44cd97b3",
@@ -5363,7 +5777,9 @@
     "name": "The Big Lead",
     "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
    },
-   "enrich_tried": "2026-11-19T08:59:54Z"
+   "enrich_tried": "2026-11-19T08:59:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-6568fbd1",
@@ -5387,7 +5803,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:11Z"
+   "enrich_tried": "2026-11-19T09:00:11Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-88e437e1",
@@ -5420,7 +5838,9 @@
     "name": "Tech2Geek",
     "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
    },
-   "enrich_tried": "2026-11-19T09:00:11Z"
+   "enrich_tried": "2026-11-19T09:00:11Z",
+   "chapter": 4,
+   "missable": false
   },
   {
    "id": "t-bc2a8d5e",
@@ -5440,7 +5860,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:11Z"
+   "enrich_tried": "2026-11-19T09:00:11Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-d34b0264",
@@ -5468,7 +5890,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:23Z"
+   "enrich_tried": "2026-11-19T09:00:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e2d44710",
@@ -5496,7 +5920,9 @@
     "Follow it to the encounter"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:23Z"
+   "enrich_tried": "2026-11-19T09:00:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e3f01c13",
@@ -5516,7 +5942,9 @@
    "last_seen": "2026-11-18T20:26:31Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:23Z"
+   "enrich_tried": "2026-11-19T09:00:23Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e5cbcf04",
@@ -5543,7 +5971,9 @@
     "name": "The Big Lead",
     "url": "https://www.thebiglead.com/gta-6-tips-the-game-doesnt-tell-you/"
    },
-   "enrich_tried": "2026-11-19T09:00:45Z"
+   "enrich_tried": "2026-11-19T09:00:45Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f04b03b3",
@@ -5563,7 +5993,9 @@
    "last_seen": "2026-11-18T20:26:31Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:45Z"
+   "enrich_tried": "2026-11-19T09:00:45Z",
+   "chapter": 2,
+   "missable": false
   },
   {
    "id": "t-f1c308a3",
@@ -5587,7 +6019,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T09:00:45Z"
+   "enrich_tried": "2026-11-19T09:00:45Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fde6be74",
@@ -5618,7 +6052,9 @@
     "name": "Tech2Geek",
     "url": "https://www.tech2geek.net/how-to-make-money-fast-in-gta-6-best-methods-ranked/"
    },
-   "enrich_tried": "2026-11-19T09:01:03Z"
+   "enrich_tried": "2026-11-19T09:01:03Z",
+   "chapter": 3,
+   "missable": false
   },
   {
    "id": "t-5ad51e09",
@@ -5638,7 +6074,9 @@
    "last_seen": "2026-11-18T19:12:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-87b72878",
@@ -5666,7 +6104,9 @@
     "name": "Beebom",
     "url": "https://beebom.com/gta-6-pipework-mandy-rent-mission/"
    },
-   "enrich_tried": "2026-11-19T08:59:08Z"
+   "enrich_tried": "2026-11-19T08:59:08Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fbb81f58",
@@ -5690,7 +6130,9 @@
    "last_seen": "2026-11-18T20:26:31Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:59:08Z"
+   "enrich_tried": "2026-11-19T08:59:08Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-011182da",
@@ -5722,7 +6164,9 @@
    "last_seen": "2026-11-19T05:59:07Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:55:46Z"
+   "enrich_tried": "2026-11-19T08:55:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-15eb6efa",
@@ -5746,7 +6190,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:55:46Z"
+   "enrich_tried": "2026-11-19T08:55:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-16e25c64",
@@ -5788,7 +6234,9 @@
     "name": "Respec",
     "url": "https://www.respec.net/guide/313-gta6-tips-9-points-for-new-players"
    },
-   "enrich_tried": "2026-11-19T08:55:46Z"
+   "enrich_tried": "2026-11-19T08:55:46Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-23a071f4",
@@ -5828,7 +6276,9 @@
     "To allow more use, set auto drive to unrestricted in the gameplay section"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:04Z"
+   "enrich_tried": "2026-11-19T08:56:04Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-2d397c5c",
@@ -5864,7 +6314,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:04Z"
+   "enrich_tried": "2026-11-19T08:56:04Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-4731fb60",
@@ -5884,7 +6336,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-58991844",
@@ -5907,7 +6361,9 @@
     "Go inside and eat a protein bar or shake"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:04Z"
+   "enrich_tried": "2026-11-19T08:56:04Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-71d36ab3",
@@ -5948,7 +6404,9 @@
     "name": "allthings.how",
     "url": "https://allthings.how/gta-6-fast-travel-how-buses-trains-and-the-rydeme-app-work/"
    },
-   "enrich_tried": "2026-11-19T08:56:25Z"
+   "enrich_tried": "2026-11-19T08:56:25Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-781433c2",
@@ -5968,7 +6426,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:25Z"
+   "enrich_tried": "2026-11-19T08:56:25Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-83f1d92e",
@@ -6006,7 +6466,9 @@
     "name": "Push Square",
     "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
    },
-   "enrich_tried": "2026-11-19T08:56:25Z"
+   "enrich_tried": "2026-11-19T08:56:25Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-841411a9",
@@ -6034,7 +6496,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:54Z"
+   "enrich_tried": "2026-11-19T08:56:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-85934e11",
@@ -6062,7 +6526,9 @@
    "last_seen": "2026-11-19T18:09:09Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-88098d40",
@@ -6082,7 +6548,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-8cd275eb",
@@ -6102,7 +6570,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:54Z"
+   "enrich_tried": "2026-11-19T08:56:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a4e41651",
@@ -6130,7 +6600,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:56:54Z"
+   "enrich_tried": "2026-11-19T08:56:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a754d25d",
@@ -6157,7 +6629,9 @@
     "Press the button shown in the lower left corner to take zombix"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:19Z"
+   "enrich_tried": "2026-11-19T08:57:19Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-a8658122",
@@ -6177,7 +6651,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b1861958",
@@ -6201,7 +6677,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:19Z"
+   "enrich_tried": "2026-11-19T08:57:19Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-b9b79d32",
@@ -6221,7 +6699,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:19Z"
+   "enrich_tried": "2026-11-19T08:57:19Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c0c45fc2",
@@ -6241,7 +6721,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:54Z"
+   "enrich_tried": "2026-11-19T08:57:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c36f383d",
@@ -6274,7 +6756,9 @@
     "Stash the cash, change outfits and cruise past the cops watching the exit"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:54Z"
+   "enrich_tried": "2026-11-19T08:57:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c6f104a7",
@@ -6309,7 +6793,9 @@
     "Hold the right stick up until the car starts"
    ],
    "steps_source": null,
-   "enrich_tried": null
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-c8216934",
@@ -6333,7 +6819,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:57:54Z"
+   "enrich_tried": "2026-11-19T08:57:54Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-e0ef476c",
@@ -6357,7 +6845,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:58:27Z"
+   "enrich_tried": "2026-11-19T08:58:27Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-eaf5bac9",
@@ -6385,7 +6875,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:58:27Z"
+   "enrich_tried": "2026-11-19T08:58:27Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f701a10e",
@@ -6455,7 +6947,9 @@
     "Destroy CCTV at the crime scene, knowing the alarm will still go off eventually"
    ],
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:58:27Z"
+   "enrich_tried": "2026-11-19T08:58:27Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f7045a98",
@@ -6475,7 +6969,9 @@
    "last_seen": "2026-11-18T19:06:00Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:58:58Z"
+   "enrich_tried": "2026-11-19T08:58:58Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-f788e4b0",
@@ -6495,7 +6991,9 @@
    "last_seen": "2026-11-20T03:06:10Z",
    "steps": null,
    "steps_source": null,
-   "enrich_tried": "2026-11-19T08:58:58Z"
+   "enrich_tried": "2026-11-19T08:58:58Z",
+   "chapter": null,
+   "missable": false
   },
   {
    "id": "t-fc55e03c",
@@ -6527,7 +7025,9 @@
     "name": "Timesaver",
     "url": "https://timesaver.gg/blog/gta-6-server-status"
    },
-   "enrich_tried": "2026-11-19T08:58:58Z"
+   "enrich_tried": "2026-11-19T08:58:58Z",
+   "chapter": null,
+   "missable": false
   }
  ]
 }
