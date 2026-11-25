@@ -1,6 +1,140 @@
 {
- "updated": "2026-11-25T20:20:38Z",
+ "updated": "2026-11-25T20:50:49Z",
  "tips": [
+  {
+   "id": "t-895ae6da",
+   "title": "Legendary rifle and launcher behind a shop",
+   "body": "A shop on the map hides a fully kitted legendary rifle and a launcher in a locked back room. The front back door has people inside, so take them out or the police come. Go around to the other side, get in the forklift and use it to move boxes aside so you can enter the locked room from behind.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to the shop marked on the map and open the back door",
+    "Take out the people inside so the police don't come",
+    "Skip the locked room and walk around to the other side of the shop",
+    "Get in the forklift truck and use it to move the boxes out of the way",
+    "Enter the room from behind and take the legendary rifle and the launcher"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @ytlukeyy",
+     "url": "https://www.instagram.com/reel/Df98Htcu18-/"
+    }
+   ],
+   "first_seen": "2026-11-25T20:50:49Z",
+   "last_seen": "2026-11-25T20:50:49Z"
+  },
+  {
+   "id": "t-9a1d52eb",
+   "title": "Legendary M4 in a Takesa storage unit",
+   "body": "In Takesa, Visdale County, go around back to the storage unit and open it. Behind the toilet paper is a legendary M4 with a silencer and scope, plus free body armor. It's legendary, so you keep it after Chapter 1, and you can get it as early as Chapter 1.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Go to Takesa in Visdale County on the map",
+    "Walk around back to the storage unit",
+    "Open the storage unit",
+    "Grab the body armor and the legendary M4 behind the toilet paper"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @gunsenburner",
+     "url": "https://www.instagram.com/reel/DgI0jGIT_MW/"
+    }
+   ],
+   "first_seen": "2026-11-25T20:50:49Z",
+   "last_seen": "2026-11-25T20:50:49Z"
+  },
+  {
+   "id": "t-c06ed21a",
+   "title": "GL40 grenade launcher and frags in same unit",
+   "body": "The same Takesa storage unit holds a GL40 Grenade Launcher next to the M4. Open the box there to get frag grenades.",
+   "category": "combat",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the Takesa storage unit",
+    "Take the GL40 Grenade Launcher next to the M4",
+    "Open the box beside it to get frag grenades"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @gunsenburner",
+     "url": "https://www.instagram.com/reel/DgI0jGIT_MW/"
+    }
+   ],
+   "first_seen": "2026-11-25T20:50:49Z",
+   "last_seen": "2026-11-25T20:50:49Z"
+  },
+  {
+   "id": "t-c6bab36c",
+   "title": "Storage unit safe with cash and baseball card",
+   "body": "The safe in the Takesa storage unit gives extra cash and a collectible baseball card. The card can be sold for more cash.",
+   "category": "money",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Open the safe inside the Takesa storage unit",
+    "Take the cash and the collectible baseball card",
+    "Sell the baseball card for extra cash"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": null,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @gunsenburner",
+     "url": "https://www.instagram.com/reel/DgI0jGIT_MW/"
+    }
+   ],
+   "first_seen": "2026-11-25T20:50:49Z",
+   "last_seen": "2026-11-25T20:50:49Z"
+  },
+  {
+   "id": "t-d588efa2",
+   "title": "Kingfisher W22 at the fishing shack",
+   "body": "The Kingfisher's fishing shack in Wetman Bay, northwest of Key Lento, holds a free Kingfisher W22 silenced rifle. The shack is heavily guarded, so be ready to fight first. Once the enemies are down, go into the large shack on the dock and open the case.",
+   "category": "exploration",
+   "spoiler": false,
+   "hint": null,
+   "unverified": false,
+   "steps": [
+    "Head to the Kingfisher's fishing shack in Wetman Bay, northwest of Key Lento",
+    "Clear out the enemies guarding it",
+    "Enter the large shack on the dock",
+    "Open the case to take the Kingfisher W22"
+   ],
+   "steps_source": null,
+   "enrich_tried": null,
+   "chapter": 1,
+   "missable": false,
+   "sources": [
+    {
+     "name": "Instagram: @biggysweatsgaming",
+     "url": "https://www.instagram.com/reel/Df8odf7MR7d/"
+    }
+   ],
+   "first_seen": "2026-11-25T20:50:49Z",
+   "last_seen": "2026-11-25T20:50:49Z"
+  },
   {
    "id": "t-02a521e6",
    "title": "Phone and fire tower lead to a UFO site",
@@ -660,10 +794,14 @@
     {
      "name": "YouTube: FlayHQ",
      "url": "https://www.youtube.com/shorts/jxewlXnCwxA"
+    },
+    {
+     "name": "Instagram: @oll_ms",
+     "url": "https://www.instagram.com/reel/DgBWgObqyR_/"
     }
    ],
    "first_seen": "2026-11-25T20:20:38Z",
-   "last_seen": "2026-11-25T20:20:38Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-6217ac6e",
@@ -1697,10 +1835,14 @@
     {
      "name": "YouTube: FlayHQ",
      "url": "https://www.youtube.com/shorts/jxewlXnCwxA"
+    },
+    {
+     "name": "Instagram: @oll_ms",
+     "url": "https://www.instagram.com/reel/DgBWgObqyR_/"
     }
    ],
    "first_seen": "2026-11-25T20:20:38Z",
-   "last_seen": "2026-11-25T20:20:38Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-e0d54303",
@@ -3122,7 +3264,7 @@
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-21T05:38:51Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-13680c36",
@@ -3239,10 +3381,14 @@
     {
      "name": "Instagram: @diez.gg",
      "url": "https://www.instagram.com/reel/Df96UZjqHDy/"
+    },
+    {
+     "name": "Instagram: @kadoheu",
+     "url": "https://www.instagram.com/reel/Df9vWKtscb6/"
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-21T05:38:51Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-2e3bf906",
@@ -3558,7 +3704,7 @@
     "url": "https://gamerant.com/gta-6-how-get-silenced-pistol-assassin-nipper-38-unique-legendary-weapon/"
    },
    "enrich_tried": "2026-11-21T05:38:51Z",
-   "chapter": null,
+   "chapter": 1,
    "missable": false,
    "sources": [
     {
@@ -3572,10 +3718,18 @@
     {
      "name": "Game Rant",
      "url": "https://gamerant.com/gta-6-how-get-silenced-pistol-assassin-nipper-38-unique-legendary-weapon/"
+    },
+    {
+     "name": "Instagram: @biggysweatsgaming",
+     "url": "https://www.instagram.com/reel/Df8odf7MR7d/"
+    },
+    {
+     "name": "Instagram: @sartheofficial",
+     "url": "https://www.instagram.com/reel/Df7UMFCT7-V/"
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-21T05:38:51Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-49ce309e",
@@ -4209,10 +4363,14 @@
     {
      "name": "YouTube: Boomstick Gaming",
      "url": "https://www.youtube.com/watch?v=2YDVVFc4VgY"
+    },
+    {
+     "name": "Instagram: @nexiph",
+     "url": "https://www.instagram.com/reel/Df8r5nIxO1c/"
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-21T05:38:51Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-99c0f6f7",
@@ -4462,10 +4620,14 @@
     {
      "name": "YouTube: JoeyRahmz",
      "url": "https://www.youtube.com/shorts/f_wa9SEpvos"
+    },
+    {
+     "name": "Instagram: @gta6vtx",
+     "url": "https://www.instagram.com/reel/Df7tIttyjqP/"
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-21T10:08:55Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-c0e4dc3d",
@@ -5117,7 +5279,7 @@
     }
    ],
    "first_seen": "2026-11-21T05:38:51Z",
-   "last_seen": "2026-11-25T20:20:38Z"
+   "last_seen": "2026-11-25T20:50:49Z"
   },
   {
    "id": "t-f8f19f8a",
@@ -10538,10 +10700,14 @@
     {
      "name": "Instagram: @diez.gg",
      "url": "https://www.instagram.com/reel/Df9omtRR6xu/"
+    },
+    {
+     "name": "Instagram: @grimzvx",
+     "url": "https://www.instagram.com/reel/Df7vg39IiUG/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-21T10:08:55Z",
+   "last_seen": "2026-11-25T20:50:49Z",
    "chapter": null,
    "missable": false
   },
@@ -11475,11 +11641,15 @@
     {
      "name": "Eurogamer",
      "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice"
+    },
+    {
+     "name": "Instagram: @biggysweatsgaming",
+     "url": "https://www.instagram.com/reel/Df8odf7MR7d/"
     }
    ],
    "first_seen": "2026-11-19T14:48:09Z",
-   "last_seen": "2026-11-21T10:08:55Z",
-   "chapter": null,
+   "last_seen": "2026-11-25T20:50:49Z",
+   "chapter": 1,
    "missable": false
   },
   {
@@ -11970,10 +12140,14 @@
     {
      "name": "YouTube: Arekkz Gaming",
      "url": "https://www.youtube.com/watch?v=OFC1ZVSjB3o"
+    },
+    {
+     "name": "Instagram: @typicalgamer",
+     "url": "https://www.instagram.com/reel/Df8DsVDTMKn/"
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-25T20:20:38Z",
+   "last_seen": "2026-11-25T20:50:49Z",
    "steps_source": {
     "name": "Game Rant",
     "url": "https://gamerant.com/gta-6-fix-car-engine-how-free/"
@@ -12961,7 +13135,7 @@
     }
    ],
    "first_seen": "2026-11-19T05:59:07Z",
-   "last_seen": "2026-11-21T05:38:51Z",
+   "last_seen": "2026-11-25T20:50:49Z",
    "steps_source": null,
    "enrich_tried": null,
    "chapter": null,
